@@ -1,8 +1,893 @@
-{"w":"resilient","m":"bounces back quickly","e":"The little shop survived it all."}
-{"w":"diligent","m":"steady, careful effort","e":"Five words a day, every day."}
-{"w":"curious","m":"eager to learn","e":"One more question before sleep."}
-{"w":"apple","m":"a round red fruit","e":"She ate an apple at lunch.","a":"apple.png"}
-{"w":"vivid","m":"strikingly clear","e":"The blue sea left a vivid memory."}
-{"w":"frugal","m":"careful with resources","e":"A frugal maker saves every scrap."}
-{"w":"serene","m":"calm and peaceful","e":"The workshop was serene at dawn."}
-{"w":"profound","m":"deep and thoughtful","e":"Simple words carry deep ideas."}
+{"w":"pencil","m":"연필","a":"w_pencil.png"}
+{"w":"eraser","m":"지우개","a":"w_eraser.png"}
+{"w":"ruler","m":"자","a":"w_ruler.png"}
+{"w":"crayon box","m":"크레용","a":"w_crayon_box.png"}
+{"w":"glue stick","m":"풀","a":"w_glue_stick.png"}
+{"w":"scissors","m":"가위","a":"w_scissors.png"}
+{"w":"backpack","m":"가방","a":"w_backpack.png"}
+{"w":"notebook","m":"공책","a":"w_notebook.png"}
+{"w":"book","m":"책","a":"w_book.png"}
+{"w":"desk","m":"책상","a":"w_desk.png"}
+{"w":"chair","m":"의자","a":"w_chair.png"}
+{"w":"blackboard","m":"칠판","a":"w_blackboard.png"}
+{"w":"chalk","m":"분필","a":"w_chalk.png"}
+{"w":"marker","m":"마커","a":"w_marker.png"}
+{"w":"paintbrush","m":"붓","a":"w_paintbrush.png"}
+{"w":"palette","m":"팔레트","a":"w_palette.png"}
+{"w":"stapler","m":"스테이플러","a":"w_stapler.png"}
+{"w":"paperclip","m":"클립","a":"w_paperclip.png"}
+{"w":"calculator","m":"계산기","a":"w_calculator.png"}
+{"w":"clock","m":"시계","a":"w_clock.png"}
+{"w":"lunchbox","m":"도시락","a":"w_lunchbox.png"}
+{"w":"water bottle","m":"물병","a":"w_water_bottle.png"}
+{"w":"globe","m":"지구본","a":"w_globe.png"}
+{"w":"map","m":"지도","a":"w_map.png"}
+{"w":"magnifying glass","m":"돋보기","a":"w_magnifying_glass.png"}
+{"w":"bell","m":"종","a":"w_bell.png"}
+{"w":"calendar","m":"달력","a":"w_calendar.png"}
+{"w":"folder","m":"폴더","a":"w_folder.png"}
+{"w":"paper","m":"종이","a":"w_paper.png"}
+{"w":"tape","m":"테이프","a":"w_tape.png"}
+{"w":"pencil case","m":"필통","a":"w_pencil_case.png"}
+{"w":"sharpener","m":"연필깎이","a":"w_sharpener.png"}
+{"w":"highlighter","m":"형광펜","a":"w_highlighter.png"}
+{"w":"pen","m":"펜","a":"w_pen.png"}
+{"w":"whiteboard","m":"화이트보드","a":"w_whiteboard.png"}
+{"w":"computer","m":"컴퓨터","a":"w_computer.png"}
+{"w":"tablet","m":"태블릿","a":"w_tablet.png"}
+{"w":"headphones","m":"헤드폰","a":"w_headphones.png"}
+{"w":"trophy","m":"트로피","a":"w_trophy.png"}
+{"w":"medal","m":"메달","a":"w_medal.png"}
+{"w":"star sticker","m":"별스티커","a":"w_star_sticker.png"}
+{"w":"puzzle piece","m":"퍼즐","a":"w_puzzle_piece.png"}
+{"w":"building block","m":"블록","a":"w_building_block.png"}
+{"w":"ball","m":"공","a":"w_ball.png"}
+{"w":"kite","m":"연","a":"w_kite.png"}
+{"w":"umbrella","m":"우산","a":"w_umbrella.png"}
+{"w":"rain boots","m":"장화","a":"w_rain_boots.png"}
+{"w":"hat","m":"모자","a":"w_hat.png"}
+{"w":"shoe","m":"신발","a":"w_shoe.png"}
+{"w":"socks","m":"양말","a":"w_socks.png"}
+{"w":"apple","m":"사과","a":"w_apple.png"}
+{"w":"banana","m":"바나나","a":"w_banana.png"}
+{"w":"orange","m":"오렌지","a":"w_orange.png"}
+{"w":"strawberry","m":"딸기","a":"w_strawberry.png"}
+{"w":"grapes","m":"포도","a":"w_grapes.png"}
+{"w":"watermelon","m":"수박","a":"w_watermelon.png"}
+{"w":"pear","m":"배","a":"w_pear.png"}
+{"w":"peach","m":"복숭아","a":"w_peach.png"}
+{"w":"pineapple","m":"파인애플","a":"w_pineapple.png"}
+{"w":"cherries","m":"체리","a":"w_cherries.png"}
+{"w":"carrot","m":"당근","a":"w_carrot.png"}
+{"w":"tomato","m":"토마토","a":"w_tomato.png"}
+{"w":"cucumber","m":"오이","a":"w_cucumber.png"}
+{"w":"pumpkin","m":"호박","a":"w_pumpkin.png"}
+{"w":"corn","m":"옥수수","a":"w_corn.png"}
+{"w":"broccoli","m":"브로콜리","a":"w_broccoli.png"}
+{"w":"mushroom","m":"버섯","a":"w_mushroom.png"}
+{"w":"potato","m":"감자","a":"w_potato.png"}
+{"w":"onion","m":"양파","a":"w_onion.png"}
+{"w":"eggplant","m":"가지","a":"w_eggplant.png"}
+{"w":"bed","m":"침대","a":"w_bed.png"}
+{"w":"pillow","m":"베개","a":"w_pillow.png"}
+{"w":"blanket","m":"담요","a":"w_blanket.png"}
+{"w":"lamp","m":"램프","a":"w_lamp.png"}
+{"w":"sofa","m":"소파","a":"w_sofa.png"}
+{"w":"armchair","m":"안락의자","a":"w_armchair.png"}
+{"w":"bookshelf","m":"책장","a":"w_bookshelf.png"}
+{"w":"dresser","m":"서랍장","a":"w_dresser.png"}
+{"w":"mirror","m":"거울","a":"w_mirror.png"}
+{"w":"window","m":"창문","a":"w_window.png"}
+{"w":"door","m":"문","a":"w_door.png"}
+{"w":"bathtub","m":"욕조","a":"w_bathtub.png"}
+{"w":"sink","m":"세면대","a":"w_sink.png"}
+{"w":"toothbrush","m":"칫솔","a":"w_toothbrush.png"}
+{"w":"toothpaste","m":"치약","a":"w_toothpaste.png"}
+{"w":"soap","m":"비누","a":"w_soap.png"}
+{"w":"towel","m":"수건","a":"w_towel.png"}
+{"w":"comb","m":"빗","a":"w_comb.png"}
+{"w":"hairbrush","m":"헤어브러시","a":"w_hairbrush.png"}
+{"w":"shampoo","m":"샴푸","a":"w_shampoo.png"}
+{"w":"fork","m":"포크","a":"w_fork.png"}
+{"w":"spoon","m":"숟가락","a":"w_spoon.png"}
+{"w":"knife","m":"나이프","a":"w_knife.png"}
+{"w":"plate","m":"접시","a":"w_plate.png"}
+{"w":"bowl","m":"그릇","a":"w_bowl.png"}
+{"w":"cup","m":"컵","a":"w_cup.png"}
+{"w":"mug","m":"머그컵","a":"w_mug.png"}
+{"w":"teapot","m":"찻주전자","a":"w_teapot.png"}
+{"w":"frying pan","m":"프라이팬","a":"w_frying_pan.png"}
+{"w":"pot","m":"냄비","a":"w_pot.png"}
+{"w":"kettle","m":"주전자","a":"w_kettle.png"}
+{"w":"whisk","m":"거품기","a":"w_whisk.png"}
+{"w":"spatula","m":"뒤집개","a":"w_spatula.png"}
+{"w":"ladle","m":"국자","a":"w_ladle.png"}
+{"w":"cutting board","m":"도마","a":"w_cutting_board.png"}
+{"w":"rolling pin","m":"밀대","a":"w_rolling_pin.png"}
+{"w":"bread","m":"빵","a":"w_bread.png"}
+{"w":"croissant","m":"크루아상","a":"w_croissant.png"}
+{"w":"cupcake","m":"컵케이크","a":"w_cupcake.png"}
+{"w":"donut","m":"도넛","a":"w_donut.png"}
+{"w":"cookie","m":"쿠키","a":"w_cookie.png"}
+{"w":"ice cream","m":"아이스크림","a":"w_ice_cream.png"}
+{"w":"pizza slice","m":"피자","a":"w_pizza_slice.png"}
+{"w":"hamburger","m":"햄버거","a":"w_hamburger.png"}
+{"w":"hot dog","m":"핫도그","a":"w_hot_dog.png"}
+{"w":"taco","m":"타코","a":"w_taco.png"}
+{"w":"bus","m":"버스","a":"w_bus.png"}
+{"w":"car","m":"자동차","a":"w_car.png"}
+{"w":"truck","m":"트럭","a":"w_truck.png"}
+{"w":"bicycle","m":"자전거","a":"w_bicycle.png"}
+{"w":"scooter","m":"킥보드","a":"w_scooter.png"}
+{"w":"skateboard","m":"스케이트보드","a":"w_skateboard.png"}
+{"w":"train","m":"기차","a":"w_train.png"}
+{"w":"airplane","m":"비행기","a":"w_airplane.png"}
+{"w":"helicopter","m":"헬리콥터","a":"w_helicopter.png"}
+{"w":"motorboat","m":"모터보트","a":"w_motorboat.png"}
+{"w":"sailboat","m":"돛단배","a":"w_sailboat.png"}
+{"w":"submarine","m":"잠수함","a":"w_submarine.png"}
+{"w":"rocket","m":"로켓","a":"w_rocket.png"}
+{"w":"traffic light","m":"신호등","a":"w_traffic_light.png"}
+{"w":"road cone","m":"라바콘","a":"w_road_cone.png"}
+{"w":"excavator","m":"포크레인","a":"w_excavator.png"}
+{"w":"dump truck","m":"덤프트럭","a":"w_dump_truck.png"}
+{"w":"tractor","m":"트랙터","a":"w_tractor.png"}
+{"w":"tram","m":"트램","a":"w_tram.png"}
+{"w":"hot air balloon","m":"열기구","a":"w_hot_air_balloon.png"}
+{"w":"parachute","m":"낙하산","a":"w_parachute.png"}
+{"w":"wheel","m":"바퀴","a":"w_wheel.png"}
+{"w":"anchor","m":"닻","a":"w_anchor.png"}
+{"w":"lighthouse","m":"등대","a":"w_lighthouse.png"}
+{"w":"tree","m":"나무","a":"w_tree.png"}
+{"w":"leaf","m":"잎사귀","a":"w_leaf.png"}
+{"w":"flower","m":"꽃","a":"w_flower.png"}
+{"w":"sunflower","m":"해바라기","a":"w_sunflower.png"}
+{"w":"cactus","m":"선인장","a":"w_cactus.png"}
+{"w":"acorn","m":"도토리","a":"w_acorn.png"}
+{"w":"snowflake","m":"눈송이","a":"w_snowflake.png"}
+{"w":"cloud","m":"구름","a":"w_cloud.png"}
+{"w":"rainbow","m":"무지개","a":"w_rainbow.png"}
+{"w":"sun","m":"태양","a":"w_sun.png"}
+{"w":"moon","m":"초승달","a":"w_moon.png"}
+{"w":"mountain","m":"산","a":"w_mountain.png"}
+{"w":"volcano","m":"화산","a":"w_volcano.png"}
+{"w":"seashell","m":"조개껍데기","a":"w_seashell.png"}
+{"w":"palm tree","m":"야자수","a":"w_palm_tree.png"}
+{"w":"pine tree","m":"소나무","a":"w_pine_tree.png"}
+{"w":"watering can","m":"물뿌리개","a":"w_watering_can.png"}
+{"w":"shovel","m":"삽","a":"w_shovel.png"}
+{"w":"rake","m":"갈퀴","a":"w_rake.png"}
+{"w":"trowel","m":"모종삽","a":"w_trowel.png"}
+{"w":"bucket","m":"양동이","a":"w_bucket.png"}
+{"w":"flower pot","m":"화분","a":"w_flower_pot.png"}
+{"w":"garden hose","m":"호스","a":"w_garden_hose.png"}
+{"w":"wheelbarrow","m":"손수레","a":"w_wheelbarrow.png"}
+{"w":"key","m":"열쇠","a":"w_key.png"}
+{"w":"padlock","m":"자물쇠","a":"w_padlock.png"}
+{"w":"gift box","m":"선물상자","a":"w_gift_box.png"}
+{"w":"candle","m":"양초","a":"w_candle.png"}
+{"w":"flashlight","m":"손전등","a":"w_flashlight.png"}
+{"w":"battery","m":"건전지","a":"w_battery.png"}
+{"w":"camera","m":"카메라","a":"w_camera.png"}
+{"w":"binoculars","m":"쌍안경","a":"w_binoculars.png"}
+{"w":"suitcase","m":"여행가방","a":"w_suitcase.png"}
+{"w":"handbag","m":"핸드백","a":"w_handbag.png"}
+{"w":"wallet","m":"지갑","a":"w_wallet.png"}
+{"w":"eyeglasses","m":"안경","a":"w_eyeglasses.png"}
+{"w":"wristwatch","m":"손목시계","a":"w_wristwatch.png"}
+{"w":"ring","m":"반지","a":"w_ring.png"}
+{"w":"necklace","m":"목걸이","a":"w_necklace.png"}
+{"w":"scarf","m":"목도리","a":"w_scarf.png"}
+{"w":"mittens","m":"벙어리장갑","a":"w_mittens.png"}
+{"w":"jacket","m":"재킷","a":"w_jacket.png"}
+{"w":"t-shirt","m":"티셔츠","a":"w_t-shirt.png"}
+{"w":"pants","m":"바지","a":"w_pants.png"}
+{"w":"dress","m":"원피스","a":"w_dress.png"}
+{"w":"slippers","m":"슬리퍼","a":"w_slippers.png"}
+{"w":"hanger","m":"옷걸이","a":"w_hanger.png"}
+{"w":"button","m":"단추","a":"w_button.png"}
+{"w":"zipper","m":"지퍼","a":"w_zipper.png"}
+{"w":"belt","m":"벨트","a":"w_belt.png"}
+{"w":"yo-yo","m":"요요","a":"w_yo-yo.png"}
+{"w":"teddy bear","m":"곰인형","a":"w_teddy_bear.png"}
+{"w":"toy robot","m":"장난감로봇","a":"w_toy_robot.png"}
+{"w":"toy car","m":"장난감자동차","a":"w_toy_car.png"}
+{"w":"spinning top","m":"팽이","a":"w_spinning_top.png"}
+{"w":"jump rope","m":"줄넘기","a":"w_jump_rope.png"}
+{"w":"toy drum","m":"북","a":"w_toy_drum.png"}
+{"w":"balloon","m":"풍선","a":"w_balloon.png"}
+{"w":"pinwheel","m":"바람개비","a":"w_pinwheel.png"}
+{"w":"marble","m":"구슬","a":"w_marble.png"}
+{"w":"soccer ball","m":"축구공","a":"w_soccer_ball.png"}
+{"w":"basketball","m":"농구공","a":"w_basketball.png"}
+{"w":"baseball bat","m":"야구방망이","a":"w_baseball_bat.png"}
+{"w":"tennis racket","m":"테니스라켓","a":"w_tennis_racket.png"}
+{"w":"bowling pin","m":"볼링핀","a":"w_bowling_pin.png"}
+{"w":"whistle","m":"호루라기","a":"w_whistle.png"}
+{"w":"megaphone","m":"메가폰","a":"w_megaphone.png"}
+{"w":"avocado","m":"아보카도","a":"w_avocado.png"}
+{"w":"lemon","m":"레몬","a":"w_lemon.png"}
+{"w":"coconut","m":"코코넛","a":"w_coconut.png"}
+{"w":"cheese","m":"치즈","a":"w_cheese.png"}
+{"w":"milk carton","m":"우유팩","a":"w_milk_carton.png"}
+{"w":"juice box","m":"주스상자","a":"w_juice_box.png"}
+{"w":"jam jar","m":"잼병","a":"w_jam_jar.png"}
+{"w":"honey jar","m":"꿀병","a":"w_honey_jar.png"}
+{"w":"sandwich","m":"샌드위치","a":"w_sandwich.png"}
+{"w":"sushi roll","m":"김밥","a":"w_sushi_roll.png"}
+{"w":"pretzel","m":"프레첼","a":"w_pretzel.png"}
+{"w":"french fries","m":"감자튀김","a":"w_french_fries.png"}
+{"w":"fried egg","m":"달걀프라이","a":"w_fried_egg.png"}
+{"w":"picnic basket","m":"피크닉바구니","a":"w_picnic_basket.png"}
+{"w":"toolbox","m":"공구상자","a":"w_toolbox.png"}
+{"w":"hammer","m":"망치","a":"w_hammer.png"}
+{"w":"screwdriver","m":"드라이버","a":"w_screwdriver.png"}
+{"w":"wrench","m":"렌치","a":"w_wrench.png"}
+{"w":"paint roller","m":"페인트롤러","a":"w_paint_roller.png"}
+{"w":"mop","m":"밀대","a":"w_mop.png"}
+{"w":"broom","m":"빗자루","a":"w_broom.png"}
+{"w":"dustpan","m":"쓰레받기","a":"w_dustpan.png"}
+{"w":"vacuum cleaner","m":"청소기","a":"w_vacuum_cleaner.png"}
+{"w":"fan","m":"선풍기","a":"w_fan.png"}
+{"w":"alarm clock","m":"알람시계","a":"w_alarm_clock.png"}
+{"w":"hourglass","m":"모래시계","a":"w_hourglass.png"}
+{"w":"notepad","m":"메모장","a":"w_notepad.png"}
+{"w":"envelope","m":"봉투","a":"w_envelope.png"}
+{"w":"rubber stamp","m":"스탬프","a":"w_rubber_stamp.png"}
+{"w":"lunch tray","m":"식판","a":"w_lunch_tray.png"}
+{"w":"chef hat","m":"요리사모자","a":"w_chef_hat.png"}
+{"w":"treasure chest","m":"보물상자","a":"w_treasure_chest.png"}
+{"w":"paper airplane","m":"종이비행기","a":"w_paper_airplane.png"}
+{"w":"starfish","m":"불가사리","a":"w_starfish.png"}
+{"w":"compass","m":"나침반","a":"w_compass.png"}
+{"w":"magnet","m":"자석","a":"w_magnet.png"}
+{"w":"clipboard","m":"클립보드","a":"w_clipboard.png"}
+{"w":"triangle ruler","m":"삼각자","a":"w_triangle_ruler.png"}
+{"w":"paint tube","m":"물감튜브","a":"w_paint_tube.png"}
+{"w":"apron","m":"앞치마","a":"w_apron.png"}
+{"w":"safety pin","m":"옷핀","a":"w_safety_pin.png"}
+{"w":"feather","m":"깃털","a":"w_feather.png"}
+{"w":"crown","m":"왕관","a":"w_crown.png"}
+{"w":"cat","m":"고양이","a":"w_cat.png"}
+{"w":"dog","m":"강아지","a":"w_dog.png"}
+{"w":"rabbit","m":"토끼","a":"w_rabbit.png"}
+{"w":"bird","m":"새","a":"w_bird.png"}
+{"w":"fish","m":"물고기","a":"w_fish.png"}
+{"w":"turtle","m":"거북이","a":"w_turtle.png"}
+{"w":"frog","m":"개구리","a":"w_frog.png"}
+{"w":"duck","m":"오리","a":"w_duck.png"}
+{"w":"chicken","m":"닭","a":"w_chicken.png"}
+{"w":"cow","m":"소","a":"w_cow.png"}
+{"w":"pig","m":"돼지","a":"w_pig.png"}
+{"w":"sheep","m":"양","a":"w_sheep.png"}
+{"w":"horse","m":"말","a":"w_horse.png"}
+{"w":"lion","m":"사자","a":"w_lion.png"}
+{"w":"tiger","m":"호랑이","a":"w_tiger.png"}
+{"w":"elephant","m":"코끼리","a":"w_elephant.png"}
+{"w":"giraffe","m":"기린","a":"w_giraffe.png"}
+{"w":"zebra","m":"얼룩말","a":"w_zebra.png"}
+{"w":"monkey","m":"원숭이","a":"w_monkey.png"}
+{"w":"panda","m":"판다","a":"w_panda.png"}
+{"w":"bear","m":"곰","a":"w_bear.png"}
+{"w":"fox","m":"여우","a":"w_fox.png"}
+{"w":"deer","m":"사슴","a":"w_deer.png"}
+{"w":"penguin","m":"펭귄","a":"w_penguin.png"}
+{"w":"whale","m":"고래","a":"w_whale.png"}
+{"w":"dolphin","m":"돌고래","a":"w_dolphin.png"}
+{"w":"octopus","m":"문어","a":"w_octopus.png"}
+{"w":"crab","m":"게","a":"w_crab.png"}
+{"w":"butterfly","m":"나비","a":"w_butterfly.png"}
+{"w":"bee","m":"벌","a":"w_bee.png"}
+{"w":"ladybug","m":"무당벌레","a":"w_ladybug.png"}
+{"w":"ant","m":"개미","a":"w_ant.png"}
+{"w":"snail","m":"달팽이","a":"w_snail.png"}
+{"w":"spider","m":"거미","a":"w_spider.png"}
+{"w":"dragonfly","m":"잠자리","a":"w_dragonfly.png"}
+{"w":"tv","m":"텔레비전","a":"w_tv.png"}
+{"w":"smartphone","m":"스마트폰","a":"w_smartphone.png"}
+{"w":"remote control","m":"리모컨","a":"w_remote_control.png"}
+{"w":"keyboard","m":"키보드","a":"w_keyboard.png"}
+{"w":"computer mouse","m":"마우스","a":"w_computer_mouse.png"}
+{"w":"speaker","m":"스피커","a":"w_speaker.png"}
+{"w":"microphone","m":"마이크","a":"w_microphone.png"}
+{"w":"radio","m":"라디오","a":"w_radio.png"}
+{"w":"game controller","m":"게임패드","a":"w_game_controller.png"}
+{"w":"light bulb","m":"전구","a":"w_light_bulb.png"}
+{"w":"electric plug","m":"플러그","a":"w_electric_plug.png"}
+{"w":"guitar","m":"기타","a":"w_guitar.png"}
+{"w":"piano keyboard","m":"피아노","a":"w_piano_keyboard.png"}
+{"w":"violin","m":"바이올린","a":"w_violin.png"}
+{"w":"trumpet","m":"트럼펫","a":"w_trumpet.png"}
+{"w":"tambourine","m":"탬버린","a":"w_tambourine.png"}
+{"w":"maracas","m":"마라카스","a":"w_maracas.png"}
+{"w":"xylophone","m":"실로폰","a":"w_xylophone.png"}
+{"w":"mailbox","m":"우체통","a":"w_mailbox.png"}
+{"w":"stethoscope","m":"청진기","a":"w_stethoscope.png"}
+{"w":"fire extinguisher","m":"소화기","a":"w_fire_extinguisher.png"}
+{"w":"first aid kit","m":"구급상자","a":"w_first_aid_kit.png"}
+{"w":"toilet","m":"변기","a":"w_toilet.png"}
+{"w":"toilet paper","m":"화장지","a":"w_toilet_paper.png"}
+{"w":"trash can","m":"쓰레기통","a":"w_trash_can.png"}
+{"w":"house","m":"집","a":"w_house.png"}
+{"w":"apartment building","m":"아파트","a":"w_apartment_building.png"}
+{"w":"school building","m":"학교","a":"w_school_building.png"}
+{"w":"hospital building","m":"병원","a":"w_hospital_building.png"}
+{"w":"fire station","m":"소방서","a":"w_fire_station.png"}
+{"w":"police station","m":"경찰서","a":"w_police_station.png"}
+{"w":"post office","m":"우체국","a":"w_post_office.png"}
+{"w":"library building","m":"도서관","a":"w_library_building.png"}
+{"w":"supermarket","m":"슈퍼마켓","a":"w_supermarket.png"}
+{"w":"bakery shop","m":"빵집","a":"w_bakery_shop.png"}
+{"w":"restaurant","m":"식당","a":"w_restaurant.png"}
+{"w":"bank","m":"은행","a":"w_bank.png"}
+{"w":"gas station","m":"주유소","a":"w_gas_station.png"}
+{"w":"bridge","m":"다리","a":"w_bridge.png"}
+{"w":"castle","m":"성","a":"w_castle.png"}
+{"w":"tent","m":"텐트","a":"w_tent.png"}
+{"w":"cabin","m":"오두막","a":"w_cabin.png"}
+{"w":"barn","m":"헛간","a":"w_barn.png"}
+{"w":"fence","m":"울타리","a":"w_fence.png"}
+{"w":"playground slide","m":"미끄럼틀","a":"w_playground_slide.png"}
+{"w":"swing set","m":"그네","a":"w_swing_set.png"}
+{"w":"seesaw","m":"시소","a":"w_seesaw.png"}
+{"w":"sandbox","m":"모래상자","a":"w_sandbox.png"}
+{"w":"beach ball","m":"비치볼","a":"w_beach_ball.png"}
+{"w":"life ring","m":"구명환","a":"w_life_ring.png"}
+{"w":"sandcastle","m":"모래성","a":"w_sandcastle.png"}
+{"w":"surfboard","m":"서핑보드","a":"w_surfboard.png"}
+{"w":"snowman","m":"눈사람","a":"w_snowman.png"}
+{"w":"sled","m":"썰매","a":"w_sled.png"}
+{"w":"skis","m":"스키","a":"w_skis.png"}
+{"w":"ice skate","m":"스케이트","a":"w_ice_skate.png"}
+{"w":"roller skate","m":"롤러스케이트","a":"w_roller_skate.png"}
+{"w":"swimming goggles","m":"수경","a":"w_swimming_goggles.png"}
+{"w":"snorkel","m":"스노클","a":"w_snorkel.png"}
+{"w":"fishing rod","m":"낚싯대","a":"w_fishing_rod.png"}
+{"w":"campfire","m":"모닥불","a":"w_campfire.png"}
+{"w":"lantern","m":"랜턴","a":"w_lantern.png"}
+{"w":"sleeping bag","m":"침낭","a":"w_sleeping_bag.png"}
+{"w":"hiking boot","m":"등산화","a":"w_hiking_boot.png"}
+{"w":"faucet","m":"수도꼭지","a":"w_faucet.png"}
+{"w":"washing machine","m":"세탁기","a":"w_washing_machine.png"}
+{"w":"refrigerator","m":"냉장고","a":"w_refrigerator.png"}
+{"w":"microwave","m":"전자레인지","a":"w_microwave.png"}
+{"w":"oven","m":"오븐","a":"w_oven.png"}
+{"w":"toaster","m":"토스터","a":"w_toaster.png"}
+{"w":"blender","m":"믹서기","a":"w_blender.png"}
+{"w":"rice cooker","m":"밥솥","a":"w_rice_cooker.png"}
+{"w":"laundry basket","m":"빨래바구니","a":"w_laundry_basket.png"}
+{"w":"clothes iron","m":"다리미","a":"w_clothes_iron.png"}
+{"w":"ironing board","m":"다림판","a":"w_ironing_board.png"}
+{"w":"sewing needle","m":"바늘","a":"w_sewing_needle.png"}
+{"w":"spool of thread","m":"실패","a":"w_spool_of_thread.png"}
+{"w":"yarn ball","m":"털실","a":"w_yarn_ball.png"}
+{"w":"raincoat","m":"우비","a":"w_raincoat.png"}
+{"w":"sunglasses","m":"선글라스","a":"w_sunglasses.png"}
+{"w":"sandals","m":"샌들","a":"w_sandals.png"}
+{"w":"swimsuit","m":"수영복","a":"w_swimsuit.png"}
+{"w":"tie","m":"넥타이","a":"w_tie.png"}
+{"w":"bow tie","m":"나비넥타이","a":"w_bow_tie.png"}
+{"w":"gloves","m":"장갑","a":"w_gloves.png"}
+{"w":"helmet","m":"헬멧","a":"w_helmet.png"}
+{"w":"life jacket","m":"구명조끼","a":"w_life_jacket.png"}
+{"w":"shopping bag","m":"쇼핑백","a":"w_shopping_bag.png"}
+{"w":"shopping cart","m":"쇼핑카트","a":"w_shopping_cart.png"}
+{"w":"cash register","m":"계산대","a":"w_cash_register.png"}
+{"w":"coin","m":"동전","a":"w_coin.png"}
+{"w":"piggy bank","m":"저금통","a":"w_piggy_bank.png"}
+{"w":"shopping basket","m":"장바구니","a":"w_shopping_basket.png"}
+{"w":"scale","m":"저울","a":"w_scale.png"}
+{"w":"thermometer","m":"온도계","a":"w_thermometer.png"}
+{"w":"syringe","m":"주사기","a":"w_syringe.png"}
+{"w":"bandage","m":"반창고","a":"w_bandage.png"}
+{"w":"medicine bottle","m":"약병","a":"w_medicine_bottle.png"}
+{"w":"pill","m":"알약","a":"w_pill.png"}
+{"w":"test tube","m":"시험관","a":"w_test_tube.png"}
+{"w":"beaker","m":"비커","a":"w_beaker.png"}
+{"w":"microscope","m":"현미경","a":"w_microscope.png"}
+{"w":"telescope","m":"망원경","a":"w_telescope.png"}
+{"w":"planet","m":"행성","a":"w_planet.png"}
+{"w":"star","m":"별","a":"w_star.png"}
+{"w":"comet","m":"혜성","a":"w_comet.png"}
+{"w":"satellite","m":"위성","a":"w_satellite.png"}
+{"w":"planet earth","m":"지구","a":"w_planet_earth.png"}
+{"w":"sprout","m":"새싹","a":"w_sprout.png"}
+{"w":"seed","m":"씨앗","a":"w_seed.png"}
+{"w":"tree stump","m":"나무그루터기","a":"w_tree_stump.png"}
+{"w":"log","m":"통나무","a":"w_log.png"}
+{"w":"rock","m":"바위","a":"w_rock.png"}
+{"w":"bird nest","m":"새둥지","a":"w_bird_nest.png"}
+{"w":"honeycomb","m":"벌집","a":"w_honeycomb.png"}
+{"w":"egg","m":"달걀","a":"w_egg.png"}
+{"w":"chopsticks","m":"젓가락","a":"w_chopsticks.png"}
+{"w":"drinking straw","m":"빨대","a":"w_drinking_straw.png"}
+{"w":"napkin","m":"냅킨","a":"w_napkin.png"}
+{"w":"salt shaker","m":"소금통","a":"w_salt_shaker.png"}
+{"w":"pepper shaker","m":"후추통","a":"w_pepper_shaker.png"}
+{"w":"sauce bottle","m":"소스병","a":"w_sauce_bottle.png"}
+{"w":"water drop","m":"물방울","a":"w_water_drop.png"}
+{"w":"flame","m":"불꽃","a":"w_flame.png"}
+{"w":"soap bubbles","m":"비눗방울","a":"w_soap_bubbles.png"}
+{"w":"laptop","m":"노트북","a":"w_laptop.png"}
+{"w":"printer","m":"프린터","a":"w_printer.png"}
+{"w":"television","m":"텔레비전","a":"w_television.png"}
+{"w":"charger plug","m":"충전기","a":"w_charger_plug.png"}
+{"w":"charging cable","m":"충전 케이블","a":"w_charging_cable.png"}
+{"w":"power outlet","m":"콘센트","a":"w_power_outlet.png"}
+{"w":"wi-fi router","m":"와이파이 공유기","a":"w_wi-fi_router.png"}
+{"w":"usb flash drive","m":"USB 메모리","a":"w_usb_flash_drive.png"}
+{"w":"memory card","m":"메모리 카드","a":"w_memory_card.png"}
+{"w":"smartwatch","m":"스마트워치","a":"w_smartwatch.png"}
+{"w":"projector","m":"프로젝터","a":"w_projector.png"}
+{"w":"camera tripod","m":"삼각대","a":"w_camera_tripod.png"}
+{"w":"acoustic guitar","m":"통기타","a":"w_acoustic_guitar.png"}
+{"w":"saxophone","m":"색소폰","a":"w_saxophone.png"}
+{"w":"flute","m":"플루트","a":"w_flute.png"}
+{"w":"cymbals","m":"심벌즈","a":"w_cymbals.png"}
+{"w":"harmonica","m":"하모니카","a":"w_harmonica.png"}
+{"w":"accordion","m":"아코디언","a":"w_accordion.png"}
+{"w":"music stand","m":"악보대","a":"w_music_stand.png"}
+{"w":"metronome","m":"메트로놈","a":"w_metronome.png"}
+{"w":"conductor baton","m":"지휘봉","a":"w_conductor_baton.png"}
+{"w":"record player","m":"턴테이블","a":"w_record_player.png"}
+{"w":"vinyl record","m":"레코드판","a":"w_vinyl_record.png"}
+{"w":"boombox","m":"카세트 라디오","a":"w_boombox.png"}
+{"w":"kazoo","m":"카주","a":"w_kazoo.png"}
+{"w":"ukulele","m":"우쿨렐레","a":"w_ukulele.png"}
+{"w":"cello","m":"첼로","a":"w_cello.png"}
+{"w":"triangle instrument","m":"트라이앵글","a":"w_triangle_instrument.png"}
+{"w":"volleyball","m":"배구공","a":"w_volleyball.png"}
+{"w":"tennis ball","m":"테니스공","a":"w_tennis_ball.png"}
+{"w":"baseball","m":"야구공","a":"w_baseball.png"}
+{"w":"baseball glove","m":"야구 글러브","a":"w_baseball_glove.png"}
+{"w":"badminton racket","m":"배드민턴 라켓","a":"w_badminton_racket.png"}
+{"w":"shuttlecock","m":"셔틀콕","a":"w_shuttlecock.png"}
+{"w":"golf club","m":"골프채","a":"w_golf_club.png"}
+{"w":"golf ball","m":"골프공","a":"w_golf_ball.png"}
+{"w":"hockey stick","m":"하키 스틱","a":"w_hockey_stick.png"}
+{"w":"hockey puck","m":"하키 퍽","a":"w_hockey_puck.png"}
+{"w":"dumbbell","m":"아령","a":"w_dumbbell.png"}
+{"w":"yoga mat","m":"요가 매트","a":"w_yoga_mat.png"}
+{"w":"swim cap","m":"수영모","a":"w_swim_cap.png"}
+{"w":"soccer goal","m":"축구 골대","a":"w_soccer_goal.png"}
+{"w":"basketball hoop","m":"농구 골대","a":"w_basketball_hoop.png"}
+{"w":"table tennis paddle","m":"탁구채","a":"w_table_tennis_paddle.png"}
+{"w":"ping pong ball","m":"탁구공","a":"w_ping_pong_ball.png"}
+{"w":"boxing glove","m":"권투 글러브","a":"w_boxing_glove.png"}
+{"w":"stopwatch","m":"스톱워치","a":"w_stopwatch.png"}
+{"w":"finish flag","m":"결승 깃발","a":"w_finish_flag.png"}
+{"w":"pliers","m":"펜치","a":"w_pliers.png"}
+{"w":"handsaw","m":"톱","a":"w_handsaw.png"}
+{"w":"electric drill","m":"전동 드릴","a":"w_electric_drill.png"}
+{"w":"screw","m":"나사","a":"w_screw.png"}
+{"w":"nail","m":"못","a":"w_nail.png"}
+{"w":"tape measure","m":"줄자","a":"w_tape_measure.png"}
+{"w":"paint bucket","m":"페인트통","a":"w_paint_bucket.png"}
+{"w":"ladder","m":"사다리","a":"w_ladder.png"}
+{"w":"work gloves","m":"작업 장갑","a":"w_work_gloves.png"}
+{"w":"nut and bolt","m":"너트와 볼트","a":"w_nut_and_bolt.png"}
+{"w":"clamp","m":"클램프","a":"w_clamp.png"}
+{"w":"level tool","m":"수평계","a":"w_level_tool.png"}
+{"w":"sandpaper","m":"사포","a":"w_sandpaper.png"}
+{"w":"paint scraper","m":"헤라","a":"w_paint_scraper.png"}
+{"w":"safety goggles","m":"보안경","a":"w_safety_goggles.png"}
+{"w":"hard hat","m":"안전모","a":"w_hard_hat.png"}
+{"w":"measuring cup","m":"계량컵","a":"w_measuring_cup.png"}
+{"w":"measuring spoon","m":"계량스푼","a":"w_measuring_spoon.png"}
+{"w":"coffee maker","m":"커피메이커","a":"w_coffee_maker.png"}
+{"w":"strainer","m":"체","a":"w_strainer.png"}
+{"w":"pancakes","m":"팬케이크","a":"w_pancakes.png"}
+{"w":"waffle","m":"와플","a":"w_waffle.png"}
+{"w":"muffin","m":"머핀","a":"w_muffin.png"}
+{"w":"bagel","m":"베이글","a":"w_bagel.png"}
+{"w":"cereal bowl","m":"시리얼 그릇","a":"w_cereal_bowl.png"}
+{"w":"yogurt cup","m":"요거트 컵","a":"w_yogurt_cup.png"}
+{"w":"ice pop","m":"아이스바","a":"w_ice_pop.png"}
+{"w":"dumpling","m":"만두","a":"w_dumpling.png"}
+{"w":"noodle bowl","m":"국수 그릇","a":"w_noodle_bowl.png"}
+{"w":"rice bowl","m":"밥그릇","a":"w_rice_bowl.png"}
+{"w":"lettuce","m":"상추","a":"w_lettuce.png"}
+{"w":"cabbage","m":"양배추","a":"w_cabbage.png"}
+{"w":"peas pod","m":"완두콩 꼬투리","a":"w_peas_pod.png"}
+{"w":"garlic bulb","m":"마늘","a":"w_garlic_bulb.png"}
+{"w":"ginger root","m":"생강","a":"w_ginger_root.png"}
+{"w":"chili pepper","m":"고추","a":"w_chili_pepper.png"}
+{"w":"bell pepper","m":"파프리카","a":"w_bell_pepper.png"}
+{"w":"asparagus","m":"아스파라거스","a":"w_asparagus.png"}
+{"w":"cauliflower","m":"콜리플라워","a":"w_cauliflower.png"}
+{"w":"sweet potato","m":"고구마","a":"w_sweet_potato.png"}
+{"w":"curtain","m":"커튼","a":"w_curtain.png"}
+{"w":"carpet","m":"카펫","a":"w_carpet.png"}
+{"w":"doormat","m":"현관 매트","a":"w_doormat.png"}
+{"w":"cushion","m":"쿠션","a":"w_cushion.png"}
+{"w":"wardrobe","m":"옷장","a":"w_wardrobe.png"}
+{"w":"nightstand","m":"침대 협탁","a":"w_nightstand.png"}
+{"w":"ceiling light","m":"천장등","a":"w_ceiling_light.png"}
+{"w":"light switch","m":"전등 스위치","a":"w_light_switch.png"}
+{"w":"wall shelf","m":"벽 선반","a":"w_wall_shelf.png"}
+{"w":"doorbell","m":"초인종","a":"w_doorbell.png"}
+{"w":"keychain","m":"열쇠고리","a":"w_keychain.png"}
+{"w":"tissue box","m":"휴지 상자","a":"w_tissue_box.png"}
+{"w":"plunger","m":"뚫어뻥","a":"w_plunger.png"}
+{"w":"bath mat","m":"욕실 매트","a":"w_bath_mat.png"}
+{"w":"hair dryer","m":"헤어드라이어","a":"w_hair_dryer.png"}
+{"w":"lotion bottle","m":"로션 병","a":"w_lotion_bottle.png"}
+{"w":"hand sanitizer","m":"손 소독제","a":"w_hand_sanitizer.png"}
+{"w":"laundry detergent","m":"세탁 세제","a":"w_laundry_detergent.png"}
+{"w":"spray bottle","m":"분무기","a":"w_spray_bottle.png"}
+{"w":"sponge","m":"스펀지","a":"w_sponge.png"}
+{"w":"dish soap","m":"주방 세제","a":"w_dish_soap.png"}
+{"w":"dish rack","m":"식기 건조대","a":"w_dish_rack.png"}
+{"w":"oven mitt","m":"오븐 장갑","a":"w_oven_mitt.png"}
+{"w":"cheese grater","m":"강판","a":"w_cheese_grater.png"}
+{"w":"vegetable peeler","m":"채소 필러","a":"w_vegetable_peeler.png"}
+{"w":"can opener","m":"캔 따개","a":"w_can_opener.png"}
+{"w":"ice cube tray","m":"얼음 틀","a":"w_ice_cube_tray.png"}
+{"w":"food container","m":"밀폐 용기","a":"w_food_container.png"}
+{"w":"thermos","m":"보온병","a":"w_thermos.png"}
+{"w":"lunch bag","m":"도시락 가방","a":"w_lunch_bag.png"}
+{"w":"binder","m":"바인더","a":"w_binder.png"}
+{"w":"binder clip","m":"집게 클립","a":"w_binder_clip.png"}
+{"w":"push pin","m":"압정","a":"w_push_pin.png"}
+{"w":"sticky notes","m":"포스트잇","a":"w_sticky_notes.png"}
+{"w":"index cards","m":"색인 카드","a":"w_index_cards.png"}
+{"w":"rubber band","m":"고무줄","a":"w_rubber_band.png"}
+{"w":"hole punch","m":"펀치","a":"w_hole_punch.png"}
+{"w":"file box","m":"파일 상자","a":"w_file_box.png"}
+{"w":"bookend","m":"책 받침","a":"w_bookend.png"}
+{"w":"easel","m":"이젤","a":"w_easel.png"}
+{"w":"canvas","m":"캔버스","a":"w_canvas.png"}
+{"w":"modeling clay","m":"점토","a":"w_modeling_clay.png"}
+{"w":"glue gun","m":"글루건","a":"w_glue_gun.png"}
+{"w":"pom-pom","m":"폼폼","a":"w_pom-pom.png"}
+{"w":"bead","m":"구슬 비즈","a":"w_bead.png"}
+{"w":"ribbon roll","m":"리본 롤","a":"w_ribbon_roll.png"}
+{"w":"sticker sheet","m":"스티커 판","a":"w_sticker_sheet.png"}
+{"w":"doll","m":"인형","a":"w_doll.png"}
+{"w":"action figure","m":"액션 피규어","a":"w_action_figure.png"}
+{"w":"dollhouse","m":"인형의 집","a":"w_dollhouse.png"}
+{"w":"board game","m":"보드게임","a":"w_board_game.png"}
+{"w":"playing card","m":"놀이 카드","a":"w_playing_card.png"}
+{"w":"dice","m":"주사위","a":"w_dice.png"}
+{"w":"jigsaw puzzle","m":"직소 퍼즐","a":"w_jigsaw_puzzle.png"}
+{"w":"toy boat","m":"장난감 배","a":"w_toy_boat.png"}
+{"w":"block tower","m":"블록 탑","a":"w_block_tower.png"}
+{"w":"bubble wand","m":"비눗방울 막대","a":"w_bubble_wand.png"}
+{"w":"caterpillar","m":"애벌레","a":"w_caterpillar.png"}
+{"w":"butterfly net","m":"나비채","a":"w_butterfly_net.png"}
+{"w":"bug jar","m":"곤충 관찰통","a":"w_bug_jar.png"}
+{"w":"shark","m":"상어","a":"w_shark.png"}
+{"w":"lobster","m":"바닷가재","a":"w_lobster.png"}
+{"w":"jellyfish","m":"해파리","a":"w_jellyfish.png"}
+{"w":"seahorse","m":"해마","a":"w_seahorse.png"}
+{"w":"clam","m":"조개","a":"w_clam.png"}
+{"w":"coral","m":"산호","a":"w_coral.png"}
+{"w":"hand","m":"손","a":"w_hand.png"}
+{"w":"foot","m":"발","a":"w_foot.png"}
+{"w":"eye","m":"눈","a":"w_eye.png"}
+{"w":"ear","m":"귀","a":"w_ear.png"}
+{"w":"nose","m":"코","a":"w_nose.png"}
+{"w":"mouth","m":"입","a":"w_mouth.png"}
+{"w":"tooth","m":"이","a":"w_tooth.png"}
+{"w":"tongue","m":"혀","a":"w_tongue.png"}
+{"w":"hair lock","m":"머리카락","a":"w_hair_lock.png"}
+{"w":"brain","m":"뇌","a":"w_brain.png"}
+{"w":"birdhouse","m":"새집","a":"w_birdhouse.png"}
+{"w":"scarecrow","m":"허수아비","a":"w_scarecrow.png"}
+{"w":"hay bale","m":"건초 더미","a":"w_hay_bale.png"}
+{"w":"windmill","m":"풍차","a":"w_windmill.png"}
+{"w":"greenhouse","m":"온실","a":"w_greenhouse.png"}
+{"w":"seed packet","m":"씨앗 봉지","a":"w_seed_packet.png"}
+{"w":"plant label","m":"식물 이름표","a":"w_plant_label.png"}
+{"w":"bird feeder","m":"새 모이통","a":"w_bird_feeder.png"}
+{"w":"compost bin","m":"퇴비통","a":"w_compost_bin.png"}
+{"w":"rain barrel","m":"빗물통","a":"w_rain_barrel.png"}
+{"w":"pacifier","m":"쪽쪽이","a":"w_pacifier.png"}
+{"w":"baby bottle","m":"젖병","a":"w_baby_bottle.png"}
+{"w":"bib","m":"턱받이","a":"w_bib.png"}
+{"w":"rattle","m":"딸랑이","a":"w_rattle.png"}
+{"w":"stroller","m":"유모차","a":"w_stroller.png"}
+{"w":"crib","m":"아기 침대","a":"w_crib.png"}
+{"w":"high chair","m":"아기 식탁 의자","a":"w_high_chair.png"}
+{"w":"diaper","m":"기저귀","a":"w_diaper.png"}
+{"w":"stacking rings","m":"고리 쌓기 장난감","a":"w_stacking_rings.png"}
+{"w":"teether","m":"치발기","a":"w_teether.png"}
+{"w":"pet bowl","m":"반려동물 밥그릇","a":"w_pet_bowl.png"}
+{"w":"dog bone","m":"강아지 뼈 장난감","a":"w_dog_bone.png"}
+{"w":"leash","m":"목줄","a":"w_leash.png"}
+{"w":"pet collar","m":"반려동물 목걸이","a":"w_pet_collar.png"}
+{"w":"fishbowl","m":"어항","a":"w_fishbowl.png"}
+{"w":"birdcage","m":"새장","a":"w_birdcage.png"}
+{"w":"scratching post","m":"고양이 스크래처","a":"w_scratching_post.png"}
+{"w":"pet carrier","m":"이동장","a":"w_pet_carrier.png"}
+{"w":"hamster wheel","m":"햄스터 쳇바퀴","a":"w_hamster_wheel.png"}
+{"w":"litter scoop","m":"모래 삽","a":"w_litter_scoop.png"}
+{"w":"hair clip","m":"머리핀","a":"w_hair_clip.png"}
+{"w":"hair bow","m":"머리 리본","a":"w_hair_bow.png"}
+{"w":"hair tie","m":"머리끈","a":"w_hair_tie.png"}
+{"w":"bracelet","m":"팔찌","a":"w_bracelet.png"}
+{"w":"earrings","m":"귀걸이","a":"w_earrings.png"}
+{"w":"nail clippers","m":"손톱깎이","a":"w_nail_clippers.png"}
+{"w":"lip balm","m":"립밤","a":"w_lip_balm.png"}
+{"w":"sunscreen tube","m":"선크림 튜브","a":"w_sunscreen_tube.png"}
+{"w":"hair roller","m":"헤어롤","a":"w_hair_roller.png"}
+{"w":"nail polish","m":"매니큐어","a":"w_nail_polish.png"}
+{"w":"thimble","m":"골무","a":"w_thimble.png"}
+{"w":"pin cushion","m":"핀 쿠션","a":"w_pin_cushion.png"}
+{"w":"crochet hook","m":"코바늘","a":"w_crochet_hook.png"}
+{"w":"knitting needles","m":"뜨개바늘","a":"w_knitting_needles.png"}
+{"w":"embroidery hoop","m":"자수틀","a":"w_embroidery_hoop.png"}
+{"w":"needle threader","m":"실 꿰기 도구","a":"w_needle_threader.png"}
+{"w":"felt sheet","m":"펠트지","a":"w_felt_sheet.png"}
+{"w":"craft punch","m":"공예 펀치","a":"w_craft_punch.png"}
+{"w":"sequin","m":"스팽글","a":"w_sequin.png"}
+{"w":"pipe cleaner","m":"모루","a":"w_pipe_cleaner.png"}
+{"w":"park bench","m":"공원 벤치","a":"w_park_bench.png"}
+{"w":"picnic table","m":"피크닉 테이블","a":"w_picnic_table.png"}
+{"w":"hammock","m":"해먹","a":"w_hammock.png"}
+{"w":"camping chair","m":"캠핑 의자","a":"w_camping_chair.png"}
+{"w":"canteen","m":"수통","a":"w_canteen.png"}
+{"w":"walking stick","m":"지팡이","a":"w_walking_stick.png"}
+{"w":"camp stove","m":"캠핑 버너","a":"w_camp_stove.png"}
+{"w":"firewood bundle","m":"장작 묶음","a":"w_firewood_bundle.png"}
+{"w":"tent stake","m":"텐트 말뚝","a":"w_tent_stake.png"}
+{"w":"carabiner","m":"카라비너","a":"w_carabiner.png"}
+{"w":"pinecone","m":"솔방울","a":"w_pinecone.png"}
+{"w":"twig","m":"잔가지","a":"w_twig.png"}
+{"w":"crystal","m":"수정","a":"w_crystal.png"}
+{"w":"geode","m":"정동석","a":"w_geode.png"}
+{"w":"fossil","m":"화석","a":"w_fossil.png"}
+{"w":"icicle","m":"고드름","a":"w_icicle.png"}
+{"w":"hailstone","m":"우박","a":"w_hailstone.png"}
+{"w":"weather vane","m":"풍향계","a":"w_weather_vane.png"}
+{"w":"fern","m":"고사리 잎","a":"w_fern.png"}
+{"w":"aloe plant","m":"알로에","a":"w_aloe_plant.png"}
+{"w":"vase","m":"꽃병","a":"w_vase.png"}
+{"w":"picture frame","m":"액자","a":"w_picture_frame.png"}
+{"w":"wall hook","m":"벽걸이 후크","a":"w_wall_hook.png"}
+{"w":"coat rack","m":"옷걸이대","a":"w_coat_rack.png"}
+{"w":"storage bin","m":"수납함","a":"w_storage_bin.png"}
+{"w":"drawer knob","m":"서랍 손잡이","a":"w_drawer_knob.png"}
+{"w":"door stopper","m":"문 고정대","a":"w_door_stopper.png"}
+{"w":"curtain rod","m":"커튼봉","a":"w_curtain_rod.png"}
+{"w":"window blinds","m":"블라인드","a":"w_window_blinds.png"}
+{"w":"tablecloth","m":"식탁보","a":"w_tablecloth.png"}
+{"w":"party hat","m":"파티 모자","a":"w_party_hat.png"}
+{"w":"party horn","m":"파티 나팔","a":"w_party_horn.png"}
+{"w":"confetti popper","m":"축포","a":"w_confetti_popper.png"}
+{"w":"party streamer","m":"파티 장식줄","a":"w_party_streamer.png"}
+{"w":"pinata","m":"피냐타","a":"w_pinata.png"}
+{"w":"magic wand","m":"마술 지팡이","a":"w_magic_wand.png"}
+{"w":"wizard hat","m":"마법사 모자","a":"w_wizard_hat.png"}
+{"w":"superhero cape","m":"영웅 망토","a":"w_superhero_cape.png"}
+{"w":"costume mask","m":"가면","a":"w_costume_mask.png"}
+{"w":"toy shield","m":"장난감 방패","a":"w_toy_shield.png"}
+{"w":"beanie","m":"비니","a":"w_beanie.png"}
+{"w":"ear muffs","m":"귀마개","a":"w_ear_muffs.png"}
+{"w":"rain poncho","m":"우비 판초","a":"w_rain_poncho.png"}
+{"w":"pajamas","m":"잠옷","a":"w_pajamas.png"}
+{"w":"overalls","m":"멜빵바지","a":"w_overalls.png"}
+{"w":"vest","m":"조끼","a":"w_vest.png"}
+{"w":"ballet shoe","m":"발레 슈즈","a":"w_ballet_shoe.png"}
+{"w":"hoodie","m":"후드티","a":"w_hoodie.png"}
+{"w":"knee pad","m":"무릎 보호대","a":"w_knee_pad.png"}
+{"w":"sleep mask","m":"수면 안대","a":"w_sleep_mask.png"}
+{"w":"wheelchair","m":"휠체어","a":"w_wheelchair.png"}
+{"w":"crutches","m":"목발","a":"w_crutches.png"}
+{"w":"fire hydrant","m":"소화전","a":"w_fire_hydrant.png"}
+{"w":"streetlamp","m":"가로등","a":"w_streetlamp.png"}
+{"w":"fountain","m":"분수","a":"w_fountain.png"}
+{"w":"bird bath","m":"새 물그릇","a":"w_bird_bath.png"}
+{"w":"garden statue","m":"정원 조각상","a":"w_garden_statue.png"}
+{"w":"sundial","m":"해시계","a":"w_sundial.png"}
+{"w":"wind chime","m":"풍경","a":"w_wind_chime.png"}
+{"w":"door knocker","m":"문 두드리개","a":"w_door_knocker.png"}
+{"w":"clipboard clip","m":"클립보드 클립","a":"w_clipboard_clip.png"}
+{"w":"desk lamp","m":"책상 스탠드","a":"w_desk_lamp.png"}
+{"w":"pencil grip","m":"연필 그립","a":"w_pencil_grip.png"}
+{"w":"name tag","m":"이름표","a":"w_name_tag.png"}
+{"w":"book label","m":"책 라벨","a":"w_book_label.png"}
+{"w":"library card","m":"도서관 카드","a":"w_library_card.png"}
+{"w":"bookmark","m":"책갈피","a":"w_bookmark.png"}
+{"w":"desk organizer","m":"책상 정리함","a":"w_desk_organizer.png"}
+{"w":"inbox tray","m":"서류 받침","a":"w_inbox_tray.png"}
+{"w":"pencil extender","m":"연필 연장대","a":"w_pencil_extender.png"}
+{"w":"chalkboard eraser","m":"칠판지우개","a":"w_chalkboard_eraser.png"}
+{"w":"whiteboard eraser","m":"화이트보드 지우개","a":"w_whiteboard_eraser.png"}
+{"w":"dry erase marker","m":"보드마카","a":"w_dry_erase_marker.png"}
+{"w":"correction tape","m":"수정테이프","a":"w_correction_tape.png"}
+{"w":"pencil leads","m":"샤프심","a":"w_pencil_leads.png"}
+{"w":"mechanical pencil","m":"샤프펜슬","a":"w_mechanical_pencil.png"}
+{"w":"fountain pen","m":"만년필","a":"w_fountain_pen.png"}
+{"w":"ink bottle","m":"잉크병","a":"w_ink_bottle.png"}
+{"w":"wax seal","m":"밀랍 도장","a":"w_wax_seal.png"}
+{"w":"letter opener","m":"편지칼","a":"w_letter_opener.png"}
+{"w":"coin purse","m":"동전지갑","a":"w_coin_purse.png"}
+{"w":"money clip","m":"지폐 클립","a":"w_money_clip.png"}
+{"w":"receipt roll","m":"영수증 롤","a":"w_receipt_roll.png"}
+{"w":"price tag","m":"가격표","a":"w_price_tag.png"}
+{"w":"coupon","m":"쿠폰","a":"w_coupon.png"}
+{"w":"ticket stub","m":"표 조각","a":"w_ticket_stub.png"}
+{"w":"token","m":"토큰","a":"w_token.png"}
+{"w":"receipt","m":"영수증","a":"w_receipt.png"}
+{"w":"cash drawer","m":"금전함","a":"w_cash_drawer.png"}
+{"w":"barcode scanner","m":"바코드 스캐너","a":"w_barcode_scanner.png"}
+{"w":"soap dispenser","m":"비누 디스펜서","a":"w_soap_dispenser.png"}
+{"w":"toothbrush holder","m":"칫솔꽂이","a":"w_toothbrush_holder.png"}
+{"w":"bathrobe","m":"목욕가운","a":"w_bathrobe.png"}
+{"w":"shower head","m":"샤워기 헤드","a":"w_shower_head.png"}
+{"w":"shower curtain ring","m":"샤워커튼 고리","a":"w_shower_curtain_ring.png"}
+{"w":"bath sponge","m":"목욕 스펀지","a":"w_bath_sponge.png"}
+{"w":"loofah","m":"샤워볼","a":"w_loofah.png"}
+{"w":"cotton swab","m":"면봉","a":"w_cotton_swab.png"}
+{"w":"cotton ball","m":"솜뭉치","a":"w_cotton_ball.png"}
+{"w":"medicine dropper","m":"스포이드","a":"w_medicine_dropper.png"}
+{"w":"heating pad","m":"찜질팩","a":"w_heating_pad.png"}
+{"w":"ice pack","m":"얼음팩","a":"w_ice_pack.png"}
+{"w":"tongue depressor","m":"설압자","a":"w_tongue_depressor.png"}
+{"w":"otoscope","m":"귀 검사기","a":"w_otoscope.png"}
+{"w":"reflex hammer","m":"반사 망치","a":"w_reflex_hammer.png"}
+{"w":"blood pressure cuff","m":"혈압 커프","a":"w_blood_pressure_cuff.png"}
+{"w":"medical mask","m":"마스크","a":"w_medical_mask.png"}
+{"w":"pill box","m":"약통","a":"w_pill_box.png"}
+{"w":"eye patch","m":"안대","a":"w_eye_patch.png"}
+{"w":"cast bandage","m":"깁스 붕대","a":"w_cast_bandage.png"}
+{"w":"kitchen timer","m":"주방 타이머","a":"w_kitchen_timer.png"}
+{"w":"egg timer","m":"달걀 타이머","a":"w_egg_timer.png"}
+{"w":"mixing bowl","m":"믹싱볼","a":"w_mixing_bowl.png"}
+{"w":"salad spinner","m":"샐러드 탈수기","a":"w_salad_spinner.png"}
+{"w":"potato masher","m":"감자 으깨개","a":"w_potato_masher.png"}
+{"w":"pizza cutter","m":"피자 커터","a":"w_pizza_cutter.png"}
+{"w":"pastry brush","m":"제빵 붓","a":"w_pastry_brush.png"}
+{"w":"cookie cutter","m":"쿠키틀","a":"w_cookie_cutter.png"}
+{"w":"muffin tray","m":"머핀틀","a":"w_muffin_tray.png"}
+{"w":"cake pan","m":"케이크 팬","a":"w_cake_pan.png"}
+{"w":"pie dish","m":"파이 접시","a":"w_pie_dish.png"}
+{"w":"colander","m":"채반","a":"w_colander.png"}
+{"w":"garlic press","m":"마늘 압착기","a":"w_garlic_press.png"}
+{"w":"tea infuser","m":"차 거름망","a":"w_tea_infuser.png"}
+{"w":"sugar bowl","m":"설탕 그릇","a":"w_sugar_bowl.png"}
+{"w":"butter dish","m":"버터 접시","a":"w_butter_dish.png"}
+{"w":"napkin ring","m":"냅킨 링","a":"w_napkin_ring.png"}
+{"w":"serving tray","m":"쟁반","a":"w_serving_tray.png"}
+{"w":"placemat","m":"식탁 매트","a":"w_placemat.png"}
+{"w":"coaster","m":"컵받침","a":"w_coaster.png"}
+{"w":"shoe scraper mat","m":"신발털이 매트","a":"w_shoe_scraper_mat.png"}
+{"w":"shoehorn","m":"구둣주걱","a":"w_shoehorn.png"}
+{"w":"shoe brush","m":"구두솔","a":"w_shoe_brush.png"}
+{"w":"lint roller","m":"먼지 롤러","a":"w_lint_roller.png"}
+{"w":"clothespin","m":"빨래집게","a":"w_clothespin.png"}
+{"w":"clothesline","m":"빨랫줄","a":"w_clothesline.png"}
+{"w":"laundry scoop","m":"세제 스푼","a":"w_laundry_scoop.png"}
+{"w":"fabric softener bottle","m":"섬유유연제 병","a":"w_fabric_softener_bottle.png"}
+{"w":"cleaning cloth","m":"청소 천","a":"w_cleaning_cloth.png"}
+{"w":"window squeegee","m":"유리 닦이","a":"w_window_squeegee.png"}
+{"w":"dust brush","m":"먼지털이 솔","a":"w_dust_brush.png"}
+{"w":"scrub brush","m":"청소솔","a":"w_scrub_brush.png"}
+{"w":"garden shears","m":"정원 가위","a":"w_garden_shears.png"}
+{"w":"pruning snips","m":"전지가위","a":"w_pruning_snips.png"}
+{"w":"garden gloves","m":"정원 장갑","a":"w_garden_gloves.png"}
+{"w":"plant saucer","m":"화분 받침","a":"w_plant_saucer.png"}
+{"w":"terrarium","m":"테라리움","a":"w_terrarium.png"}
+{"w":"bird seed bag","m":"새 모이 봉지","a":"w_bird_seed_bag.png"}
+{"w":"garden kneeler","m":"정원 무릎패드","a":"w_garden_kneeler.png"}
+{"w":"leaf bag","m":"낙엽 봉투","a":"w_leaf_bag.png"}
+{"w":"watering spike","m":"물주기 꽂이","a":"w_watering_spike.png"}
+{"w":"sprinkler head","m":"스프링클러 헤드","a":"w_sprinkler_head.png"}
+{"w":"mail slot","m":"우편 투입구","a":"w_mail_slot.png"}
+{"w":"house number tile","m":"집 번호 타일","a":"w_house_number_tile.png"}
+{"w":"privacy screen","m":"가림막","a":"w_privacy_screen.png"}
+{"w":"door chain","m":"문 안전고리","a":"w_door_chain.png"}
+{"w":"cabinet handle","m":"수납장 손잡이","a":"w_cabinet_handle.png"}
+{"w":"hinge","m":"경첩","a":"w_hinge.png"}
+{"w":"rubber foot","m":"고무 받침","a":"w_rubber_foot.png"}
+{"w":"felt pad","m":"가구 보호 패드","a":"w_felt_pad.png"}
+{"w":"door handle","m":"문손잡이","a":"w_door_handle.png"}
+{"w":"strike plate","m":"잠금 받이판","a":"w_strike_plate.png"}
+{"w":"flush pull","m":"매입 손잡이","a":"w_flush_pull.png"}
+{"w":"sliding latch","m":"빗장","a":"w_sliding_latch.png"}
+{"w":"hasp latch","m":"걸쇠 잠금장치","a":"w_hasp_latch.png"}
+{"w":"deadbolt lock","m":"문 잠금쇠","a":"w_deadbolt_lock.png"}
+{"w":"keyhole plate","m":"열쇠구멍 판","a":"w_keyhole_plate.png"}
+{"w":"gate latch","m":"문걸쇠","a":"w_gate_latch.png"}
+{"w":"corner brace","m":"모서리 받침쇠","a":"w_corner_brace.png"}
+{"w":"shelf bracket","m":"선반 받침대","a":"w_shelf_bracket.png"}
+{"w":"wall anchor","m":"벽 고정못","a":"w_wall_anchor.png"}
+{"w":"hex key","m":"육각 렌치","a":"w_hex_key.png"}
+{"w":"socket wrench","m":"소켓 렌치","a":"w_socket_wrench.png"}
+{"w":"pipe wrench","m":"파이프 렌치","a":"w_pipe_wrench.png"}
+{"w":"putty knife","m":"퍼티 나이프","a":"w_putty_knife.png"}
+{"w":"utility knife","m":"커터칼","a":"w_utility_knife.png"}
+{"w":"tool belt","m":"공구 벨트","a":"w_tool_belt.png"}
+{"w":"wood plane","m":"대패","a":"w_wood_plane.png"}
+{"w":"chisel","m":"끌","a":"w_chisel.png"}
+{"w":"brick","m":"벽돌","a":"w_brick.png"}
+{"w":"cement trowel","m":"시멘트 흙손","a":"w_cement_trowel.png"}
+{"w":"caulk gun","m":"실리콘 총","a":"w_caulk_gun.png"}
+{"w":"wide paintbrush","m":"넓은 붓","a":"w_wide_paintbrush.png"}
+{"w":"drop cloth","m":"보양 천","a":"w_drop_cloth.png"}
+{"w":"tile spacer","m":"타일 간격재","a":"w_tile_spacer.png"}
+{"w":"ceramic tile","m":"도자기 타일","a":"w_ceramic_tile.png"}
+{"w":"wood plank","m":"나무 판자","a":"w_wood_plank.png"}
+{"w":"sanding block","m":"사포 블록","a":"w_sanding_block.png"}
+{"w":"extension cord","m":"연장 코드","a":"w_extension_cord.png"}
+{"w":"power strip","m":"멀티탭","a":"w_power_strip.png"}
+{"w":"night light","m":"무드등","a":"w_night_light.png"}
+{"w":"lamp shade","m":"전등갓","a":"w_lamp_shade.png"}
+{"w":"ceiling fan","m":"천장 선풍기","a":"w_ceiling_fan.png"}
+{"w":"air purifier","m":"공기청정기","a":"w_air_purifier.png"}
+{"w":"humidifier","m":"가습기","a":"w_humidifier.png"}
+{"w":"dehumidifier","m":"제습기","a":"w_dehumidifier.png"}
+{"w":"space heater","m":"전기 히터","a":"w_space_heater.png"}
+{"w":"air conditioner","m":"에어컨","a":"w_air_conditioner.png"}
+{"w":"thermostat","m":"온도 조절기","a":"w_thermostat.png"}
+{"w":"smoke detector","m":"화재 감지기","a":"w_smoke_detector.png"}
+{"w":"carbon monoxide detector","m":"일산화탄소 감지기","a":"w_carbon_monoxide_detector.png"}
+{"w":"security camera","m":"보안 카메라","a":"w_security_camera.png"}
+{"w":"motion sensor","m":"동작 감지기","a":"w_motion_sensor.png"}
+{"w":"garage remote","m":"차고 리모컨","a":"w_garage_remote.png"}
+{"w":"fan remote","m":"선풍기 리모컨","a":"w_fan_remote.png"}
+{"w":"window lock","m":"창문 잠금장치","a":"w_window_lock.png"}
+{"w":"curtain tieback","m":"커튼 묶개","a":"w_curtain_tieback.png"}
+{"w":"drawer divider","m":"서랍 칸막이","a":"w_drawer_divider.png"}
+{"w":"closet rod","m":"옷장 봉","a":"w_closet_rod.png"}
+{"w":"shoe rack","m":"신발장","a":"w_shoe_rack.png"}
+{"w":"umbrella stand","m":"우산꽂이","a":"w_umbrella_stand.png"}
+{"w":"magazine rack","m":"잡지 꽂이","a":"w_magazine_rack.png"}
+{"w":"remote holder","m":"리모컨 꽂이","a":"w_remote_holder.png"}
+{"w":"cable clip","m":"케이블 클립","a":"w_cable_clip.png"}
+{"w":"cord wrap","m":"코드 정리개","a":"w_cord_wrap.png"}
+{"w":"phone stand","m":"휴대폰 거치대","a":"w_phone_stand.png"}
+{"w":"tablet stand","m":"태블릿 거치대","a":"w_tablet_stand.png"}
+{"w":"laptop stand","m":"노트북 받침대","a":"w_laptop_stand.png"}
+{"w":"mouse pad","m":"마우스 패드","a":"w_mouse_pad.png"}
+{"w":"wrist rest","m":"손목 받침대","a":"w_wrist_rest.png"}
+{"w":"screen cleaner","m":"화면 클리너","a":"w_screen_cleaner.png"}
+{"w":"lens cloth","m":"렌즈 천","a":"w_lens_cloth.png"}
+{"w":"sd card case","m":"메모리카드 케이스","a":"w_sd_card_case.png"}
+{"w":"earbud case","m":"이어버드 케이스","a":"w_earbud_case.png"}
+{"w":"webcam cover","m":"웹캠 가리개","a":"w_webcam_cover.png"}
+{"w":"stylus pen","m":"터치펜","a":"w_stylus_pen.png"}
+{"w":"drawing tablet","m":"그림 태블릿","a":"w_drawing_tablet.png"}
+{"w":"label maker","m":"라벨기","a":"w_label_maker.png"}
+{"w":"desk blotter","m":"책상 매트","a":"w_desk_blotter.png"}
+{"w":"file sorter","m":"파일 분류함","a":"w_file_sorter.png"}
+{"w":"paperweight","m":"문진","a":"w_paperweight.png"}
+{"w":"desk nameplate","m":"책상 이름판","a":"w_desk_nameplate.png"}
+{"w":"envelope moistener","m":"봉투 접착기","a":"w_envelope_moistener.png"}
+{"w":"stamp pad","m":"스탬프 패드","a":"w_stamp_pad.png"}
+{"w":"paper cutter","m":"종이 재단기","a":"w_paper_cutter.png"}
+{"w":"laminator","m":"코팅기","a":"w_laminator.png"}
+{"w":"laminating sheet","m":"코팅 필름","a":"w_laminating_sheet.png"}
+{"w":"binding comb","m":"제본 링","a":"w_binding_comb.png"}
+{"w":"badge reel","m":"명찰 릴","a":"w_badge_reel.png"}
+{"w":"lanyard","m":"목걸이 줄","a":"w_lanyard.png"}
+{"w":"id card holder","m":"카드 홀더","a":"w_id_card_holder.png"}
+{"w":"clear folder","m":"투명 파일","a":"w_clear_folder.png"}
+{"w":"accordion file","m":"아코디언 파일","a":"w_accordion_file.png"}
+{"w":"document tube","m":"도면 통","a":"w_document_tube.png"}
+{"w":"poster roll","m":"포스터 말이","a":"w_poster_roll.png"}
+{"w":"craft cutting mat","m":"공예 매트","a":"w_craft_cutting_mat.png"}
+{"w":"foam sheet","m":"폼 시트","a":"w_foam_sheet.png"}
+{"w":"craft stick","m":"공예 막대","a":"w_craft_stick.png"}
+{"w":"wooden dowel","m":"나무 막대","a":"w_wooden_dowel.png"}
+{"w":"felt board","m":"펠트 보드","a":"w_felt_board.png"}
+{"w":"mini canvas stand","m":"작은 캔버스 받침","a":"w_mini_canvas_stand.png"}
+{"w":"paint water cup","m":"물감 물컵","a":"w_paint_water_cup.png"}
+{"w":"brush rest","m":"붓 받침","a":"w_brush_rest.png"}
+{"w":"clay tool","m":"점토 도구","a":"w_clay_tool.png"}
+{"w":"stencil sheet","m":"스텐실 판","a":"w_stencil_sheet.png"}
+{"w":"hole reinforcement","m":"구멍 보강 스티커","a":"w_hole_reinforcement.png"}
+{"w":"paper fastener","m":"종이 고정핀","a":"w_paper_fastener.png"}
+{"w":"split ring","m":"갈라진 고리","a":"w_split_ring.png"}
+{"w":"snap hook","m":"스냅 고리","a":"w_snap_hook.png"}
+{"w":"liver","m":"간","a":"w_liver.png"}
+{"w":"water","m":"물","a":"w_water.png"}
+{"w":"path","m":"길","a":"w_path.png"}
+{"w":"persimmon","m":"감","a":"w_persimmon.png"}
+{"w":"seaweed","m":"김","a":"w_seaweed.png"}
+{"w":"chestnut","m":"밤","a":"w_chestnut.png"}
+{"w":"river","m":"강","a":"w_river.png"}
+{"w":"room","m":"방","a":"w_room.png"}
+{"w":"award","m":"상","a":"w_award.png"}
+{"w":"soup","m":"탕","a":"w_soup.png"}
