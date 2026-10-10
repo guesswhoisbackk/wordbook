@@ -1,893 +1,893 @@
-{"w":"pencil","m":"연필","a":"w_pencil.wmr"}
-{"w":"eraser","m":"지우개","a":"w_eraser.wmr"}
-{"w":"ruler","m":"자","a":"w_ruler.wmr"}
-{"w":"crayon box","m":"크레용","a":"w_crayon_box.wmr"}
-{"w":"glue stick","m":"풀","a":"w_glue_stick.wmr"}
-{"w":"scissors","m":"가위","a":"w_scissors.wmr"}
-{"w":"backpack","m":"가방","a":"w_backpack.wmr"}
-{"w":"notebook","m":"공책","a":"w_notebook.wmr"}
-{"w":"book","m":"책","a":"w_book.wmr"}
-{"w":"desk","m":"책상","a":"w_desk.wmr"}
-{"w":"chair","m":"의자","a":"w_chair.wmr"}
-{"w":"blackboard","m":"칠판","a":"w_blackboard.wmr"}
-{"w":"chalk","m":"분필","a":"w_chalk.wmr"}
-{"w":"marker","m":"마커","a":"w_marker.wmr"}
-{"w":"paintbrush","m":"붓","a":"w_paintbrush.wmr"}
-{"w":"palette","m":"팔레트","a":"w_palette.wmr"}
-{"w":"stapler","m":"스테이플러","a":"w_stapler.wmr"}
-{"w":"paperclip","m":"클립","a":"w_paperclip.wmr"}
-{"w":"calculator","m":"계산기","a":"w_calculator.wmr"}
-{"w":"clock","m":"시계","a":"w_clock.wmr"}
-{"w":"lunchbox","m":"도시락","a":"w_lunchbox.wmr"}
-{"w":"water bottle","m":"물병","a":"w_water_bottle.wmr"}
-{"w":"globe","m":"지구본","a":"w_globe.wmr"}
-{"w":"map","m":"지도","a":"w_map.wmr"}
-{"w":"magnifying glass","m":"돋보기","a":"w_magnifying_glass.wmr"}
-{"w":"bell","m":"종","a":"w_bell.wmr"}
-{"w":"calendar","m":"달력","a":"w_calendar.wmr"}
-{"w":"folder","m":"폴더","a":"w_folder.wmr"}
-{"w":"paper","m":"종이","a":"w_paper.wmr"}
-{"w":"tape","m":"테이프","a":"w_tape.wmr"}
-{"w":"pencil case","m":"필통","a":"w_pencil_case.wmr"}
-{"w":"sharpener","m":"연필깎이","a":"w_sharpener.wmr"}
-{"w":"highlighter","m":"형광펜","a":"w_highlighter.wmr"}
-{"w":"pen","m":"펜","a":"w_pen.wmr"}
-{"w":"whiteboard","m":"화이트보드","a":"w_whiteboard.wmr"}
-{"w":"computer","m":"컴퓨터","a":"w_computer.wmr"}
-{"w":"tablet","m":"태블릿","a":"w_tablet.wmr"}
-{"w":"headphones","m":"헤드폰","a":"w_headphones.wmr"}
-{"w":"trophy","m":"트로피","a":"w_trophy.wmr"}
-{"w":"medal","m":"메달","a":"w_medal.wmr"}
-{"w":"star sticker","m":"별스티커","a":"w_star_sticker.wmr"}
-{"w":"puzzle piece","m":"퍼즐","a":"w_puzzle_piece.wmr"}
-{"w":"building block","m":"블록","a":"w_building_block.wmr"}
-{"w":"ball","m":"공","a":"w_ball.wmr"}
-{"w":"kite","m":"연","a":"w_kite.wmr"}
-{"w":"umbrella","m":"우산","a":"w_umbrella.wmr"}
-{"w":"rain boots","m":"장화","a":"w_rain_boots.wmr"}
-{"w":"hat","m":"모자","a":"w_hat.wmr"}
-{"w":"shoe","m":"신발","a":"w_shoe.wmr"}
-{"w":"socks","m":"양말","a":"w_socks.wmr"}
-{"w":"apple","m":"사과","a":"w_apple.wmr"}
-{"w":"banana","m":"바나나","a":"w_banana.wmr"}
-{"w":"orange","m":"오렌지","a":"w_orange.wmr"}
-{"w":"strawberry","m":"딸기","a":"w_strawberry.wmr"}
-{"w":"grapes","m":"포도","a":"w_grapes.wmr"}
-{"w":"watermelon","m":"수박","a":"w_watermelon.wmr"}
-{"w":"pear","m":"배","a":"w_pear.wmr"}
-{"w":"peach","m":"복숭아","a":"w_peach.wmr"}
-{"w":"pineapple","m":"파인애플","a":"w_pineapple.wmr"}
-{"w":"cherries","m":"체리","a":"w_cherries.wmr"}
-{"w":"carrot","m":"당근","a":"w_carrot.wmr"}
-{"w":"tomato","m":"토마토","a":"w_tomato.wmr"}
-{"w":"cucumber","m":"오이","a":"w_cucumber.wmr"}
-{"w":"pumpkin","m":"호박","a":"w_pumpkin.wmr"}
-{"w":"corn","m":"옥수수","a":"w_corn.wmr"}
-{"w":"broccoli","m":"브로콜리","a":"w_broccoli.wmr"}
-{"w":"mushroom","m":"버섯","a":"w_mushroom.wmr"}
-{"w":"potato","m":"감자","a":"w_potato.wmr"}
-{"w":"onion","m":"양파","a":"w_onion.wmr"}
-{"w":"eggplant","m":"가지","a":"w_eggplant.wmr"}
-{"w":"bed","m":"침대","a":"w_bed.wmr"}
-{"w":"pillow","m":"베개","a":"w_pillow.wmr"}
-{"w":"blanket","m":"담요","a":"w_blanket.wmr"}
-{"w":"lamp","m":"램프","a":"w_lamp.wmr"}
-{"w":"sofa","m":"소파","a":"w_sofa.wmr"}
-{"w":"armchair","m":"안락의자","a":"w_armchair.wmr"}
-{"w":"bookshelf","m":"책장","a":"w_bookshelf.wmr"}
-{"w":"dresser","m":"서랍장","a":"w_dresser.wmr"}
-{"w":"mirror","m":"거울","a":"w_mirror.wmr"}
-{"w":"window","m":"창문","a":"w_window.wmr"}
-{"w":"door","m":"문","a":"w_door.wmr"}
-{"w":"bathtub","m":"욕조","a":"w_bathtub.wmr"}
-{"w":"sink","m":"세면대","a":"w_sink.wmr"}
-{"w":"toothbrush","m":"칫솔","a":"w_toothbrush.wmr"}
-{"w":"toothpaste","m":"치약","a":"w_toothpaste.wmr"}
-{"w":"soap","m":"비누","a":"w_soap.wmr"}
-{"w":"towel","m":"수건","a":"w_towel.wmr"}
-{"w":"comb","m":"빗","a":"w_comb.wmr"}
-{"w":"hairbrush","m":"헤어브러시","a":"w_hairbrush.wmr"}
-{"w":"shampoo","m":"샴푸","a":"w_shampoo.wmr"}
-{"w":"fork","m":"포크","a":"w_fork.wmr"}
-{"w":"spoon","m":"숟가락","a":"w_spoon.wmr"}
-{"w":"knife","m":"나이프","a":"w_knife.wmr"}
-{"w":"plate","m":"접시","a":"w_plate.wmr"}
-{"w":"bowl","m":"그릇","a":"w_bowl.wmr"}
-{"w":"cup","m":"컵","a":"w_cup.wmr"}
-{"w":"mug","m":"머그컵","a":"w_mug.wmr"}
-{"w":"teapot","m":"찻주전자","a":"w_teapot.wmr"}
-{"w":"frying pan","m":"프라이팬","a":"w_frying_pan.wmr"}
-{"w":"pot","m":"냄비","a":"w_pot.wmr"}
-{"w":"kettle","m":"주전자","a":"w_kettle.wmr"}
-{"w":"whisk","m":"거품기","a":"w_whisk.wmr"}
-{"w":"spatula","m":"뒤집개","a":"w_spatula.wmr"}
-{"w":"ladle","m":"국자","a":"w_ladle.wmr"}
-{"w":"cutting board","m":"도마","a":"w_cutting_board.wmr"}
-{"w":"rolling pin","m":"밀대","a":"w_rolling_pin.wmr"}
-{"w":"bread","m":"빵","a":"w_bread.wmr"}
-{"w":"croissant","m":"크루아상","a":"w_croissant.wmr"}
-{"w":"cupcake","m":"컵케이크","a":"w_cupcake.wmr"}
-{"w":"donut","m":"도넛","a":"w_donut.wmr"}
-{"w":"cookie","m":"쿠키","a":"w_cookie.wmr"}
-{"w":"ice cream","m":"아이스크림","a":"w_ice_cream.wmr"}
-{"w":"pizza slice","m":"피자","a":"w_pizza_slice.wmr"}
-{"w":"hamburger","m":"햄버거","a":"w_hamburger.wmr"}
-{"w":"hot dog","m":"핫도그","a":"w_hot_dog.wmr"}
-{"w":"taco","m":"타코","a":"w_taco.wmr"}
-{"w":"bus","m":"버스","a":"w_bus.wmr"}
-{"w":"car","m":"자동차","a":"w_car.wmr"}
-{"w":"truck","m":"트럭","a":"w_truck.wmr"}
-{"w":"bicycle","m":"자전거","a":"w_bicycle.wmr"}
-{"w":"scooter","m":"킥보드","a":"w_scooter.wmr"}
-{"w":"skateboard","m":"스케이트보드","a":"w_skateboard.wmr"}
-{"w":"train","m":"기차","a":"w_train.wmr"}
-{"w":"airplane","m":"비행기","a":"w_airplane.wmr"}
-{"w":"helicopter","m":"헬리콥터","a":"w_helicopter.wmr"}
-{"w":"motorboat","m":"모터보트","a":"w_motorboat.wmr"}
-{"w":"sailboat","m":"돛단배","a":"w_sailboat.wmr"}
-{"w":"submarine","m":"잠수함","a":"w_submarine.wmr"}
-{"w":"rocket","m":"로켓","a":"w_rocket.wmr"}
-{"w":"traffic light","m":"신호등","a":"w_traffic_light.wmr"}
-{"w":"road cone","m":"라바콘","a":"w_road_cone.wmr"}
-{"w":"excavator","m":"포크레인","a":"w_excavator.wmr"}
-{"w":"dump truck","m":"덤프트럭","a":"w_dump_truck.wmr"}
-{"w":"tractor","m":"트랙터","a":"w_tractor.wmr"}
-{"w":"tram","m":"트램","a":"w_tram.wmr"}
-{"w":"hot air balloon","m":"열기구","a":"w_hot_air_balloon.wmr"}
-{"w":"parachute","m":"낙하산","a":"w_parachute.wmr"}
-{"w":"wheel","m":"바퀴","a":"w_wheel.wmr"}
-{"w":"anchor","m":"닻","a":"w_anchor.wmr"}
-{"w":"lighthouse","m":"등대","a":"w_lighthouse.wmr"}
-{"w":"tree","m":"나무","a":"w_tree.wmr"}
-{"w":"leaf","m":"잎사귀","a":"w_leaf.wmr"}
-{"w":"flower","m":"꽃","a":"w_flower.wmr"}
-{"w":"sunflower","m":"해바라기","a":"w_sunflower.wmr"}
-{"w":"cactus","m":"선인장","a":"w_cactus.wmr"}
-{"w":"acorn","m":"도토리","a":"w_acorn.wmr"}
-{"w":"snowflake","m":"눈송이","a":"w_snowflake.wmr"}
-{"w":"cloud","m":"구름","a":"w_cloud.wmr"}
-{"w":"rainbow","m":"무지개","a":"w_rainbow.wmr"}
-{"w":"sun","m":"태양","a":"w_sun.wmr"}
-{"w":"moon","m":"초승달","a":"w_moon.wmr"}
-{"w":"mountain","m":"산","a":"w_mountain.wmr"}
-{"w":"volcano","m":"화산","a":"w_volcano.wmr"}
-{"w":"seashell","m":"조개껍데기","a":"w_seashell.wmr"}
-{"w":"palm tree","m":"야자수","a":"w_palm_tree.wmr"}
-{"w":"pine tree","m":"소나무","a":"w_pine_tree.wmr"}
-{"w":"watering can","m":"물뿌리개","a":"w_watering_can.wmr"}
-{"w":"shovel","m":"삽","a":"w_shovel.wmr"}
-{"w":"rake","m":"갈퀴","a":"w_rake.wmr"}
-{"w":"trowel","m":"모종삽","a":"w_trowel.wmr"}
-{"w":"bucket","m":"양동이","a":"w_bucket.wmr"}
-{"w":"flower pot","m":"화분","a":"w_flower_pot.wmr"}
-{"w":"garden hose","m":"호스","a":"w_garden_hose.wmr"}
-{"w":"wheelbarrow","m":"손수레","a":"w_wheelbarrow.wmr"}
-{"w":"key","m":"열쇠","a":"w_key.wmr"}
-{"w":"padlock","m":"자물쇠","a":"w_padlock.wmr"}
-{"w":"gift box","m":"선물상자","a":"w_gift_box.wmr"}
-{"w":"candle","m":"양초","a":"w_candle.wmr"}
-{"w":"flashlight","m":"손전등","a":"w_flashlight.wmr"}
-{"w":"battery","m":"건전지","a":"w_battery.wmr"}
-{"w":"camera","m":"카메라","a":"w_camera.wmr"}
-{"w":"binoculars","m":"쌍안경","a":"w_binoculars.wmr"}
-{"w":"suitcase","m":"여행가방","a":"w_suitcase.wmr"}
-{"w":"handbag","m":"핸드백","a":"w_handbag.wmr"}
-{"w":"wallet","m":"지갑","a":"w_wallet.wmr"}
-{"w":"eyeglasses","m":"안경","a":"w_eyeglasses.wmr"}
-{"w":"wristwatch","m":"손목시계","a":"w_wristwatch.wmr"}
-{"w":"ring","m":"반지","a":"w_ring.wmr"}
-{"w":"necklace","m":"목걸이","a":"w_necklace.wmr"}
-{"w":"scarf","m":"목도리","a":"w_scarf.wmr"}
-{"w":"mittens","m":"벙어리장갑","a":"w_mittens.wmr"}
-{"w":"jacket","m":"재킷","a":"w_jacket.wmr"}
-{"w":"t-shirt","m":"티셔츠","a":"w_t-shirt.wmr"}
-{"w":"pants","m":"바지","a":"w_pants.wmr"}
-{"w":"dress","m":"원피스","a":"w_dress.wmr"}
-{"w":"slippers","m":"슬리퍼","a":"w_slippers.wmr"}
-{"w":"hanger","m":"옷걸이","a":"w_hanger.wmr"}
-{"w":"button","m":"단추","a":"w_button.wmr"}
-{"w":"zipper","m":"지퍼","a":"w_zipper.wmr"}
-{"w":"belt","m":"벨트","a":"w_belt.wmr"}
-{"w":"yo-yo","m":"요요","a":"w_yo-yo.wmr"}
-{"w":"teddy bear","m":"곰인형","a":"w_teddy_bear.wmr"}
-{"w":"toy robot","m":"장난감로봇","a":"w_toy_robot.wmr"}
-{"w":"toy car","m":"장난감자동차","a":"w_toy_car.wmr"}
-{"w":"spinning top","m":"팽이","a":"w_spinning_top.wmr"}
-{"w":"jump rope","m":"줄넘기","a":"w_jump_rope.wmr"}
-{"w":"toy drum","m":"북","a":"w_toy_drum.wmr"}
-{"w":"balloon","m":"풍선","a":"w_balloon.wmr"}
-{"w":"pinwheel","m":"바람개비","a":"w_pinwheel.wmr"}
-{"w":"marble","m":"구슬","a":"w_marble.wmr"}
-{"w":"soccer ball","m":"축구공","a":"w_soccer_ball.wmr"}
-{"w":"basketball","m":"농구공","a":"w_basketball.wmr"}
-{"w":"baseball bat","m":"야구방망이","a":"w_baseball_bat.wmr"}
-{"w":"tennis racket","m":"테니스라켓","a":"w_tennis_racket.wmr"}
-{"w":"bowling pin","m":"볼링핀","a":"w_bowling_pin.wmr"}
-{"w":"whistle","m":"호루라기","a":"w_whistle.wmr"}
-{"w":"megaphone","m":"메가폰","a":"w_megaphone.wmr"}
-{"w":"avocado","m":"아보카도","a":"w_avocado.wmr"}
-{"w":"lemon","m":"레몬","a":"w_lemon.wmr"}
-{"w":"coconut","m":"코코넛","a":"w_coconut.wmr"}
-{"w":"cheese","m":"치즈","a":"w_cheese.wmr"}
-{"w":"milk carton","m":"우유팩","a":"w_milk_carton.wmr"}
-{"w":"juice box","m":"주스상자","a":"w_juice_box.wmr"}
-{"w":"jam jar","m":"잼병","a":"w_jam_jar.wmr"}
-{"w":"honey jar","m":"꿀병","a":"w_honey_jar.wmr"}
-{"w":"sandwich","m":"샌드위치","a":"w_sandwich.wmr"}
-{"w":"sushi roll","m":"김밥","a":"w_sushi_roll.wmr"}
-{"w":"pretzel","m":"프레첼","a":"w_pretzel.wmr"}
-{"w":"french fries","m":"감자튀김","a":"w_french_fries.wmr"}
-{"w":"fried egg","m":"달걀프라이","a":"w_fried_egg.wmr"}
-{"w":"picnic basket","m":"피크닉바구니","a":"w_picnic_basket.wmr"}
-{"w":"toolbox","m":"공구상자","a":"w_toolbox.wmr"}
-{"w":"hammer","m":"망치","a":"w_hammer.wmr"}
-{"w":"screwdriver","m":"드라이버","a":"w_screwdriver.wmr"}
-{"w":"wrench","m":"렌치","a":"w_wrench.wmr"}
-{"w":"paint roller","m":"페인트롤러","a":"w_paint_roller.wmr"}
-{"w":"mop","m":"밀대","a":"w_mop.wmr"}
-{"w":"broom","m":"빗자루","a":"w_broom.wmr"}
-{"w":"dustpan","m":"쓰레받기","a":"w_dustpan.wmr"}
-{"w":"vacuum cleaner","m":"청소기","a":"w_vacuum_cleaner.wmr"}
-{"w":"fan","m":"선풍기","a":"w_fan.wmr"}
-{"w":"alarm clock","m":"알람시계","a":"w_alarm_clock.wmr"}
-{"w":"hourglass","m":"모래시계","a":"w_hourglass.wmr"}
-{"w":"notepad","m":"메모장","a":"w_notepad.wmr"}
-{"w":"envelope","m":"봉투","a":"w_envelope.wmr"}
-{"w":"rubber stamp","m":"스탬프","a":"w_rubber_stamp.wmr"}
-{"w":"lunch tray","m":"식판","a":"w_lunch_tray.wmr"}
-{"w":"chef hat","m":"요리사모자","a":"w_chef_hat.wmr"}
-{"w":"treasure chest","m":"보물상자","a":"w_treasure_chest.wmr"}
-{"w":"paper airplane","m":"종이비행기","a":"w_paper_airplane.wmr"}
-{"w":"starfish","m":"불가사리","a":"w_starfish.wmr"}
-{"w":"compass","m":"나침반","a":"w_compass.wmr"}
-{"w":"magnet","m":"자석","a":"w_magnet.wmr"}
-{"w":"clipboard","m":"클립보드","a":"w_clipboard.wmr"}
-{"w":"triangle ruler","m":"삼각자","a":"w_triangle_ruler.wmr"}
-{"w":"paint tube","m":"물감튜브","a":"w_paint_tube.wmr"}
-{"w":"apron","m":"앞치마","a":"w_apron.wmr"}
-{"w":"safety pin","m":"옷핀","a":"w_safety_pin.wmr"}
-{"w":"feather","m":"깃털","a":"w_feather.wmr"}
-{"w":"crown","m":"왕관","a":"w_crown.wmr"}
-{"w":"cat","m":"고양이","a":"w_cat.wmr"}
-{"w":"dog","m":"강아지","a":"w_dog.wmr"}
-{"w":"rabbit","m":"토끼","a":"w_rabbit.wmr"}
-{"w":"bird","m":"새","a":"w_bird.wmr"}
-{"w":"fish","m":"물고기","a":"w_fish.wmr"}
-{"w":"turtle","m":"거북이","a":"w_turtle.wmr"}
-{"w":"frog","m":"개구리","a":"w_frog.wmr"}
-{"w":"duck","m":"오리","a":"w_duck.wmr"}
-{"w":"chicken","m":"닭","a":"w_chicken.wmr"}
-{"w":"cow","m":"소","a":"w_cow.wmr"}
-{"w":"pig","m":"돼지","a":"w_pig.wmr"}
-{"w":"sheep","m":"양","a":"w_sheep.wmr"}
-{"w":"horse","m":"말","a":"w_horse.wmr"}
-{"w":"lion","m":"사자","a":"w_lion.wmr"}
-{"w":"tiger","m":"호랑이","a":"w_tiger.wmr"}
-{"w":"elephant","m":"코끼리","a":"w_elephant.wmr"}
-{"w":"giraffe","m":"기린","a":"w_giraffe.wmr"}
-{"w":"zebra","m":"얼룩말","a":"w_zebra.wmr"}
-{"w":"monkey","m":"원숭이","a":"w_monkey.wmr"}
-{"w":"panda","m":"판다","a":"w_panda.wmr"}
-{"w":"bear","m":"곰","a":"w_bear.wmr"}
-{"w":"fox","m":"여우","a":"w_fox.wmr"}
-{"w":"deer","m":"사슴","a":"w_deer.wmr"}
-{"w":"penguin","m":"펭귄","a":"w_penguin.wmr"}
-{"w":"whale","m":"고래","a":"w_whale.wmr"}
-{"w":"dolphin","m":"돌고래","a":"w_dolphin.wmr"}
-{"w":"octopus","m":"문어","a":"w_octopus.wmr"}
-{"w":"crab","m":"게","a":"w_crab.wmr"}
-{"w":"butterfly","m":"나비","a":"w_butterfly.wmr"}
-{"w":"bee","m":"벌","a":"w_bee.wmr"}
-{"w":"ladybug","m":"무당벌레","a":"w_ladybug.wmr"}
-{"w":"ant","m":"개미","a":"w_ant.wmr"}
-{"w":"snail","m":"달팽이","a":"w_snail.wmr"}
-{"w":"spider","m":"거미","a":"w_spider.wmr"}
-{"w":"dragonfly","m":"잠자리","a":"w_dragonfly.wmr"}
-{"w":"tv","m":"텔레비전","a":"w_tv.wmr"}
-{"w":"smartphone","m":"스마트폰","a":"w_smartphone.wmr"}
-{"w":"remote control","m":"리모컨","a":"w_remote_control.wmr"}
-{"w":"keyboard","m":"키보드","a":"w_keyboard.wmr"}
-{"w":"computer mouse","m":"마우스","a":"w_computer_mouse.wmr"}
-{"w":"speaker","m":"스피커","a":"w_speaker.wmr"}
-{"w":"microphone","m":"마이크","a":"w_microphone.wmr"}
-{"w":"radio","m":"라디오","a":"w_radio.wmr"}
-{"w":"game controller","m":"게임패드","a":"w_game_controller.wmr"}
-{"w":"light bulb","m":"전구","a":"w_light_bulb.wmr"}
-{"w":"electric plug","m":"플러그","a":"w_electric_plug.wmr"}
-{"w":"guitar","m":"기타","a":"w_guitar.wmr"}
-{"w":"piano keyboard","m":"피아노","a":"w_piano_keyboard.wmr"}
-{"w":"violin","m":"바이올린","a":"w_violin.wmr"}
-{"w":"trumpet","m":"트럼펫","a":"w_trumpet.wmr"}
-{"w":"tambourine","m":"탬버린","a":"w_tambourine.wmr"}
-{"w":"maracas","m":"마라카스","a":"w_maracas.wmr"}
-{"w":"xylophone","m":"실로폰","a":"w_xylophone.wmr"}
-{"w":"mailbox","m":"우체통","a":"w_mailbox.wmr"}
-{"w":"stethoscope","m":"청진기","a":"w_stethoscope.wmr"}
-{"w":"fire extinguisher","m":"소화기","a":"w_fire_extinguisher.wmr"}
-{"w":"first aid kit","m":"구급상자","a":"w_first_aid_kit.wmr"}
-{"w":"toilet","m":"변기","a":"w_toilet.wmr"}
-{"w":"toilet paper","m":"화장지","a":"w_toilet_paper.wmr"}
-{"w":"trash can","m":"쓰레기통","a":"w_trash_can.wmr"}
-{"w":"house","m":"집","a":"w_house.wmr"}
-{"w":"apartment building","m":"아파트","a":"w_apartment_building.wmr"}
-{"w":"school building","m":"학교","a":"w_school_building.wmr"}
-{"w":"hospital building","m":"병원","a":"w_hospital_building.wmr"}
-{"w":"fire station","m":"소방서","a":"w_fire_station.wmr"}
-{"w":"police station","m":"경찰서","a":"w_police_station.wmr"}
-{"w":"post office","m":"우체국","a":"w_post_office.wmr"}
-{"w":"library building","m":"도서관","a":"w_library_building.wmr"}
-{"w":"supermarket","m":"슈퍼마켓","a":"w_supermarket.wmr"}
-{"w":"bakery shop","m":"빵집","a":"w_bakery_shop.wmr"}
-{"w":"restaurant","m":"식당","a":"w_restaurant.wmr"}
-{"w":"bank","m":"은행","a":"w_bank.wmr"}
-{"w":"gas station","m":"주유소","a":"w_gas_station.wmr"}
-{"w":"bridge","m":"다리","a":"w_bridge.wmr"}
-{"w":"castle","m":"성","a":"w_castle.wmr"}
-{"w":"tent","m":"텐트","a":"w_tent.wmr"}
-{"w":"cabin","m":"오두막","a":"w_cabin.wmr"}
-{"w":"barn","m":"헛간","a":"w_barn.wmr"}
-{"w":"fence","m":"울타리","a":"w_fence.wmr"}
-{"w":"playground slide","m":"미끄럼틀","a":"w_playground_slide.wmr"}
-{"w":"swing set","m":"그네","a":"w_swing_set.wmr"}
-{"w":"seesaw","m":"시소","a":"w_seesaw.wmr"}
-{"w":"sandbox","m":"모래상자","a":"w_sandbox.wmr"}
-{"w":"beach ball","m":"비치볼","a":"w_beach_ball.wmr"}
-{"w":"life ring","m":"구명환","a":"w_life_ring.wmr"}
-{"w":"sandcastle","m":"모래성","a":"w_sandcastle.wmr"}
-{"w":"surfboard","m":"서핑보드","a":"w_surfboard.wmr"}
-{"w":"snowman","m":"눈사람","a":"w_snowman.wmr"}
-{"w":"sled","m":"썰매","a":"w_sled.wmr"}
-{"w":"skis","m":"스키","a":"w_skis.wmr"}
-{"w":"ice skate","m":"스케이트","a":"w_ice_skate.wmr"}
-{"w":"roller skate","m":"롤러스케이트","a":"w_roller_skate.wmr"}
-{"w":"swimming goggles","m":"수경","a":"w_swimming_goggles.wmr"}
-{"w":"snorkel","m":"스노클","a":"w_snorkel.wmr"}
-{"w":"fishing rod","m":"낚싯대","a":"w_fishing_rod.wmr"}
-{"w":"campfire","m":"모닥불","a":"w_campfire.wmr"}
-{"w":"lantern","m":"랜턴","a":"w_lantern.wmr"}
-{"w":"sleeping bag","m":"침낭","a":"w_sleeping_bag.wmr"}
-{"w":"hiking boot","m":"등산화","a":"w_hiking_boot.wmr"}
-{"w":"faucet","m":"수도꼭지","a":"w_faucet.wmr"}
-{"w":"washing machine","m":"세탁기","a":"w_washing_machine.wmr"}
-{"w":"refrigerator","m":"냉장고","a":"w_refrigerator.wmr"}
-{"w":"microwave","m":"전자레인지","a":"w_microwave.wmr"}
-{"w":"oven","m":"오븐","a":"w_oven.wmr"}
-{"w":"toaster","m":"토스터","a":"w_toaster.wmr"}
-{"w":"blender","m":"믹서기","a":"w_blender.wmr"}
-{"w":"rice cooker","m":"밥솥","a":"w_rice_cooker.wmr"}
-{"w":"laundry basket","m":"빨래바구니","a":"w_laundry_basket.wmr"}
-{"w":"clothes iron","m":"다리미","a":"w_clothes_iron.wmr"}
-{"w":"ironing board","m":"다림판","a":"w_ironing_board.wmr"}
-{"w":"sewing needle","m":"바늘","a":"w_sewing_needle.wmr"}
-{"w":"spool of thread","m":"실패","a":"w_spool_of_thread.wmr"}
-{"w":"yarn ball","m":"털실","a":"w_yarn_ball.wmr"}
-{"w":"raincoat","m":"우비","a":"w_raincoat.wmr"}
-{"w":"sunglasses","m":"선글라스","a":"w_sunglasses.wmr"}
-{"w":"sandals","m":"샌들","a":"w_sandals.wmr"}
-{"w":"swimsuit","m":"수영복","a":"w_swimsuit.wmr"}
-{"w":"tie","m":"넥타이","a":"w_tie.wmr"}
-{"w":"bow tie","m":"나비넥타이","a":"w_bow_tie.wmr"}
-{"w":"gloves","m":"장갑","a":"w_gloves.wmr"}
-{"w":"helmet","m":"헬멧","a":"w_helmet.wmr"}
-{"w":"life jacket","m":"구명조끼","a":"w_life_jacket.wmr"}
-{"w":"shopping bag","m":"쇼핑백","a":"w_shopping_bag.wmr"}
-{"w":"shopping cart","m":"쇼핑카트","a":"w_shopping_cart.wmr"}
-{"w":"cash register","m":"계산대","a":"w_cash_register.wmr"}
-{"w":"coin","m":"동전","a":"w_coin.wmr"}
-{"w":"piggy bank","m":"저금통","a":"w_piggy_bank.wmr"}
-{"w":"shopping basket","m":"장바구니","a":"w_shopping_basket.wmr"}
-{"w":"scale","m":"저울","a":"w_scale.wmr"}
-{"w":"thermometer","m":"온도계","a":"w_thermometer.wmr"}
-{"w":"syringe","m":"주사기","a":"w_syringe.wmr"}
-{"w":"bandage","m":"반창고","a":"w_bandage.wmr"}
-{"w":"medicine bottle","m":"약병","a":"w_medicine_bottle.wmr"}
-{"w":"pill","m":"알약","a":"w_pill.wmr"}
-{"w":"test tube","m":"시험관","a":"w_test_tube.wmr"}
-{"w":"beaker","m":"비커","a":"w_beaker.wmr"}
-{"w":"microscope","m":"현미경","a":"w_microscope.wmr"}
-{"w":"telescope","m":"망원경","a":"w_telescope.wmr"}
-{"w":"planet","m":"행성","a":"w_planet.wmr"}
-{"w":"star","m":"별","a":"w_star.wmr"}
-{"w":"comet","m":"혜성","a":"w_comet.wmr"}
-{"w":"satellite","m":"위성","a":"w_satellite.wmr"}
-{"w":"planet earth","m":"지구","a":"w_planet_earth.wmr"}
-{"w":"sprout","m":"새싹","a":"w_sprout.wmr"}
-{"w":"seed","m":"씨앗","a":"w_seed.wmr"}
-{"w":"tree stump","m":"나무그루터기","a":"w_tree_stump.wmr"}
-{"w":"log","m":"통나무","a":"w_log.wmr"}
-{"w":"rock","m":"바위","a":"w_rock.wmr"}
-{"w":"bird nest","m":"새둥지","a":"w_bird_nest.wmr"}
-{"w":"honeycomb","m":"벌집","a":"w_honeycomb.wmr"}
-{"w":"egg","m":"달걀","a":"w_egg.wmr"}
-{"w":"chopsticks","m":"젓가락","a":"w_chopsticks.wmr"}
-{"w":"drinking straw","m":"빨대","a":"w_drinking_straw.wmr"}
-{"w":"napkin","m":"냅킨","a":"w_napkin.wmr"}
-{"w":"salt shaker","m":"소금통","a":"w_salt_shaker.wmr"}
-{"w":"pepper shaker","m":"후추통","a":"w_pepper_shaker.wmr"}
-{"w":"sauce bottle","m":"소스병","a":"w_sauce_bottle.wmr"}
-{"w":"water drop","m":"물방울","a":"w_water_drop.wmr"}
-{"w":"flame","m":"불꽃","a":"w_flame.wmr"}
-{"w":"soap bubbles","m":"비눗방울","a":"w_soap_bubbles.wmr"}
-{"w":"laptop","m":"노트북","a":"w_laptop.wmr"}
-{"w":"printer","m":"프린터","a":"w_printer.wmr"}
-{"w":"television","m":"텔레비전","a":"w_television.wmr"}
-{"w":"charger plug","m":"충전기","a":"w_charger_plug.wmr"}
-{"w":"charging cable","m":"충전 케이블","a":"w_charging_cable.wmr"}
-{"w":"power outlet","m":"콘센트","a":"w_power_outlet.wmr"}
-{"w":"wi-fi router","m":"와이파이 공유기","a":"w_wi-fi_router.wmr"}
-{"w":"usb flash drive","m":"USB 메모리","a":"w_usb_flash_drive.wmr"}
-{"w":"memory card","m":"메모리 카드","a":"w_memory_card.wmr"}
-{"w":"smartwatch","m":"스마트워치","a":"w_smartwatch.wmr"}
-{"w":"projector","m":"프로젝터","a":"w_projector.wmr"}
-{"w":"camera tripod","m":"삼각대","a":"w_camera_tripod.wmr"}
-{"w":"acoustic guitar","m":"통기타","a":"w_acoustic_guitar.wmr"}
-{"w":"saxophone","m":"색소폰","a":"w_saxophone.wmr"}
-{"w":"flute","m":"플루트","a":"w_flute.wmr"}
-{"w":"cymbals","m":"심벌즈","a":"w_cymbals.wmr"}
-{"w":"harmonica","m":"하모니카","a":"w_harmonica.wmr"}
-{"w":"accordion","m":"아코디언","a":"w_accordion.wmr"}
-{"w":"music stand","m":"악보대","a":"w_music_stand.wmr"}
-{"w":"metronome","m":"메트로놈","a":"w_metronome.wmr"}
-{"w":"conductor baton","m":"지휘봉","a":"w_conductor_baton.wmr"}
-{"w":"record player","m":"턴테이블","a":"w_record_player.wmr"}
-{"w":"vinyl record","m":"레코드판","a":"w_vinyl_record.wmr"}
-{"w":"boombox","m":"카세트 라디오","a":"w_boombox.wmr"}
-{"w":"kazoo","m":"카주","a":"w_kazoo.wmr"}
-{"w":"ukulele","m":"우쿨렐레","a":"w_ukulele.wmr"}
-{"w":"cello","m":"첼로","a":"w_cello.wmr"}
-{"w":"triangle instrument","m":"트라이앵글","a":"w_triangle_instrument.wmr"}
-{"w":"volleyball","m":"배구공","a":"w_volleyball.wmr"}
-{"w":"tennis ball","m":"테니스공","a":"w_tennis_ball.wmr"}
-{"w":"baseball","m":"야구공","a":"w_baseball.wmr"}
-{"w":"baseball glove","m":"야구 글러브","a":"w_baseball_glove.wmr"}
-{"w":"badminton racket","m":"배드민턴 라켓","a":"w_badminton_racket.wmr"}
-{"w":"shuttlecock","m":"셔틀콕","a":"w_shuttlecock.wmr"}
-{"w":"golf club","m":"골프채","a":"w_golf_club.wmr"}
-{"w":"golf ball","m":"골프공","a":"w_golf_ball.wmr"}
-{"w":"hockey stick","m":"하키 스틱","a":"w_hockey_stick.wmr"}
-{"w":"hockey puck","m":"하키 퍽","a":"w_hockey_puck.wmr"}
-{"w":"dumbbell","m":"아령","a":"w_dumbbell.wmr"}
-{"w":"yoga mat","m":"요가 매트","a":"w_yoga_mat.wmr"}
-{"w":"swim cap","m":"수영모","a":"w_swim_cap.wmr"}
-{"w":"soccer goal","m":"축구 골대","a":"w_soccer_goal.wmr"}
-{"w":"basketball hoop","m":"농구 골대","a":"w_basketball_hoop.wmr"}
-{"w":"table tennis paddle","m":"탁구채","a":"w_table_tennis_paddle.wmr"}
-{"w":"ping pong ball","m":"탁구공","a":"w_ping_pong_ball.wmr"}
-{"w":"boxing glove","m":"권투 글러브","a":"w_boxing_glove.wmr"}
-{"w":"stopwatch","m":"스톱워치","a":"w_stopwatch.wmr"}
-{"w":"finish flag","m":"결승 깃발","a":"w_finish_flag.wmr"}
-{"w":"pliers","m":"펜치","a":"w_pliers.wmr"}
-{"w":"handsaw","m":"톱","a":"w_handsaw.wmr"}
-{"w":"electric drill","m":"전동 드릴","a":"w_electric_drill.wmr"}
-{"w":"screw","m":"나사","a":"w_screw.wmr"}
-{"w":"nail","m":"못","a":"w_nail.wmr"}
-{"w":"tape measure","m":"줄자","a":"w_tape_measure.wmr"}
-{"w":"paint bucket","m":"페인트통","a":"w_paint_bucket.wmr"}
-{"w":"ladder","m":"사다리","a":"w_ladder.wmr"}
-{"w":"work gloves","m":"작업 장갑","a":"w_work_gloves.wmr"}
-{"w":"nut and bolt","m":"너트와 볼트","a":"w_nut_and_bolt.wmr"}
-{"w":"clamp","m":"클램프","a":"w_clamp.wmr"}
-{"w":"level tool","m":"수평계","a":"w_level_tool.wmr"}
-{"w":"sandpaper","m":"사포","a":"w_sandpaper.wmr"}
-{"w":"paint scraper","m":"헤라","a":"w_paint_scraper.wmr"}
-{"w":"safety goggles","m":"보안경","a":"w_safety_goggles.wmr"}
-{"w":"hard hat","m":"안전모","a":"w_hard_hat.wmr"}
-{"w":"measuring cup","m":"계량컵","a":"w_measuring_cup.wmr"}
-{"w":"measuring spoon","m":"계량스푼","a":"w_measuring_spoon.wmr"}
-{"w":"coffee maker","m":"커피메이커","a":"w_coffee_maker.wmr"}
-{"w":"strainer","m":"체","a":"w_strainer.wmr"}
-{"w":"pancakes","m":"팬케이크","a":"w_pancakes.wmr"}
-{"w":"waffle","m":"와플","a":"w_waffle.wmr"}
-{"w":"muffin","m":"머핀","a":"w_muffin.wmr"}
-{"w":"bagel","m":"베이글","a":"w_bagel.wmr"}
-{"w":"cereal bowl","m":"시리얼 그릇","a":"w_cereal_bowl.wmr"}
-{"w":"yogurt cup","m":"요거트 컵","a":"w_yogurt_cup.wmr"}
-{"w":"ice pop","m":"아이스바","a":"w_ice_pop.wmr"}
-{"w":"dumpling","m":"만두","a":"w_dumpling.wmr"}
-{"w":"noodle bowl","m":"국수 그릇","a":"w_noodle_bowl.wmr"}
-{"w":"rice bowl","m":"밥그릇","a":"w_rice_bowl.wmr"}
-{"w":"lettuce","m":"상추","a":"w_lettuce.wmr"}
-{"w":"cabbage","m":"양배추","a":"w_cabbage.wmr"}
-{"w":"peas pod","m":"완두콩 꼬투리","a":"w_peas_pod.wmr"}
-{"w":"garlic bulb","m":"마늘","a":"w_garlic_bulb.wmr"}
-{"w":"ginger root","m":"생강","a":"w_ginger_root.wmr"}
-{"w":"chili pepper","m":"고추","a":"w_chili_pepper.wmr"}
-{"w":"bell pepper","m":"파프리카","a":"w_bell_pepper.wmr"}
-{"w":"asparagus","m":"아스파라거스","a":"w_asparagus.wmr"}
-{"w":"cauliflower","m":"콜리플라워","a":"w_cauliflower.wmr"}
-{"w":"sweet potato","m":"고구마","a":"w_sweet_potato.wmr"}
-{"w":"curtain","m":"커튼","a":"w_curtain.wmr"}
-{"w":"carpet","m":"카펫","a":"w_carpet.wmr"}
-{"w":"doormat","m":"현관 매트","a":"w_doormat.wmr"}
-{"w":"cushion","m":"쿠션","a":"w_cushion.wmr"}
-{"w":"wardrobe","m":"옷장","a":"w_wardrobe.wmr"}
-{"w":"nightstand","m":"침대 협탁","a":"w_nightstand.wmr"}
-{"w":"ceiling light","m":"천장등","a":"w_ceiling_light.wmr"}
-{"w":"light switch","m":"전등 스위치","a":"w_light_switch.wmr"}
-{"w":"wall shelf","m":"벽 선반","a":"w_wall_shelf.wmr"}
-{"w":"doorbell","m":"초인종","a":"w_doorbell.wmr"}
-{"w":"keychain","m":"열쇠고리","a":"w_keychain.wmr"}
-{"w":"tissue box","m":"휴지 상자","a":"w_tissue_box.wmr"}
-{"w":"plunger","m":"뚫어뻥","a":"w_plunger.wmr"}
-{"w":"bath mat","m":"욕실 매트","a":"w_bath_mat.wmr"}
-{"w":"hair dryer","m":"헤어드라이어","a":"w_hair_dryer.wmr"}
-{"w":"lotion bottle","m":"로션 병","a":"w_lotion_bottle.wmr"}
-{"w":"hand sanitizer","m":"손 소독제","a":"w_hand_sanitizer.wmr"}
-{"w":"laundry detergent","m":"세탁 세제","a":"w_laundry_detergent.wmr"}
-{"w":"spray bottle","m":"분무기","a":"w_spray_bottle.wmr"}
-{"w":"sponge","m":"스펀지","a":"w_sponge.wmr"}
-{"w":"dish soap","m":"주방 세제","a":"w_dish_soap.wmr"}
-{"w":"dish rack","m":"식기 건조대","a":"w_dish_rack.wmr"}
-{"w":"oven mitt","m":"오븐 장갑","a":"w_oven_mitt.wmr"}
-{"w":"cheese grater","m":"강판","a":"w_cheese_grater.wmr"}
-{"w":"vegetable peeler","m":"채소 필러","a":"w_vegetable_peeler.wmr"}
-{"w":"can opener","m":"캔 따개","a":"w_can_opener.wmr"}
-{"w":"ice cube tray","m":"얼음 틀","a":"w_ice_cube_tray.wmr"}
-{"w":"food container","m":"밀폐 용기","a":"w_food_container.wmr"}
-{"w":"thermos","m":"보온병","a":"w_thermos.wmr"}
-{"w":"lunch bag","m":"도시락 가방","a":"w_lunch_bag.wmr"}
-{"w":"binder","m":"바인더","a":"w_binder.wmr"}
-{"w":"binder clip","m":"집게 클립","a":"w_binder_clip.wmr"}
-{"w":"push pin","m":"압정","a":"w_push_pin.wmr"}
-{"w":"sticky notes","m":"포스트잇","a":"w_sticky_notes.wmr"}
-{"w":"index cards","m":"색인 카드","a":"w_index_cards.wmr"}
-{"w":"rubber band","m":"고무줄","a":"w_rubber_band.wmr"}
-{"w":"hole punch","m":"펀치","a":"w_hole_punch.wmr"}
-{"w":"file box","m":"파일 상자","a":"w_file_box.wmr"}
-{"w":"bookend","m":"책 받침","a":"w_bookend.wmr"}
-{"w":"easel","m":"이젤","a":"w_easel.wmr"}
-{"w":"canvas","m":"캔버스","a":"w_canvas.wmr"}
-{"w":"modeling clay","m":"점토","a":"w_modeling_clay.wmr"}
-{"w":"glue gun","m":"글루건","a":"w_glue_gun.wmr"}
-{"w":"pom-pom","m":"폼폼","a":"w_pom-pom.wmr"}
-{"w":"bead","m":"구슬 비즈","a":"w_bead.wmr"}
-{"w":"ribbon roll","m":"리본 롤","a":"w_ribbon_roll.wmr"}
-{"w":"sticker sheet","m":"스티커 판","a":"w_sticker_sheet.wmr"}
-{"w":"doll","m":"인형","a":"w_doll.wmr"}
-{"w":"action figure","m":"액션 피규어","a":"w_action_figure.wmr"}
-{"w":"dollhouse","m":"인형의 집","a":"w_dollhouse.wmr"}
-{"w":"board game","m":"보드게임","a":"w_board_game.wmr"}
-{"w":"playing card","m":"놀이 카드","a":"w_playing_card.wmr"}
-{"w":"dice","m":"주사위","a":"w_dice.wmr"}
-{"w":"jigsaw puzzle","m":"직소 퍼즐","a":"w_jigsaw_puzzle.wmr"}
-{"w":"toy boat","m":"장난감 배","a":"w_toy_boat.wmr"}
-{"w":"block tower","m":"블록 탑","a":"w_block_tower.wmr"}
-{"w":"bubble wand","m":"비눗방울 막대","a":"w_bubble_wand.wmr"}
-{"w":"caterpillar","m":"애벌레","a":"w_caterpillar.wmr"}
-{"w":"butterfly net","m":"나비채","a":"w_butterfly_net.wmr"}
-{"w":"bug jar","m":"곤충 관찰통","a":"w_bug_jar.wmr"}
-{"w":"shark","m":"상어","a":"w_shark.wmr"}
-{"w":"lobster","m":"바닷가재","a":"w_lobster.wmr"}
-{"w":"jellyfish","m":"해파리","a":"w_jellyfish.wmr"}
-{"w":"seahorse","m":"해마","a":"w_seahorse.wmr"}
-{"w":"clam","m":"조개","a":"w_clam.wmr"}
-{"w":"coral","m":"산호","a":"w_coral.wmr"}
-{"w":"hand","m":"손","a":"w_hand.wmr"}
-{"w":"foot","m":"발","a":"w_foot.wmr"}
-{"w":"eye","m":"눈","a":"w_eye.wmr"}
-{"w":"ear","m":"귀","a":"w_ear.wmr"}
-{"w":"nose","m":"코","a":"w_nose.wmr"}
-{"w":"mouth","m":"입","a":"w_mouth.wmr"}
-{"w":"tooth","m":"이","a":"w_tooth.wmr"}
-{"w":"tongue","m":"혀","a":"w_tongue.wmr"}
-{"w":"hair lock","m":"머리카락","a":"w_hair_lock.wmr"}
-{"w":"brain","m":"뇌","a":"w_brain.wmr"}
-{"w":"birdhouse","m":"새집","a":"w_birdhouse.wmr"}
-{"w":"scarecrow","m":"허수아비","a":"w_scarecrow.wmr"}
-{"w":"hay bale","m":"건초 더미","a":"w_hay_bale.wmr"}
-{"w":"windmill","m":"풍차","a":"w_windmill.wmr"}
-{"w":"greenhouse","m":"온실","a":"w_greenhouse.wmr"}
-{"w":"seed packet","m":"씨앗 봉지","a":"w_seed_packet.wmr"}
-{"w":"plant label","m":"식물 이름표","a":"w_plant_label.wmr"}
-{"w":"bird feeder","m":"새 모이통","a":"w_bird_feeder.wmr"}
-{"w":"compost bin","m":"퇴비통","a":"w_compost_bin.wmr"}
-{"w":"rain barrel","m":"빗물통","a":"w_rain_barrel.wmr"}
-{"w":"pacifier","m":"쪽쪽이","a":"w_pacifier.wmr"}
-{"w":"baby bottle","m":"젖병","a":"w_baby_bottle.wmr"}
-{"w":"bib","m":"턱받이","a":"w_bib.wmr"}
-{"w":"rattle","m":"딸랑이","a":"w_rattle.wmr"}
-{"w":"stroller","m":"유모차","a":"w_stroller.wmr"}
-{"w":"crib","m":"아기 침대","a":"w_crib.wmr"}
-{"w":"high chair","m":"아기 식탁 의자","a":"w_high_chair.wmr"}
-{"w":"diaper","m":"기저귀","a":"w_diaper.wmr"}
-{"w":"stacking rings","m":"고리 쌓기 장난감","a":"w_stacking_rings.wmr"}
-{"w":"teether","m":"치발기","a":"w_teether.wmr"}
-{"w":"pet bowl","m":"반려동물 밥그릇","a":"w_pet_bowl.wmr"}
-{"w":"dog bone","m":"강아지 뼈 장난감","a":"w_dog_bone.wmr"}
-{"w":"leash","m":"목줄","a":"w_leash.wmr"}
-{"w":"pet collar","m":"반려동물 목걸이","a":"w_pet_collar.wmr"}
-{"w":"fishbowl","m":"어항","a":"w_fishbowl.wmr"}
-{"w":"birdcage","m":"새장","a":"w_birdcage.wmr"}
-{"w":"scratching post","m":"고양이 스크래처","a":"w_scratching_post.wmr"}
-{"w":"pet carrier","m":"이동장","a":"w_pet_carrier.wmr"}
-{"w":"hamster wheel","m":"햄스터 쳇바퀴","a":"w_hamster_wheel.wmr"}
-{"w":"litter scoop","m":"모래 삽","a":"w_litter_scoop.wmr"}
-{"w":"hair clip","m":"머리핀","a":"w_hair_clip.wmr"}
-{"w":"hair bow","m":"머리 리본","a":"w_hair_bow.wmr"}
-{"w":"hair tie","m":"머리끈","a":"w_hair_tie.wmr"}
-{"w":"bracelet","m":"팔찌","a":"w_bracelet.wmr"}
-{"w":"earrings","m":"귀걸이","a":"w_earrings.wmr"}
-{"w":"nail clippers","m":"손톱깎이","a":"w_nail_clippers.wmr"}
-{"w":"lip balm","m":"립밤","a":"w_lip_balm.wmr"}
-{"w":"sunscreen tube","m":"선크림 튜브","a":"w_sunscreen_tube.wmr"}
-{"w":"hair roller","m":"헤어롤","a":"w_hair_roller.wmr"}
-{"w":"nail polish","m":"매니큐어","a":"w_nail_polish.wmr"}
-{"w":"thimble","m":"골무","a":"w_thimble.wmr"}
-{"w":"pin cushion","m":"핀 쿠션","a":"w_pin_cushion.wmr"}
-{"w":"crochet hook","m":"코바늘","a":"w_crochet_hook.wmr"}
-{"w":"knitting needles","m":"뜨개바늘","a":"w_knitting_needles.wmr"}
-{"w":"embroidery hoop","m":"자수틀","a":"w_embroidery_hoop.wmr"}
-{"w":"needle threader","m":"실 꿰기 도구","a":"w_needle_threader.wmr"}
-{"w":"felt sheet","m":"펠트지","a":"w_felt_sheet.wmr"}
-{"w":"craft punch","m":"공예 펀치","a":"w_craft_punch.wmr"}
-{"w":"sequin","m":"스팽글","a":"w_sequin.wmr"}
-{"w":"pipe cleaner","m":"모루","a":"w_pipe_cleaner.wmr"}
-{"w":"park bench","m":"공원 벤치","a":"w_park_bench.wmr"}
-{"w":"picnic table","m":"피크닉 테이블","a":"w_picnic_table.wmr"}
-{"w":"hammock","m":"해먹","a":"w_hammock.wmr"}
-{"w":"camping chair","m":"캠핑 의자","a":"w_camping_chair.wmr"}
-{"w":"canteen","m":"수통","a":"w_canteen.wmr"}
-{"w":"walking stick","m":"지팡이","a":"w_walking_stick.wmr"}
-{"w":"camp stove","m":"캠핑 버너","a":"w_camp_stove.wmr"}
-{"w":"firewood bundle","m":"장작 묶음","a":"w_firewood_bundle.wmr"}
-{"w":"tent stake","m":"텐트 말뚝","a":"w_tent_stake.wmr"}
-{"w":"carabiner","m":"카라비너","a":"w_carabiner.wmr"}
-{"w":"pinecone","m":"솔방울","a":"w_pinecone.wmr"}
-{"w":"twig","m":"잔가지","a":"w_twig.wmr"}
-{"w":"crystal","m":"수정","a":"w_crystal.wmr"}
-{"w":"geode","m":"정동석","a":"w_geode.wmr"}
-{"w":"fossil","m":"화석","a":"w_fossil.wmr"}
-{"w":"icicle","m":"고드름","a":"w_icicle.wmr"}
-{"w":"hailstone","m":"우박","a":"w_hailstone.wmr"}
-{"w":"weather vane","m":"풍향계","a":"w_weather_vane.wmr"}
-{"w":"fern","m":"고사리 잎","a":"w_fern.wmr"}
-{"w":"aloe plant","m":"알로에","a":"w_aloe_plant.wmr"}
-{"w":"vase","m":"꽃병","a":"w_vase.wmr"}
-{"w":"picture frame","m":"액자","a":"w_picture_frame.wmr"}
-{"w":"wall hook","m":"벽걸이 후크","a":"w_wall_hook.wmr"}
-{"w":"coat rack","m":"옷걸이대","a":"w_coat_rack.wmr"}
-{"w":"storage bin","m":"수납함","a":"w_storage_bin.wmr"}
-{"w":"drawer knob","m":"서랍 손잡이","a":"w_drawer_knob.wmr"}
-{"w":"door stopper","m":"문 고정대","a":"w_door_stopper.wmr"}
-{"w":"curtain rod","m":"커튼봉","a":"w_curtain_rod.wmr"}
-{"w":"window blinds","m":"블라인드","a":"w_window_blinds.wmr"}
-{"w":"tablecloth","m":"식탁보","a":"w_tablecloth.wmr"}
-{"w":"party hat","m":"파티 모자","a":"w_party_hat.wmr"}
-{"w":"party horn","m":"파티 나팔","a":"w_party_horn.wmr"}
-{"w":"confetti popper","m":"축포","a":"w_confetti_popper.wmr"}
-{"w":"party streamer","m":"파티 장식줄","a":"w_party_streamer.wmr"}
-{"w":"pinata","m":"피냐타","a":"w_pinata.wmr"}
-{"w":"magic wand","m":"마술 지팡이","a":"w_magic_wand.wmr"}
-{"w":"wizard hat","m":"마법사 모자","a":"w_wizard_hat.wmr"}
-{"w":"superhero cape","m":"영웅 망토","a":"w_superhero_cape.wmr"}
-{"w":"costume mask","m":"가면","a":"w_costume_mask.wmr"}
-{"w":"toy shield","m":"장난감 방패","a":"w_toy_shield.wmr"}
-{"w":"beanie","m":"비니","a":"w_beanie.wmr"}
-{"w":"ear muffs","m":"귀마개","a":"w_ear_muffs.wmr"}
-{"w":"rain poncho","m":"우비 판초","a":"w_rain_poncho.wmr"}
-{"w":"pajamas","m":"잠옷","a":"w_pajamas.wmr"}
-{"w":"overalls","m":"멜빵바지","a":"w_overalls.wmr"}
-{"w":"vest","m":"조끼","a":"w_vest.wmr"}
-{"w":"ballet shoe","m":"발레 슈즈","a":"w_ballet_shoe.wmr"}
-{"w":"hoodie","m":"후드티","a":"w_hoodie.wmr"}
-{"w":"knee pad","m":"무릎 보호대","a":"w_knee_pad.wmr"}
-{"w":"sleep mask","m":"수면 안대","a":"w_sleep_mask.wmr"}
-{"w":"wheelchair","m":"휠체어","a":"w_wheelchair.wmr"}
-{"w":"crutches","m":"목발","a":"w_crutches.wmr"}
-{"w":"fire hydrant","m":"소화전","a":"w_fire_hydrant.wmr"}
-{"w":"streetlamp","m":"가로등","a":"w_streetlamp.wmr"}
-{"w":"fountain","m":"분수","a":"w_fountain.wmr"}
-{"w":"bird bath","m":"새 물그릇","a":"w_bird_bath.wmr"}
-{"w":"garden statue","m":"정원 조각상","a":"w_garden_statue.wmr"}
-{"w":"sundial","m":"해시계","a":"w_sundial.wmr"}
-{"w":"wind chime","m":"풍경","a":"w_wind_chime.wmr"}
-{"w":"door knocker","m":"문 두드리개","a":"w_door_knocker.wmr"}
-{"w":"clipboard clip","m":"클립보드 클립","a":"w_clipboard_clip.wmr"}
-{"w":"desk lamp","m":"책상 스탠드","a":"w_desk_lamp.wmr"}
-{"w":"pencil grip","m":"연필 그립","a":"w_pencil_grip.wmr"}
-{"w":"name tag","m":"이름표","a":"w_name_tag.wmr"}
-{"w":"book label","m":"책 라벨","a":"w_book_label.wmr"}
-{"w":"library card","m":"도서관 카드","a":"w_library_card.wmr"}
-{"w":"bookmark","m":"책갈피","a":"w_bookmark.wmr"}
-{"w":"desk organizer","m":"책상 정리함","a":"w_desk_organizer.wmr"}
-{"w":"inbox tray","m":"서류 받침","a":"w_inbox_tray.wmr"}
-{"w":"pencil extender","m":"연필 연장대","a":"w_pencil_extender.wmr"}
-{"w":"chalkboard eraser","m":"칠판지우개","a":"w_chalkboard_eraser.wmr"}
-{"w":"whiteboard eraser","m":"화이트보드 지우개","a":"w_whiteboard_eraser.wmr"}
-{"w":"dry erase marker","m":"보드마카","a":"w_dry_erase_marker.wmr"}
-{"w":"correction tape","m":"수정테이프","a":"w_correction_tape.wmr"}
-{"w":"pencil leads","m":"샤프심","a":"w_pencil_leads.wmr"}
-{"w":"mechanical pencil","m":"샤프펜슬","a":"w_mechanical_pencil.wmr"}
-{"w":"fountain pen","m":"만년필","a":"w_fountain_pen.wmr"}
-{"w":"ink bottle","m":"잉크병","a":"w_ink_bottle.wmr"}
-{"w":"wax seal","m":"밀랍 도장","a":"w_wax_seal.wmr"}
-{"w":"letter opener","m":"편지칼","a":"w_letter_opener.wmr"}
-{"w":"coin purse","m":"동전지갑","a":"w_coin_purse.wmr"}
-{"w":"money clip","m":"지폐 클립","a":"w_money_clip.wmr"}
-{"w":"receipt roll","m":"영수증 롤","a":"w_receipt_roll.wmr"}
-{"w":"price tag","m":"가격표","a":"w_price_tag.wmr"}
-{"w":"coupon","m":"쿠폰","a":"w_coupon.wmr"}
-{"w":"ticket stub","m":"표 조각","a":"w_ticket_stub.wmr"}
-{"w":"token","m":"토큰","a":"w_token.wmr"}
-{"w":"receipt","m":"영수증","a":"w_receipt.wmr"}
-{"w":"cash drawer","m":"금전함","a":"w_cash_drawer.wmr"}
-{"w":"barcode scanner","m":"바코드 스캐너","a":"w_barcode_scanner.wmr"}
-{"w":"soap dispenser","m":"비누 디스펜서","a":"w_soap_dispenser.wmr"}
-{"w":"toothbrush holder","m":"칫솔꽂이","a":"w_toothbrush_holder.wmr"}
-{"w":"bathrobe","m":"목욕가운","a":"w_bathrobe.wmr"}
-{"w":"shower head","m":"샤워기 헤드","a":"w_shower_head.wmr"}
-{"w":"shower curtain ring","m":"샤워커튼 고리","a":"w_shower_curtain_ring.wmr"}
-{"w":"bath sponge","m":"목욕 스펀지","a":"w_bath_sponge.wmr"}
-{"w":"loofah","m":"샤워볼","a":"w_loofah.wmr"}
-{"w":"cotton swab","m":"면봉","a":"w_cotton_swab.wmr"}
-{"w":"cotton ball","m":"솜뭉치","a":"w_cotton_ball.wmr"}
-{"w":"medicine dropper","m":"스포이드","a":"w_medicine_dropper.wmr"}
-{"w":"heating pad","m":"찜질팩","a":"w_heating_pad.wmr"}
-{"w":"ice pack","m":"얼음팩","a":"w_ice_pack.wmr"}
-{"w":"tongue depressor","m":"설압자","a":"w_tongue_depressor.wmr"}
-{"w":"otoscope","m":"귀 검사기","a":"w_otoscope.wmr"}
-{"w":"reflex hammer","m":"반사 망치","a":"w_reflex_hammer.wmr"}
-{"w":"blood pressure cuff","m":"혈압 커프","a":"w_blood_pressure_cuff.wmr"}
-{"w":"medical mask","m":"마스크","a":"w_medical_mask.wmr"}
-{"w":"pill box","m":"약통","a":"w_pill_box.wmr"}
-{"w":"eye patch","m":"안대","a":"w_eye_patch.wmr"}
-{"w":"cast bandage","m":"깁스 붕대","a":"w_cast_bandage.wmr"}
-{"w":"kitchen timer","m":"주방 타이머","a":"w_kitchen_timer.wmr"}
-{"w":"egg timer","m":"달걀 타이머","a":"w_egg_timer.wmr"}
-{"w":"mixing bowl","m":"믹싱볼","a":"w_mixing_bowl.wmr"}
-{"w":"salad spinner","m":"샐러드 탈수기","a":"w_salad_spinner.wmr"}
-{"w":"potato masher","m":"감자 으깨개","a":"w_potato_masher.wmr"}
-{"w":"pizza cutter","m":"피자 커터","a":"w_pizza_cutter.wmr"}
-{"w":"pastry brush","m":"제빵 붓","a":"w_pastry_brush.wmr"}
-{"w":"cookie cutter","m":"쿠키틀","a":"w_cookie_cutter.wmr"}
-{"w":"muffin tray","m":"머핀틀","a":"w_muffin_tray.wmr"}
-{"w":"cake pan","m":"케이크 팬","a":"w_cake_pan.wmr"}
-{"w":"pie dish","m":"파이 접시","a":"w_pie_dish.wmr"}
-{"w":"colander","m":"채반","a":"w_colander.wmr"}
-{"w":"garlic press","m":"마늘 압착기","a":"w_garlic_press.wmr"}
-{"w":"tea infuser","m":"차 거름망","a":"w_tea_infuser.wmr"}
-{"w":"sugar bowl","m":"설탕 그릇","a":"w_sugar_bowl.wmr"}
-{"w":"butter dish","m":"버터 접시","a":"w_butter_dish.wmr"}
-{"w":"napkin ring","m":"냅킨 링","a":"w_napkin_ring.wmr"}
-{"w":"serving tray","m":"쟁반","a":"w_serving_tray.wmr"}
-{"w":"placemat","m":"식탁 매트","a":"w_placemat.wmr"}
-{"w":"coaster","m":"컵받침","a":"w_coaster.wmr"}
-{"w":"shoe scraper mat","m":"신발털이 매트","a":"w_shoe_scraper_mat.wmr"}
-{"w":"shoehorn","m":"구둣주걱","a":"w_shoehorn.wmr"}
-{"w":"shoe brush","m":"구두솔","a":"w_shoe_brush.wmr"}
-{"w":"lint roller","m":"먼지 롤러","a":"w_lint_roller.wmr"}
-{"w":"clothespin","m":"빨래집게","a":"w_clothespin.wmr"}
-{"w":"clothesline","m":"빨랫줄","a":"w_clothesline.wmr"}
-{"w":"laundry scoop","m":"세제 스푼","a":"w_laundry_scoop.wmr"}
-{"w":"fabric softener bottle","m":"섬유유연제 병","a":"w_fabric_softener_bottle.wmr"}
-{"w":"cleaning cloth","m":"청소 천","a":"w_cleaning_cloth.wmr"}
-{"w":"window squeegee","m":"유리 닦이","a":"w_window_squeegee.wmr"}
-{"w":"dust brush","m":"먼지털이 솔","a":"w_dust_brush.wmr"}
-{"w":"scrub brush","m":"청소솔","a":"w_scrub_brush.wmr"}
-{"w":"garden shears","m":"정원 가위","a":"w_garden_shears.wmr"}
-{"w":"pruning snips","m":"전지가위","a":"w_pruning_snips.wmr"}
-{"w":"garden gloves","m":"정원 장갑","a":"w_garden_gloves.wmr"}
-{"w":"plant saucer","m":"화분 받침","a":"w_plant_saucer.wmr"}
-{"w":"terrarium","m":"테라리움","a":"w_terrarium.wmr"}
-{"w":"bird seed bag","m":"새 모이 봉지","a":"w_bird_seed_bag.wmr"}
-{"w":"garden kneeler","m":"정원 무릎패드","a":"w_garden_kneeler.wmr"}
-{"w":"leaf bag","m":"낙엽 봉투","a":"w_leaf_bag.wmr"}
-{"w":"watering spike","m":"물주기 꽂이","a":"w_watering_spike.wmr"}
-{"w":"sprinkler head","m":"스프링클러 헤드","a":"w_sprinkler_head.wmr"}
-{"w":"mail slot","m":"우편 투입구","a":"w_mail_slot.wmr"}
-{"w":"house number tile","m":"집 번호 타일","a":"w_house_number_tile.wmr"}
-{"w":"privacy screen","m":"가림막","a":"w_privacy_screen.wmr"}
-{"w":"door chain","m":"문 안전고리","a":"w_door_chain.wmr"}
-{"w":"cabinet handle","m":"수납장 손잡이","a":"w_cabinet_handle.wmr"}
-{"w":"hinge","m":"경첩","a":"w_hinge.wmr"}
-{"w":"rubber foot","m":"고무 받침","a":"w_rubber_foot.wmr"}
-{"w":"felt pad","m":"가구 보호 패드","a":"w_felt_pad.wmr"}
-{"w":"door handle","m":"문손잡이","a":"w_door_handle.wmr"}
-{"w":"strike plate","m":"잠금 받이판","a":"w_strike_plate.wmr"}
-{"w":"flush pull","m":"매입 손잡이","a":"w_flush_pull.wmr"}
-{"w":"sliding latch","m":"빗장","a":"w_sliding_latch.wmr"}
-{"w":"hasp latch","m":"걸쇠 잠금장치","a":"w_hasp_latch.wmr"}
-{"w":"deadbolt lock","m":"문 잠금쇠","a":"w_deadbolt_lock.wmr"}
-{"w":"keyhole plate","m":"열쇠구멍 판","a":"w_keyhole_plate.wmr"}
-{"w":"gate latch","m":"문걸쇠","a":"w_gate_latch.wmr"}
-{"w":"corner brace","m":"모서리 받침쇠","a":"w_corner_brace.wmr"}
-{"w":"shelf bracket","m":"선반 받침대","a":"w_shelf_bracket.wmr"}
-{"w":"wall anchor","m":"벽 고정못","a":"w_wall_anchor.wmr"}
-{"w":"hex key","m":"육각 렌치","a":"w_hex_key.wmr"}
-{"w":"socket wrench","m":"소켓 렌치","a":"w_socket_wrench.wmr"}
-{"w":"pipe wrench","m":"파이프 렌치","a":"w_pipe_wrench.wmr"}
-{"w":"putty knife","m":"퍼티 나이프","a":"w_putty_knife.wmr"}
-{"w":"utility knife","m":"커터칼","a":"w_utility_knife.wmr"}
-{"w":"tool belt","m":"공구 벨트","a":"w_tool_belt.wmr"}
-{"w":"wood plane","m":"대패","a":"w_wood_plane.wmr"}
-{"w":"chisel","m":"끌","a":"w_chisel.wmr"}
-{"w":"brick","m":"벽돌","a":"w_brick.wmr"}
-{"w":"cement trowel","m":"시멘트 흙손","a":"w_cement_trowel.wmr"}
-{"w":"caulk gun","m":"실리콘 총","a":"w_caulk_gun.wmr"}
-{"w":"wide paintbrush","m":"넓은 붓","a":"w_wide_paintbrush.wmr"}
-{"w":"drop cloth","m":"보양 천","a":"w_drop_cloth.wmr"}
-{"w":"tile spacer","m":"타일 간격재","a":"w_tile_spacer.wmr"}
-{"w":"ceramic tile","m":"도자기 타일","a":"w_ceramic_tile.wmr"}
-{"w":"wood plank","m":"나무 판자","a":"w_wood_plank.wmr"}
-{"w":"sanding block","m":"사포 블록","a":"w_sanding_block.wmr"}
-{"w":"extension cord","m":"연장 코드","a":"w_extension_cord.wmr"}
-{"w":"power strip","m":"멀티탭","a":"w_power_strip.wmr"}
-{"w":"night light","m":"무드등","a":"w_night_light.wmr"}
-{"w":"lamp shade","m":"전등갓","a":"w_lamp_shade.wmr"}
-{"w":"ceiling fan","m":"천장 선풍기","a":"w_ceiling_fan.wmr"}
-{"w":"air purifier","m":"공기청정기","a":"w_air_purifier.wmr"}
-{"w":"humidifier","m":"가습기","a":"w_humidifier.wmr"}
-{"w":"dehumidifier","m":"제습기","a":"w_dehumidifier.wmr"}
-{"w":"space heater","m":"전기 히터","a":"w_space_heater.wmr"}
-{"w":"air conditioner","m":"에어컨","a":"w_air_conditioner.wmr"}
-{"w":"thermostat","m":"온도 조절기","a":"w_thermostat.wmr"}
-{"w":"smoke detector","m":"화재 감지기","a":"w_smoke_detector.wmr"}
-{"w":"carbon monoxide detector","m":"일산화탄소 감지기","a":"w_carbon_monoxide_detector.wmr"}
-{"w":"security camera","m":"보안 카메라","a":"w_security_camera.wmr"}
-{"w":"motion sensor","m":"동작 감지기","a":"w_motion_sensor.wmr"}
-{"w":"garage remote","m":"차고 리모컨","a":"w_garage_remote.wmr"}
-{"w":"fan remote","m":"선풍기 리모컨","a":"w_fan_remote.wmr"}
-{"w":"window lock","m":"창문 잠금장치","a":"w_window_lock.wmr"}
-{"w":"curtain tieback","m":"커튼 묶개","a":"w_curtain_tieback.wmr"}
-{"w":"drawer divider","m":"서랍 칸막이","a":"w_drawer_divider.wmr"}
-{"w":"closet rod","m":"옷장 봉","a":"w_closet_rod.wmr"}
-{"w":"shoe rack","m":"신발장","a":"w_shoe_rack.wmr"}
-{"w":"umbrella stand","m":"우산꽂이","a":"w_umbrella_stand.wmr"}
-{"w":"magazine rack","m":"잡지 꽂이","a":"w_magazine_rack.wmr"}
-{"w":"remote holder","m":"리모컨 꽂이","a":"w_remote_holder.wmr"}
-{"w":"cable clip","m":"케이블 클립","a":"w_cable_clip.wmr"}
-{"w":"cord wrap","m":"코드 정리개","a":"w_cord_wrap.wmr"}
-{"w":"phone stand","m":"휴대폰 거치대","a":"w_phone_stand.wmr"}
-{"w":"tablet stand","m":"태블릿 거치대","a":"w_tablet_stand.wmr"}
-{"w":"laptop stand","m":"노트북 받침대","a":"w_laptop_stand.wmr"}
-{"w":"mouse pad","m":"마우스 패드","a":"w_mouse_pad.wmr"}
-{"w":"wrist rest","m":"손목 받침대","a":"w_wrist_rest.wmr"}
-{"w":"screen cleaner","m":"화면 클리너","a":"w_screen_cleaner.wmr"}
-{"w":"lens cloth","m":"렌즈 천","a":"w_lens_cloth.wmr"}
-{"w":"sd card case","m":"메모리카드 케이스","a":"w_sd_card_case.wmr"}
-{"w":"earbud case","m":"이어버드 케이스","a":"w_earbud_case.wmr"}
-{"w":"webcam cover","m":"웹캠 가리개","a":"w_webcam_cover.wmr"}
-{"w":"stylus pen","m":"터치펜","a":"w_stylus_pen.wmr"}
-{"w":"drawing tablet","m":"그림 태블릿","a":"w_drawing_tablet.wmr"}
-{"w":"label maker","m":"라벨기","a":"w_label_maker.wmr"}
-{"w":"desk blotter","m":"책상 매트","a":"w_desk_blotter.wmr"}
-{"w":"file sorter","m":"파일 분류함","a":"w_file_sorter.wmr"}
-{"w":"paperweight","m":"문진","a":"w_paperweight.wmr"}
-{"w":"desk nameplate","m":"책상 이름판","a":"w_desk_nameplate.wmr"}
-{"w":"envelope moistener","m":"봉투 접착기","a":"w_envelope_moistener.wmr"}
-{"w":"stamp pad","m":"스탬프 패드","a":"w_stamp_pad.wmr"}
-{"w":"paper cutter","m":"종이 재단기","a":"w_paper_cutter.wmr"}
-{"w":"laminator","m":"코팅기","a":"w_laminator.wmr"}
-{"w":"laminating sheet","m":"코팅 필름","a":"w_laminating_sheet.wmr"}
-{"w":"binding comb","m":"제본 링","a":"w_binding_comb.wmr"}
-{"w":"badge reel","m":"명찰 릴","a":"w_badge_reel.wmr"}
-{"w":"lanyard","m":"목걸이 줄","a":"w_lanyard.wmr"}
-{"w":"id card holder","m":"카드 홀더","a":"w_id_card_holder.wmr"}
-{"w":"clear folder","m":"투명 파일","a":"w_clear_folder.wmr"}
-{"w":"accordion file","m":"아코디언 파일","a":"w_accordion_file.wmr"}
-{"w":"document tube","m":"도면 통","a":"w_document_tube.wmr"}
-{"w":"poster roll","m":"포스터 말이","a":"w_poster_roll.wmr"}
-{"w":"craft cutting mat","m":"공예 매트","a":"w_craft_cutting_mat.wmr"}
-{"w":"foam sheet","m":"폼 시트","a":"w_foam_sheet.wmr"}
-{"w":"craft stick","m":"공예 막대","a":"w_craft_stick.wmr"}
-{"w":"wooden dowel","m":"나무 막대","a":"w_wooden_dowel.wmr"}
-{"w":"felt board","m":"펠트 보드","a":"w_felt_board.wmr"}
-{"w":"mini canvas stand","m":"작은 캔버스 받침","a":"w_mini_canvas_stand.wmr"}
-{"w":"paint water cup","m":"물감 물컵","a":"w_paint_water_cup.wmr"}
-{"w":"brush rest","m":"붓 받침","a":"w_brush_rest.wmr"}
-{"w":"clay tool","m":"점토 도구","a":"w_clay_tool.wmr"}
-{"w":"stencil sheet","m":"스텐실 판","a":"w_stencil_sheet.wmr"}
-{"w":"hole reinforcement","m":"구멍 보강 스티커","a":"w_hole_reinforcement.wmr"}
-{"w":"paper fastener","m":"종이 고정핀","a":"w_paper_fastener.wmr"}
-{"w":"split ring","m":"갈라진 고리","a":"w_split_ring.wmr"}
-{"w":"snap hook","m":"스냅 고리","a":"w_snap_hook.wmr"}
-{"w":"liver","m":"간","a":"w_liver.wmr"}
-{"w":"water","m":"물","a":"w_water.wmr"}
-{"w":"path","m":"길","a":"w_path.wmr"}
-{"w":"persimmon","m":"감","a":"w_persimmon.wmr"}
-{"w":"seaweed","m":"김","a":"w_seaweed.wmr"}
-{"w":"chestnut","m":"밤","a":"w_chestnut.wmr"}
-{"w":"river","m":"강","a":"w_river.wmr"}
-{"w":"room","m":"방","a":"w_room.wmr"}
-{"w":"award","m":"상","a":"w_award.wmr"}
-{"w":"soup","m":"탕","a":"w_soup.wmr"}
+{"w":"pencil","m":"연필","e":"I write my notes with a pencil.","a":"w_pencil.wmr","s":"speech-13809668fb436386.wav"}
+{"w":"eraser","m":"지우개","e":"The eraser removed the wrong letter.","a":"w_eraser.wmr","s":"speech-9010072f85ea5469.wav"}
+{"w":"ruler","m":"자","e":"Draw the line with a ruler.","a":"w_ruler.wmr","s":"speech-5972814068a183e2.wav"}
+{"w":"crayon box","m":"크레용","e":"She keeps her colors in a crayon box.","a":"w_crayon_box.wmr","s":"speech-588f8e48e3ad6299.wav"}
+{"w":"glue stick","m":"풀","e":"Use a glue stick to fix the paper.","a":"w_glue_stick.wmr","s":"speech-5681cc29a1f4b3c1.wav"}
+{"w":"scissors","m":"가위","e":"These scissors cut the ribbon well.","a":"w_scissors.wmr","s":"speech-493a15e7bda88b07.wav"}
+{"w":"backpack","m":"가방","e":"My backpack holds all my books.","a":"w_backpack.wmr","s":"speech-5f00368a6ad231c3.wav"}
+{"w":"notebook","m":"공책","e":"Write the answer in your notebook.","a":"w_notebook.wmr","s":"speech-b53bcf919f24746d.wav"}
+{"w":"book","m":"책","e":"He reads a book every night.","a":"w_book.wmr","s":"speech-92719fe0cf8cd515.wav"}
+{"w":"desk","m":"책상","e":"My desk is clean and tidy.","a":"w_desk.wmr","s":"speech-49be417ad74080a0.wav"}
+{"w":"chair","m":"의자","e":"Sit on the chair by the window.","a":"w_chair.wmr","s":"speech-3d7eb3d3dab17ee5.wav"}
+{"w":"blackboard","m":"칠판","e":"The teacher wrote on the blackboard.","a":"w_blackboard.wmr","s":"speech-00c764f20f353098.wav"}
+{"w":"chalk","m":"분필","e":"She drew a star with white chalk.","a":"w_chalk.wmr","s":"speech-c886ff11f6a51b61.wav"}
+{"w":"marker","m":"마커","e":"This marker has a bright red tip.","a":"w_marker.wmr","s":"speech-ed5b8120601641c5.wav"}
+{"w":"paintbrush","m":"붓","e":"Rinse the paintbrush before the next color.","a":"w_paintbrush.wmr","s":"speech-262c6d5eb62196b7.wav"}
+{"w":"palette","m":"팔레트","e":"Mix the paints on the palette.","a":"w_palette.wmr","s":"speech-19e4bd2d806bed3c.wav"}
+{"w":"stapler","m":"스테이플러","e":"The stapler joined the pages together.","a":"w_stapler.wmr","s":"speech-6247f77181245a32.wav"}
+{"w":"paperclip","m":"클립","e":"A paperclip held the sheets in place.","a":"w_paperclip.wmr","s":"speech-670d47ccb9a6cdef.wav"}
+{"w":"calculator","m":"계산기","e":"Check the answer with a calculator.","a":"w_calculator.wmr","s":"speech-d2d4a592700b0920.wav"}
+{"w":"clock","m":"시계","e":"The clock shows bedtime.","a":"w_clock.wmr","s":"speech-d8198efa3604d164.wav"}
+{"w":"lunchbox","m":"도시락","e":"Mom packed a sandwich in my lunchbox.","a":"w_lunchbox.wmr","s":"speech-f3047409c89567e1.wav"}
+{"w":"water bottle","m":"물병","e":"Fill your water bottle before the trip.","a":"w_water_bottle.wmr","s":"speech-e2b02e81b7f660b6.wav"}
+{"w":"globe","m":"지구본","e":"We found Korea on the globe.","a":"w_globe.wmr","s":"speech-d2a1fc043243f36b.wav"}
+{"w":"map","m":"지도","e":"The map shows the way to school.","a":"w_map.wmr","s":"speech-60be9861750facbf.wav"}
+{"w":"magnifying glass","m":"돋보기","e":"Look at the bug through a magnifying glass.","a":"w_magnifying_glass.wmr","s":"speech-c7bad36355ec7cbd.wav"}
+{"w":"bell","m":"종","e":"The bell rang at the end of class.","a":"w_bell.wmr","s":"speech-f683740cded6680d.wav"}
+{"w":"calendar","m":"달력","e":"Mark your birthday on the calendar.","a":"w_calendar.wmr","s":"speech-5152790e278eb890.wav"}
+{"w":"folder","m":"폴더","e":"Keep the papers in this folder.","a":"w_folder.wmr","s":"speech-034a0062488256f1.wav"}
+{"w":"paper","m":"종이","e":"Fold the paper in half.","a":"w_paper.wmr","s":"speech-382635c9325bf327.wav"}
+{"w":"tape","m":"테이프","e":"Stick the poster up with tape.","a":"w_tape.wmr","s":"speech-8ba4ec7d634f794e.wav"}
+{"w":"pencil case","m":"필통","e":"My pencil case has three pens.","a":"w_pencil_case.wmr","s":"speech-3b74bc54b6c22127.wav"}
+{"w":"sharpener","m":"연필깎이","e":"The sharpener made the pencil pointy.","a":"w_sharpener.wmr","s":"speech-30727a026dbd3ee6.wav"}
+{"w":"highlighter","m":"형광펜","e":"Mark the key word with a highlighter.","a":"w_highlighter.wmr","s":"speech-cf42b9f7565299fb.wav"}
+{"w":"pen","m":"펜","e":"Sign your name with a pen.","a":"w_pen.wmr","s":"speech-e21a6b0cb193057e.wav"}
+{"w":"whiteboard","m":"화이트보드","e":"The teacher wrote today on the whiteboard.","a":"w_whiteboard.wmr","s":"speech-8460e24969d53e38.wav"}
+{"w":"computer","m":"컴퓨터","e":"She studies English on the computer.","a":"w_computer.wmr","s":"speech-aa97302150fce811.wav"}
+{"w":"tablet","m":"태블릿","e":"He watches videos on the tablet.","a":"w_tablet.wmr","s":"speech-5bed85bd69a5502a.wav"}
+{"w":"headphones","m":"헤드폰","e":"Wear headphones to listen to music.","a":"w_headphones.wmr","s":"speech-86d6e84ef9a21b74.wav"}
+{"w":"trophy","m":"트로피","e":"Our team won the trophy.","a":"w_trophy.wmr","s":"speech-b39419ef79491b8e.wav"}
+{"w":"medal","m":"메달","e":"She earned a gold medal.","a":"w_medal.wmr","s":"speech-b23a57f108a6a630.wav"}
+{"w":"star sticker","m":"별스티커","e":"I got a star sticker today.","a":"w_star_sticker.wmr","s":"speech-92fe57bf5c5dc868.wav"}
+{"w":"puzzle piece","m":"퍼즐","e":"This puzzle piece fits the corner.","a":"w_puzzle_piece.wmr","s":"speech-25e5f88e3cd2dc58.wav"}
+{"w":"building block","m":"블록","e":"Stack one more building block.","a":"w_building_block.wmr","s":"speech-892feea1e2082cba.wav"}
+{"w":"ball","m":"공","e":"Throw the ball to me.","a":"w_ball.wmr","s":"speech-e9de08263f4ad491.wav"}
+{"w":"kite","m":"연","e":"The kite flies high in the wind.","a":"w_kite.wmr","s":"speech-8e8c7d42b456c9e4.wav"}
+{"w":"umbrella","m":"우산","e":"Take an umbrella in the rain.","a":"w_umbrella.wmr","s":"speech-2974744982f08b20.wav"}
+{"w":"rain boots","m":"장화","e":"Wear rain boots when it pours.","a":"w_rain_boots.wmr","s":"speech-605bc8a6b77867a7.wav"}
+{"w":"hat","m":"모자","e":"A hat keeps the sun off.","a":"w_hat.wmr","s":"speech-18e1dd392168f601.wav"}
+{"w":"shoe","m":"신발","e":"Tie your shoe before you run.","a":"w_shoe.wmr","s":"speech-efda1c925291a74c.wav"}
+{"w":"socks","m":"양말","e":"Warm socks feel good in winter.","a":"w_socks.wmr","s":"speech-54f6d9fbe8ee576f.wav"}
+{"w":"apple","m":"사과","e":"She ate an apple at lunch.","a":"w_apple.wmr","s":"speech-3a7bd3e2360a3d29.wav"}
+{"w":"banana","m":"바나나","e":"A banana is easy to peel.","a":"w_banana.wmr","s":"speech-b493d48364afe44d.wav"}
+{"w":"orange","m":"오렌지","e":"Fresh oranges are full of juice.","a":"w_orange.wmr","s":"speech-1b4c9133da73a711.wav"}
+{"w":"strawberry","m":"딸기","e":"The strawberry tastes sweet.","a":"w_strawberry.wmr","s":"speech-5e737f891db11754.wav"}
+{"w":"grapes","m":"포도","e":"We shared a bunch of grapes.","a":"w_grapes.wmr","s":"speech-8286ee4ea8f54f02.wav"}
+{"w":"watermelon","m":"수박","e":"Watermelon is the best summer fruit.","a":"w_watermelon.wmr","s":"speech-31a2d5282683edb3.wav"}
+{"w":"pear","m":"배","e":"This pear is ripe and sweet.","a":"w_pear.wmr","s":"speech-97cfbe87531abe0c.wav"}
+{"w":"peach","m":"복숭아","e":"The peach skin is soft and fuzzy.","a":"w_peach.wmr","s":"speech-85356064d03872ac.wav"}
+{"w":"pineapple","m":"파인애플","e":"Pineapple tastes great on pizza.","a":"w_pineapple.wmr","s":"speech-b0fef621727ff82a.wav"}
+{"w":"cherries","m":"체리","e":"Two cherries sat on the cake.","a":"w_cherries.wmr","s":"speech-c6de72fbfb89efcf.wav"}
+{"w":"carrot","m":"당근","e":"Rabbits love a crunchy carrot.","a":"w_carrot.wmr","s":"speech-b96482290a873ee9.wav"}
+{"w":"tomato","m":"토마토","e":"The tomato turned red in the sun.","a":"w_tomato.wmr","s":"speech-5ed728c2fa5d767b.wav"}
+{"w":"cucumber","m":"오이","e":"Slice the cucumber for the salad.","a":"w_cucumber.wmr","s":"speech-dd832404e8eeb907.wav"}
+{"w":"pumpkin","m":"호박","e":"We carved a face on the pumpkin.","a":"w_pumpkin.wmr","s":"speech-ff48e511e1638fc3.wav"}
+{"w":"corn","m":"옥수수","e":"Sweet corn is good in soup.","a":"w_corn.wmr","s":"speech-63b0490d4736e740.wav"}
+{"w":"broccoli","m":"브로콜리","e":"Eat your broccoli to grow strong.","a":"w_broccoli.wmr","s":"speech-067d83642a45da49.wav"}
+{"w":"mushroom","m":"버섯","e":"A mushroom grew after the rain.","a":"w_mushroom.wmr","s":"speech-5ef2c394d5b63e41.wav"}
+{"w":"potato","m":"감자","e":"Mash the potato with butter.","a":"w_potato.wmr","s":"speech-e91c254ad58860a0.wav"}
+{"w":"onion","m":"양파","e":"Chop the onion carefully.","a":"w_onion.wmr","s":"speech-288971671685b8da.wav"}
+{"w":"eggplant","m":"가지","e":"The eggplant has shiny purple skin.","a":"w_eggplant.wmr","s":"speech-d9e36ff2055d23ac.wav"}
+{"w":"bed","m":"침대","e":"Jump into bed, it is late.","a":"w_bed.wmr","s":"speech-c5052532c2206140.wav"}
+{"w":"pillow","m":"베개","e":"A soft pillow helps you sleep.","a":"w_pillow.wmr","s":"speech-f6000d4ef895fd96.wav"}
+{"w":"blanket","m":"담요","e":"Pull the blanket up to your chin.","a":"w_blanket.wmr","s":"speech-7cd0fc6ee61e2a57.wav"}
+{"w":"lamp","m":"램프","e":"Turn on the lamp to read.","a":"w_lamp.wmr","s":"speech-c98e85f249002f03.wav"}
+{"w":"sofa","m":"소파","e":"The family sat on the sofa.","a":"w_sofa.wmr","s":"speech-d32ce7bf0277fd2c.wav"}
+{"w":"armchair","m":"안락의자","e":"Grandpa naps in the armchair.","a":"w_armchair.wmr","s":"speech-5a948ffe5f0f6384.wav"}
+{"w":"bookshelf","m":"책장","e":"Every book goes back on the bookshelf.","a":"w_bookshelf.wmr","s":"speech-c636e2ea2ff0106c.wav"}
+{"w":"dresser","m":"서랍장","e":"Fold the shirts into the dresser.","a":"w_dresser.wmr","s":"speech-351c77d371856ff1.wav"}
+{"w":"mirror","m":"거울","e":"She combed her hair at the mirror.","a":"w_mirror.wmr","s":"speech-00154761637ca746.wav"}
+{"w":"window","m":"창문","e":"Open the window for fresh air.","a":"w_window.wmr","s":"speech-44ff7b02c80d38b2.wav"}
+{"w":"door","m":"문","e":"Close the door softly.","a":"w_door.wmr","s":"speech-2534e2de1dec24fe.wav"}
+{"w":"bathtub","m":"욕조","e":"The bathtub is full of bubbles.","a":"w_bathtub.wmr","s":"speech-821577e05f6c18d9.wav"}
+{"w":"sink","m":"세면대","e":"Wash your hands at the sink.","a":"w_sink.wmr","s":"speech-1978baf2c153fd3b.wav"}
+{"w":"toothbrush","m":"칫솔","e":"Use your toothbrush twice a day.","a":"w_toothbrush.wmr","s":"speech-8d8d7dbe6559acfc.wav"}
+{"w":"toothpaste","m":"치약","e":"Squeeze a little toothpaste.","a":"w_toothpaste.wmr","s":"speech-26e466582de83799.wav"}
+{"w":"soap","m":"비누","e":"Soap and water clean the dirt.","a":"w_soap.wmr","s":"speech-736bc2d4e0945110.wav"}
+{"w":"towel","m":"수건","e":"Dry your hands on the towel.","a":"w_towel.wmr","s":"speech-10ca50a8a7148afd.wav"}
+{"w":"comb","m":"빗","e":"Comb your hair after the bath.","a":"w_comb.wmr","s":"speech-ef4e3f5079838746.wav"}
+{"w":"hairbrush","m":"헤어브러시","e":"The hairbrush untangled her hair.","a":"w_hairbrush.wmr","s":"speech-2b3ed92c4e1abca9.wav"}
+{"w":"shampoo","m":"샴푸","e":"Rinse all the shampoo out.","a":"w_shampoo.wmr","s":"speech-021624ecb7e00814.wav"}
+{"w":"fork","m":"포크","e":"Eat the noodles with a fork.","a":"w_fork.wmr","s":"speech-8d0c7ac992af2f49.wav"}
+{"w":"spoon","m":"숟가락","e":"Stir the soup with a spoon.","a":"w_spoon.wmr","s":"speech-7f480e744a79953e.wav"}
+{"w":"knife","m":"나이프","e":"Cut the bread with a knife.","a":"w_knife.wmr","s":"speech-3d4d101cd7ea9e5e.wav"}
+{"w":"plate","m":"접시","e":"Put the eggs on a plate.","a":"w_plate.wmr","s":"speech-3b56c3520006aaeb.wav"}
+{"w":"bowl","m":"그릇","e":"Pour cereal into the bowl.","a":"w_bowl.wmr","s":"speech-d9f2babb167353d0.wav"}
+{"w":"cup","m":"컵","e":"Fill the cup with milk.","a":"w_cup.wmr","s":"speech-c6171781d65f3ccc.wav"}
+{"w":"mug","m":"머그컵","e":"Dad drinks coffee from his mug.","a":"w_mug.wmr","s":"speech-a19ee2577879b76a.wav"}
+{"w":"teapot","m":"찻주전자","e":"She poured tea from the teapot.","a":"w_teapot.wmr","s":"speech-33f38545e00a507f.wav"}
+{"w":"frying pan","m":"프라이팬","e":"Cook the egg in the frying pan.","a":"w_frying_pan.wmr","s":"speech-1b96d7e27ac0091b.wav"}
+{"w":"pot","m":"냄비","e":"The soup bubbled in the pot.","a":"w_pot.wmr","s":"speech-74a51c3ce9ff0255.wav"}
+{"w":"kettle","m":"주전자","e":"The kettle whistled as it boiled.","a":"w_kettle.wmr","s":"speech-20cd4732ae60507a.wav"}
+{"w":"whisk","m":"거품기","e":"Beat the eggs with a whisk.","a":"w_whisk.wmr","s":"speech-19312273f4c0fc72.wav"}
+{"w":"spatula","m":"뒤집개","e":"Flip the pancake with a spatula.","a":"w_spatula.wmr","s":"speech-c25a03186d959cd8.wav"}
+{"w":"ladle","m":"국자","e":"Serve soup with the ladle.","a":"w_ladle.wmr","s":"speech-b5172d1c1039954a.wav"}
+{"w":"cutting board","m":"도마","e":"Chop the carrots on the cutting board.","a":"w_cutting_board.wmr","s":"speech-92493cb4fdde7853.wav"}
+{"w":"rolling pin","m":"밀대","e":"Roll the dough flat with a rolling pin.","a":"w_rolling_pin.wmr","s":"speech-9d07a6d849f60adb.wav"}
+{"w":"bread","m":"빵","e":"Fresh bread smells wonderful.","a":"w_bread.wmr","s":"speech-985604c2b6024312.wav"}
+{"w":"croissant","m":"크루아상","e":"The croissant was flaky and warm.","a":"w_croissant.wmr","s":"speech-fbb1eeb89d064f26.wav"}
+{"w":"cupcake","m":"컵케이크","e":"The cupcake has pink frosting.","a":"w_cupcake.wmr","s":"speech-b0eaeafbf3fadbe6.wav"}
+{"w":"donut","m":"도넛","e":"Choose a glazed donut.","a":"w_donut.wmr","s":"speech-2f63371bea3c61d9.wav"}
+{"w":"cookie","m":"쿠키","e":"Share one cookie with me.","a":"w_cookie.wmr","s":"speech-d7e83e28a04b537e.wav"}
+{"w":"ice cream","m":"아이스크림","e":"Ice cream melts fast in summer.","a":"w_ice_cream.wmr","s":"speech-e971c330aab87410.wav"}
+{"w":"pizza slice","m":"피자","e":"He grabbed a hot pizza slice.","a":"w_pizza_slice.wmr","s":"speech-7e32bf0650b143f3.wav"}
+{"w":"hamburger","m":"햄버거","e":"A hamburger comes with fries.","a":"w_hamburger.wmr","s":"speech-cc86d865e47a25af.wav"}
+{"w":"hot dog","m":"핫도그","e":"Put ketchup on the hot dog.","a":"w_hot_dog.wmr","s":"speech-836cef5d66db4134.wav"}
+{"w":"taco","m":"타코","e":"The taco is filled with beef.","a":"w_taco.wmr","s":"speech-07c05679b1cfed89.wav"}
+{"w":"bus","m":"버스","e":"The bus stops at the corner.","a":"w_bus.wmr","s":"speech-04e027e4990a203f.wav"}
+{"w":"car","m":"자동차","e":"Dad drives the car to work.","a":"w_car.wmr","s":"speech-2b2961a431b23c90.wav"}
+{"w":"truck","m":"트럭","e":"The truck carries heavy boxes.","a":"w_truck.wmr","s":"speech-24611dec0a0a3ae6.wav"}
+{"w":"bicycle","m":"자전거","e":"Ride your bicycle with a helmet.","a":"w_bicycle.wmr","s":"speech-d29af8a2e160dd86.wav"}
+{"w":"scooter","m":"킥보드","e":"She zooms down the street on her scooter.","a":"w_scooter.wmr","s":"speech-b5ad121307b9c486.wav"}
+{"w":"skateboard","m":"스케이트보드","e":"He practices tricks on his skateboard.","a":"w_skateboard.wmr","s":"speech-2406f46e506c14b5.wav"}
+{"w":"train","m":"기차","e":"The train arrives at nine.","a":"w_train.wmr","s":"speech-116f54c41d0405db.wav"}
+{"w":"airplane","m":"비행기","e":"The airplane flies above the clouds.","a":"w_airplane.wmr","s":"speech-0f48868342614a8b.wav"}
+{"w":"helicopter","m":"헬리콥터","e":"A helicopter landed on the roof.","a":"w_helicopter.wmr","s":"speech-cbde83173a31f4f2.wav"}
+{"w":"motorboat","m":"모터보트","e":"The motorboat sped across the lake.","a":"w_motorboat.wmr","s":"speech-557eb643f8bfc94d.wav"}
+{"w":"sailboat","m":"돛단배","e":"The sailboat glided on the wind.","a":"w_sailboat.wmr","s":"speech-72bec4bd8f6d91a8.wav"}
+{"w":"submarine","m":"잠수함","e":"A submarine dives deep underwater.","a":"w_submarine.wmr","s":"speech-3a48c2443b07faa2.wav"}
+{"w":"rocket","m":"로켓","e":"The rocket blasted into space.","a":"w_rocket.wmr","s":"speech-c58dd0a3760008c9.wav"}
+{"w":"traffic light","m":"신호등","e":"Wait for the green traffic light.","a":"w_traffic_light.wmr","s":"speech-34d7399635770491.wav"}
+{"w":"road cone","m":"라바콘","e":"A road cone blocked the lane.","a":"w_road_cone.wmr","s":"speech-c85accaae46e79f1.wav"}
+{"w":"excavator","m":"포크레인","e":"The excavator dug a big hole.","a":"w_excavator.wmr","s":"speech-57a0021f36ae8a58.wav"}
+{"w":"dump truck","m":"덤프트럭","e":"The dump truck poured out sand.","a":"w_dump_truck.wmr","s":"speech-6199f58b27757c6a.wav"}
+{"w":"tractor","m":"트랙터","e":"The tractor plows the field.","a":"w_tractor.wmr","s":"speech-902760138ab45691.wav"}
+{"w":"tram","m":"트램","e":"We rode the tram downtown.","a":"w_tram.wmr","s":"speech-c2a6bc4a1d176d25.wav"}
+{"w":"hot air balloon","m":"열기구","e":"A hot air balloon rose at sunrise.","a":"w_hot_air_balloon.wmr","s":"speech-24d067014ad55db9.wav"}
+{"w":"parachute","m":"낙하산","e":"The parachute slowed his fall.","a":"w_parachute.wmr","s":"speech-a438450d6ba8f12d.wav"}
+{"w":"wheel","m":"바퀴","e":"The wheel spins as you pedal.","a":"w_wheel.wmr","s":"speech-ba59926159d2aa25.wav"}
+{"w":"anchor","m":"닻","e":"Drop the anchor near the island.","a":"w_anchor.wmr","s":"speech-79bfb0e2ba76b9d4.wav"}
+{"w":"lighthouse","m":"등대","e":"The lighthouse guides ships at night.","a":"w_lighthouse.wmr","s":"speech-b370de14e94142d4.wav"}
+{"w":"tree","m":"나무","e":"Birds nest in that old tree.","a":"w_tree.wmr","s":"speech-dc9c5edb8b2d479e.wav"}
+{"w":"leaf","m":"잎사귀","e":"A green leaf fell from the branch.","a":"w_leaf.wmr","s":"speech-9f91161f43433e49.wav"}
+{"w":"flower","m":"꽃","e":"She picked a yellow flower.","a":"w_flower.wmr","s":"speech-c06b0cfe0cc5e900.wav"}
+{"w":"sunflower","m":"해바라기","e":"The sunflower faces the morning sun.","a":"w_sunflower.wmr","s":"speech-8f398886c326b5f8.wav"}
+{"w":"cactus","m":"선인장","e":"The cactus needs little water.","a":"w_cactus.wmr","s":"speech-caaeac3184e90c7f.wav"}
+{"w":"acorn","m":"도토리","e":"A squirrel hid the acorn.","a":"w_acorn.wmr","s":"speech-84f0ceca5ebebf54.wav"}
+{"w":"snowflake","m":"눈송이","e":"Each snowflake has six arms.","a":"w_snowflake.wmr","s":"speech-de5a1adf4fedcce1.wav"}
+{"w":"cloud","m":"구름","e":"A fluffy cloud drifted by.","a":"w_cloud.wmr","s":"speech-56681010b753e1ab.wav"}
+{"w":"rainbow","m":"무지개","e":"A rainbow appeared after the rain.","a":"w_rainbow.wmr","s":"speech-8fced00b6ce28145.wav"}
+{"w":"sun","m":"태양","e":"The sun rises in the east.","a":"w_sun.wmr","s":"speech-27756f050e14a1cb.wav"}
+{"w":"moon","m":"초승달","e":"The moon glowed over the sea.","a":"w_moon.wmr","s":"speech-9e78b43ea00edcac.wav"}
+{"w":"mountain","m":"산","e":"We climbed the mountain all day.","a":"w_mountain.wmr","s":"speech-3b80d38f7686a8b5.wav"}
+{"w":"volcano","m":"화산","e":"The volcano puffed gray smoke.","a":"w_volcano.wmr","s":"speech-06612c2832341c9e.wav"}
+{"w":"seashell","m":"조개껍데기","e":"She found a pink seashell.","a":"w_seashell.wmr","s":"speech-8e3aa83be3662ddc.wav"}
+{"w":"palm tree","m":"야자수","e":"Palm trees line the beach road.","a":"w_palm_tree.wmr","s":"speech-b743c777c86c5b59.wav"}
+{"w":"pine tree","m":"소나무","e":"The pine tree stays green in winter.","a":"w_pine_tree.wmr","s":"speech-56551b4cf7a5f496.wav"}
+{"w":"watering can","m":"물뿌리개","e":"Water the plants with the watering can.","a":"w_watering_can.wmr","s":"speech-c48aee24a5805d41.wav"}
+{"w":"shovel","m":"삽","e":"Dig the hole with a shovel.","a":"w_shovel.wmr","s":"speech-7371126a0f7f858c.wav"}
+{"w":"rake","m":"갈퀴","e":"Gather the leaves with a rake.","a":"w_rake.wmr","s":"speech-a1b74cc9c5d0ff8c.wav"}
+{"w":"trowel","m":"모종삽","e":"Plant the seedling with a trowel.","a":"w_trowel.wmr","s":"speech-a83c96cac29eb62d.wav"}
+{"w":"bucket","m":"양동이","e":"The bucket is full of water.","a":"w_bucket.wmr","s":"speech-c5879b8d250ca6e7.wav"}
+{"w":"flower pot","m":"화분","e":"The flower pot sits on the steps.","a":"w_flower_pot.wmr","s":"speech-05677f1c615d9765.wav"}
+{"w":"garden hose","m":"호스","e":"Spray the garden with the hose.","a":"w_garden_hose.wmr","s":"speech-5fcfdf6c793bbbfd.wav"}
+{"w":"wheelbarrow","m":"손수레","e":"Push the soil in the wheelbarrow.","a":"w_wheelbarrow.wmr","s":"speech-f7f50a48c3c98ab7.wav"}
+{"w":"key","m":"열쇠","e":"The key opened the old door.","a":"w_key.wmr","s":"speech-2c70e12b7a0646f9.wav"}
+{"w":"padlock","m":"자물쇠","e":"A padlock keeps the gate shut.","a":"w_padlock.wmr","s":"speech-f7f1daa58efa2f4c.wav"}
+{"w":"gift box","m":"선물상자","e":"A ribbon tied the gift box.","a":"w_gift_box.wmr","s":"speech-c419e04b604bafc1.wav"}
+{"w":"candle","m":"양초","e":"Blow out the candle and wish.","a":"w_candle.wmr","s":"speech-6fa599fe7b02fec0.wav"}
+{"w":"flashlight","m":"손전등","e":"Use a flashlight in the dark tent.","a":"w_flashlight.wmr","s":"speech-b982eabb1680523b.wav"}
+{"w":"battery","m":"건전지","e":"The toy needs a new battery.","a":"w_battery.wmr","s":"speech-f3d1701e1d575e12.wav"}
+{"w":"camera","m":"카메라","e":"Take a picture with the camera.","a":"w_camera.wmr","s":"speech-89e8b9518d922794.wav"}
+{"w":"binoculars","m":"쌍안경","e":"Watch the birds through binoculars.","a":"w_binoculars.wmr","s":"speech-a0e23a0813c2b152.wav"}
+{"w":"suitcase","m":"여행가방","e":"Pack your clothes in the suitcase.","a":"w_suitcase.wmr","s":"speech-9817a64167e5ea6c.wav"}
+{"w":"handbag","m":"핸드백","e":"Her keys live in the handbag.","a":"w_handbag.wmr","s":"speech-d531950f9771bdc4.wav"}
+{"w":"wallet","m":"지갑","e":"He keeps money in his wallet.","a":"w_wallet.wmr","s":"speech-e8d44050873dba86.wav"}
+{"w":"eyeglasses","m":"안경","e":"Clean your eyeglasses with the cloth.","a":"w_eyeglasses.wmr","s":"speech-43254116cb265796.wav"}
+{"w":"wristwatch","m":"손목시계","e":"Check your wristwatch for the time.","a":"w_wristwatch.wmr","s":"speech-230e02808f82de12.wav"}
+{"w":"ring","m":"반지","e":"A shiny ring fits her finger.","a":"w_ring.wmr","s":"speech-16b974583155fdcb.wav"}
+{"w":"necklace","m":"목걸이","e":"She wore a pearl necklace.","a":"w_necklace.wmr","s":"speech-731f46507cc53945.wav"}
+{"w":"scarf","m":"목도리","e":"Wrap the scarf around your neck.","a":"w_scarf.wmr","s":"speech-b4a8d31d8a110812.wav"}
+{"w":"mittens","m":"벙어리장갑","e":"Red mittens keep hands warm.","a":"w_mittens.wmr","s":"speech-a6e72ddf63690811.wav"}
+{"w":"jacket","m":"재킷","e":"Zip up your jacket, it is cold.","a":"w_jacket.wmr","s":"speech-554f4d3dafc80844.wav"}
+{"w":"t-shirt","m":"티셔츠","e":"He wore a blue t-shirt.","a":"w_t-shirt.wmr","s":"speech-5a6ae5c8d6d82bd9.wav"}
+{"w":"pants","m":"바지","e":"These pants have big pockets.","a":"w_pants.wmr","s":"speech-2c50624bea38c570.wav"}
+{"w":"dress","m":"원피스","e":"She twirled in her new dress.","a":"w_dress.wmr","s":"speech-5b612edb571c479d.wav"}
+{"w":"slippers","m":"슬리퍼","e":"Put on slippers inside the house.","a":"w_slippers.wmr","s":"speech-02ad2c2d0cedf589.wav"}
+{"w":"hanger","m":"옷걸이","e":"Hang the coat on the hanger.","a":"w_hanger.wmr","s":"speech-d248cfe618cea15b.wav"}
+{"w":"button","m":"단추","e":"One button fell off my shirt.","a":"w_button.wmr","s":"speech-c3e2d78f3ff33572.wav"}
+{"w":"zipper","m":"지퍼","e":"The zipper stuck halfway up.","a":"w_zipper.wmr","s":"speech-5827d8b677972a26.wav"}
+{"w":"belt","m":"벨트","e":"He fastened his belt tightly.","a":"w_belt.wmr","s":"speech-5f4f045d317c6bb4.wav"}
+{"w":"yo-yo","m":"요요","e":"The yo-yo climbs back up the string.","a":"w_yo-yo.wmr","s":"speech-8fa67658753e5a25.wav"}
+{"w":"teddy bear","m":"곰인형","e":"She sleeps with her teddy bear.","a":"w_teddy_bear.wmr","s":"speech-f6bc36134480b22f.wav"}
+{"w":"toy robot","m":"장난감로봇","e":"The toy robot walks and beeps.","a":"w_toy_robot.wmr","s":"speech-a9ece4e99dba34d3.wav"}
+{"w":"toy car","m":"장난감자동차","e":"The toy car rolls under the sofa.","a":"w_toy_car.wmr","s":"speech-d1d24fcc0cb91a32.wav"}
+{"w":"spinning top","m":"팽이","e":"The spinning top wobbled and fell.","a":"w_spinning_top.wmr","s":"speech-98a2691a54c09ebf.wav"}
+{"w":"jump rope","m":"줄넘기","e":"Jump rope for one minute.","a":"w_jump_rope.wmr","s":"speech-cea5e81d207328fd.wav"}
+{"w":"toy drum","m":"북","e":"He banged the toy drum loudly.","a":"w_toy_drum.wmr","s":"speech-39c4b33a2e0963cb.wav"}
+{"w":"balloon","m":"풍선","e":"The balloon floated to the ceiling.","a":"w_balloon.wmr","s":"speech-00477ad8a4431d45.wav"}
+{"w":"pinwheel","m":"바람개비","e":"The pinwheel spins in the breeze.","a":"w_pinwheel.wmr","s":"speech-1d21c10541669f28.wav"}
+{"w":"marble","m":"구슬","e":"Shooter marble won the game.","a":"w_marble.wmr","s":"speech-a9dd98f82c7de332.wav"}
+{"w":"soccer ball","m":"축구공","e":"Kick the soccer ball hard.","a":"w_soccer_ball.wmr","s":"speech-9dfb8408e6f08c75.wav"}
+{"w":"basketball","m":"농구공","e":"He dribbles the basketball well.","a":"w_basketball.wmr","s":"speech-f02c963574819724.wav"}
+{"w":"baseball bat","m":"야구방망이","e":"Swing the baseball bat level.","a":"w_baseball_bat.wmr","s":"speech-79674f32840573f3.wav"}
+{"w":"tennis racket","m":"테니스라켓","e":"Grip the tennis racket firmly.","a":"w_tennis_racket.wmr","s":"speech-1ecf97c3dda5572b.wav"}
+{"w":"bowling pin","m":"볼링핀","e":"The ball knocked down every bowling pin.","a":"w_bowling_pin.wmr","s":"speech-ab24ed641def2687.wav"}
+{"w":"whistle","m":"호루라기","e":"The referee blew the whistle.","a":"w_whistle.wmr","s":"speech-fa82948800a46459.wav"}
+{"w":"megaphone","m":"메가폰","e":"Cheer through the megaphone.","a":"w_megaphone.wmr","s":"speech-f2a76a219b403d8f.wav"}
+{"w":"avocado","m":"아보카도","e":"The avocado is ripe and creamy.","a":"w_avocado.wmr","s":"speech-f9c9baac9006160a.wav"}
+{"w":"lemon","m":"레몬","e":"Add lemon to the cold water.","a":"w_lemon.wmr","s":"speech-f464d7d71c06e47a.wav"}
+{"w":"coconut","m":"코코넛","e":"The coconut fell from the palm.","a":"w_coconut.wmr","s":"speech-23ebce72c4424e81.wav"}
+{"w":"cheese","m":"치즈","e":"The cheese melted on toast.","a":"w_cheese.wmr","s":"speech-873ac9ffea4dd04f.wav"}
+{"w":"milk carton","m":"우유팩","e":"The milk carton is nearly empty.","a":"w_milk_carton.wmr","s":"speech-c2c96bd35ce5f521.wav"}
+{"w":"juice box","m":"주스상자","e":"Punch the straw into the juice box.","a":"w_juice_box.wmr","s":"speech-9efe1ebbd5a752ae.wav"}
+{"w":"jam jar","m":"잼병","e":"Open the jam jar for breakfast.","a":"w_jam_jar.wmr","s":"speech-54e5c7be15decbe1.wav"}
+{"w":"honey jar","m":"꿀병","e":"The honey jar is sticky and sweet.","a":"w_honey_jar.wmr","s":"speech-b2268164836a7c58.wav"}
+{"w":"sandwich","m":"샌드위치","e":"I made a tuna sandwich.","a":"w_sandwich.wmr","s":"speech-8f5c570f55dd7921.wav"}
+{"w":"sushi roll","m":"김밥","e":"The sushi roll is cut in six pieces.","a":"w_sushi_roll.wmr","s":"speech-87cada9f5b815f9c.wav"}
+{"w":"pretzel","m":"프레첼","e":"The pretzel was warm and salty.","a":"w_pretzel.wmr","s":"speech-d1fedacd123d970f.wav"}
+{"w":"french fries","m":"감자튀김","e":"The french fries are crispy.","a":"w_french_fries.wmr","s":"speech-fbeef318a1174982.wav"}
+{"w":"fried egg","m":"달걀프라이","e":"The fried egg has a runny yolk.","a":"w_fried_egg.wmr","s":"speech-63b815561e39bffe.wav"}
+{"w":"picnic basket","m":"피크닉바구니","e":"The picnic basket holds our lunch.","a":"w_picnic_basket.wmr","s":"speech-ae22088111d7751c.wav"}
+{"w":"toolbox","m":"공구상자","e":"Dad keeps tools in the toolbox.","a":"w_toolbox.wmr","s":"speech-dd221319b058fd80.wav"}
+{"w":"hammer","m":"망치","e":"Hit the nail with the hammer.","a":"w_hammer.wmr","s":"speech-3ef81cb18bdaac2f.wav"}
+{"w":"screwdriver","m":"드라이버","e":"Tighten the screw with a screwdriver.","a":"w_screwdriver.wmr","s":"speech-2f2d4a8891231d90.wav"}
+{"w":"wrench","m":"렌치","e":"Turn the bolt with the wrench.","a":"w_wrench.wmr","s":"speech-702b023f619f27aa.wav"}
+{"w":"paint roller","m":"페인트롤러","e":"Roll the wall with the paint roller.","a":"w_paint_roller.wmr","s":"speech-e212972954ca88bb.wav"}
+{"w":"mop","m":"밀대","e":"The mop cleaned up the spill.","a":"w_mop.wmr","s":"speech-40685fd53d8eb3b1.wav"}
+{"w":"broom","m":"빗자루","e":"Sweep the floor with the broom.","a":"w_broom.wmr","s":"speech-100a07d1e4368153.wav"}
+{"w":"dustpan","m":"쓰레받기","e":"Brush the crumbs into the dustpan.","a":"w_dustpan.wmr","s":"speech-1235c254cd7d3f3c.wav"}
+{"w":"vacuum cleaner","m":"청소기","e":"The vacuum cleaner hums loudly.","a":"w_vacuum_cleaner.wmr","s":"speech-1f7b2e377d3e2106.wav"}
+{"w":"fan","m":"선풍기","e":"The fan cools the room.","a":"w_fan.wmr","s":"speech-e29a7f31cac05abc.wav"}
+{"w":"alarm clock","m":"알람시계","e":"The alarm clock rings at seven.","a":"w_alarm_clock.wmr","s":"speech-26869f79615bd71c.wav"}
+{"w":"hourglass","m":"모래시계","e":"The hourglass ran out of sand.","a":"w_hourglass.wmr","s":"speech-af20a4cdb149e87b.wav"}
+{"w":"notepad","m":"메모장","e":"Jot the phone number on a notepad.","a":"w_notepad.wmr","s":"speech-b7b479e0123d4907.wav"}
+{"w":"envelope","m":"봉투","e":"Seal the envelope with a sticker.","a":"w_envelope.wmr","s":"speech-4c503ca67761e5c4.wav"}
+{"w":"rubber stamp","m":"스탬프","e":"Press the rubber stamp in ink.","a":"w_rubber_stamp.wmr","s":"speech-b75a6a055db2f391.wav"}
+{"w":"lunch tray","m":"식판","e":"Set the cups on the lunch tray.","a":"w_lunch_tray.wmr","s":"speech-7f6d98a3ce752545.wav"}
+{"w":"chef hat","m":"요리사모자","e":"He wears a tall chef hat.","a":"w_chef_hat.wmr","s":"speech-c22ece064a19094d.wav"}
+{"w":"treasure chest","m":"보물상자","e":"The treasure chest held gold coins.","a":"w_treasure_chest.wmr","s":"speech-300886b285c4b88e.wav"}
+{"w":"paper airplane","m":"종이비행기","e":"Fold a paper airplane and throw it.","a":"w_paper_airplane.wmr","s":"speech-764538a03b7893e7.wav"}
+{"w":"starfish","m":"불가사리","e":"A starfish clung to the rock.","a":"w_starfish.wmr","s":"speech-3755b417b0f93702.wav"}
+{"w":"compass","m":"나침반","e":"The needle of the compass points north.","a":"w_compass.wmr","s":"speech-d1068beeb96a6a79.wav"}
+{"w":"magnet","m":"자석","e":"The magnet picked up the pins.","a":"w_magnet.wmr","s":"speech-ed05dd4d068fc00d.wav"}
+{"w":"clipboard","m":"클립보드","e":"She checked names on the clipboard.","a":"w_clipboard.wmr","s":"speech-a78c94675455b620.wav"}
+{"w":"triangle ruler","m":"삼각자","e":"Draw angles with a triangle ruler.","a":"w_triangle_ruler.wmr","s":"speech-a02f8ff28fe42492.wav"}
+{"w":"paint tube","m":"물감튜브","e":"Squeeze blue from the paint tube.","a":"w_paint_tube.wmr","s":"speech-4f804c3ebc43015e.wav"}
+{"w":"apron","m":"앞치마","e":"Wear an apron while painting.","a":"w_apron.wmr","s":"speech-e79e8a37b08ee666.wav"}
+{"w":"safety pin","m":"옷핀","e":"Fix the strap with a safety pin.","a":"w_safety_pin.wmr","s":"speech-0d1525c5d963d953.wav"}
+{"w":"feather","m":"깃털","e":"The feather drifted to the ground.","a":"w_feather.wmr","s":"speech-b52115ea553c55b7.wav"}
+{"w":"crown","m":"왕관","e":"The king placed the crown on.","a":"w_crown.wmr","s":"speech-0dcfafab5f8035e7.wav"}
+{"w":"cat","m":"고양이","e":"The cat naps in the sun.","a":"w_cat.wmr","s":"speech-77af778b51abd4a3.wav"}
+{"w":"dog","m":"강아지","e":"Our dog fetches the ball.","a":"w_dog.wmr","s":"speech-cd6357efdd966de8.wav"}
+{"w":"rabbit","m":"토끼","e":"The rabbit hops across the grass.","a":"w_rabbit.wmr","s":"speech-d37d96b42ad43384.wav"}
+{"w":"bird","m":"새","e":"A bird sang at dawn.","a":"w_bird.wmr","s":"speech-7a5179eecc0fe187.wav"}
+{"w":"fish","m":"물고기","e":"The fish swims in circles.","a":"w_fish.wmr","s":"speech-b474a99a2705e23c.wav"}
+{"w":"turtle","m":"거북이","e":"The turtle walks very slowly.","a":"w_turtle.wmr","s":"speech-74dd730b5c36c1cb.wav"}
+{"w":"frog","m":"개구리","e":"The frog jumped into the pond.","a":"w_frog.wmr","s":"speech-74fa5327cc0f4e94.wav"}
+{"w":"duck","m":"오리","e":"Ducks waddle along the shore.","a":"w_duck.wmr","s":"speech-2d2370db2447ff8c.wav"}
+{"w":"chicken","m":"닭","e":"The chicken laid an egg.","a":"w_chicken.wmr","s":"speech-811eb81b9d11d65a.wav"}
+{"w":"cow","m":"소","e":"The cow grazes in the meadow.","a":"w_cow.wmr","s":"speech-beb134754910a4b4.wav"}
+{"w":"pig","m":"돼지","e":"The pig rolled in the mud.","a":"w_pig.wmr","s":"speech-f0b8c9d84dd2b877.wav"}
+{"w":"sheep","m":"양","e":"Sheep gather on the hillside.","a":"w_sheep.wmr","s":"speech-5c599616ac500daa.wav"}
+{"w":"horse","m":"말","e":"She rides her horse daily.","a":"w_horse.wmr","s":"speech-fd62862b6dc213be.wav"}
+{"w":"lion","m":"사자","e":"The lion roared at dawn.","a":"w_lion.wmr","s":"speech-fc59487712bbe89b.wav"}
+{"w":"tiger","m":"호랑이","e":"The tiger has black stripes.","a":"w_tiger.wmr","s":"speech-f15c16b99f82d820.wav"}
+{"w":"elephant","m":"코끼리","e":"The elephant sprayed water.","a":"w_elephant.wmr","s":"speech-cd08c4c4316df20d.wav"}
+{"w":"giraffe","m":"기린","e":"The giraffe eats the tall leaves.","a":"w_giraffe.wmr","s":"speech-6bb7e067447139b1.wav"}
+{"w":"zebra","m":"얼룩말","e":"A zebra grazed with the herd.","a":"w_zebra.wmr","s":"speech-676cb75018edccf1.wav"}
+{"w":"monkey","m":"원숭이","e":"The monkey swung branch to branch.","a":"w_monkey.wmr","s":"speech-000c285457fc971f.wav"}
+{"w":"panda","m":"판다","e":"The panda munches bamboo all day.","a":"w_panda.wmr","s":"speech-a7cdf5d0586b3924.wav"}
+{"w":"bear","m":"곰","e":"The bear caught a fish.","a":"w_bear.wmr","s":"speech-bc98bb50e8094b2a.wav"}
+{"w":"fox","m":"여우","e":"The fox crept through the snow.","a":"w_fox.wmr","s":"speech-776cb326ab0cd5f0.wav"}
+{"w":"deer","m":"사슴","e":"A deer stood at the forest edge.","a":"w_deer.wmr","s":"speech-acf5bfd986de639d.wav"}
+{"w":"penguin","m":"펭귄","e":"Penguins huddle to keep warm.","a":"w_penguin.wmr","s":"speech-0a4346f806b28b3c.wav"}
+{"w":"whale","m":"고래","e":"The whale spouted water high.","a":"w_whale.wmr","s":"speech-a5d2ae286d0d9e45.wav"}
+{"w":"dolphin","m":"돌고래","e":"The dolphin leapt from the waves.","a":"w_dolphin.wmr","s":"speech-532f011ec89ff0e2.wav"}
+{"w":"octopus","m":"문어","e":"The octopus has eight arms.","a":"w_octopus.wmr","s":"speech-5633c9b8af6d0898.wav"}
+{"w":"crab","m":"게","e":"The crab walked sideways.","a":"w_crab.wmr","s":"speech-3349a915f7cd0c2f.wav"}
+{"w":"butterfly","m":"나비","e":"A butterfly landed on the flower.","a":"w_butterfly.wmr","s":"speech-fcfd075cbe367c15.wav"}
+{"w":"bee","m":"벌","e":"The bee buzzed from bloom to bloom.","a":"w_bee.wmr","s":"speech-62cb81b5904a262f.wav"}
+{"w":"ladybug","m":"무당벌레","e":"A ladybug crawled up the stem.","a":"w_ladybug.wmr","s":"speech-0b2319dc1ccf7803.wav"}
+{"w":"ant","m":"개미","e":"The ant carried a big crumb.","a":"w_ant.wmr","s":"speech-67a333356cdc566e.wav"}
+{"w":"snail","m":"달팽이","e":"The snail left a shiny trail.","a":"w_snail.wmr","s":"speech-62156a7b494a332c.wav"}
+{"w":"spider","m":"거미","e":"The spider spun a round web.","a":"w_spider.wmr","s":"speech-9bfa0b50a90e6699.wav"}
+{"w":"dragonfly","m":"잠자리","e":"A dragonfly skimmed the pond.","a":"w_dragonfly.wmr","s":"speech-e2ca6aec52558fcc.wav"}
+{"w":"tv","m":"텔레비전","e":"Cartoons play on the tv.","a":"w_tv.wmr","s":"speech-a46e5d2bbe2d3b05.wav"}
+{"w":"smartphone","m":"스마트폰","e":"She takes photos on her smartphone.","a":"w_smartphone.wmr","s":"speech-358aea9928a74643.wav"}
+{"w":"remote control","m":"리모컨","e":"Where did the remote control go?","a":"w_remote_control.wmr","s":"speech-a831f6119ea4cd54.wav"}
+{"w":"keyboard","m":"키보드","e":"Type your name on the keyboard.","a":"w_keyboard.wmr","s":"speech-91f060a9ad4b39eb.wav"}
+{"w":"computer mouse","m":"마우스","e":"Click the computer mouse twice.","a":"w_computer_mouse.wmr","s":"speech-6b3cfa6f4cc5e667.wav"}
+{"w":"speaker","m":"스피커","e":"Music pours from the speaker.","a":"w_speaker.wmr","s":"speech-291ea5ef94dffda4.wav"}
+{"w":"microphone","m":"마이크","e":"Speak into the microphone clearly.","a":"w_microphone.wmr","s":"speech-d7f4d3ccee7acd3d.wav"}
+{"w":"radio","m":"라디오","e":"The radio plays morning news.","a":"w_radio.wmr","s":"speech-aa3a05d9d57c08d6.wav"}
+{"w":"game controller","m":"게임패드","e":"He held the game controller tight.","a":"w_game_controller.wmr","s":"speech-5090ae74cf162daf.wav"}
+{"w":"light bulb","m":"전구","e":"Change the light bulb, it burned out.","a":"w_light_bulb.wmr","s":"speech-1bafd1799c54b09b.wav"}
+{"w":"electric plug","m":"플러그","e":"Push the electric plug in firmly.","a":"w_electric_plug.wmr","s":"speech-94dbb6b8edb11e9c.wav"}
+{"w":"guitar","m":"기타","e":"She plays the guitar by the fire.","a":"w_guitar.wmr","s":"speech-d081f5e402980b26.wav"}
+{"w":"piano keyboard","m":"피아노","e":"The piano keyboard has white and black keys.","a":"w_piano_keyboard.wmr","s":"speech-9ec816276b5fe13a.wav"}
+{"w":"violin","m":"바이올린","e":"He practices violin every evening.","a":"w_violin.wmr","s":"speech-00e3e584e242f926.wav"}
+{"w":"trumpet","m":"트럼펫","e":"The trumpet sounded the fanfare.","a":"w_trumpet.wmr","s":"speech-b7dfa266adb6db50.wav"}
+{"w":"tambourine","m":"탬버린","e":"Shake the tambourine to the beat.","a":"w_tambourine.wmr","s":"speech-991cb2fefb24b89b.wav"}
+{"w":"maracas","m":"마라카스","e":"The maracas rattled loudly.","a":"w_maracas.wmr","s":"speech-c5044ba71388fa76.wav"}
+{"w":"xylophone","m":"실로폰","e":"She tapped a tune on the xylophone.","a":"w_xylophone.wmr","s":"speech-ee726105e930b4a5.wav"}
+{"w":"mailbox","m":"우체통","e":"Drop the letter in the mailbox.","a":"w_mailbox.wmr","s":"speech-92bea4d52a1d53f0.wav"}
+{"w":"stethoscope","m":"청진기","e":"The doctor wore a stethoscope.","a":"w_stethoscope.wmr","s":"speech-593fe4bc6c8ebaca.wav"}
+{"w":"fire extinguisher","m":"소화기","e":"Point the fire extinguisher at the flames.","a":"w_fire_extinguisher.wmr","s":"speech-824d61d9f6c12c04.wav"}
+{"w":"first aid kit","m":"구급상자","e":"Bandages live in the first aid kit.","a":"w_first_aid_kit.wmr","s":"speech-33a9e04fb096470d.wav"}
+{"w":"toilet","m":"변기","e":"Flush the toilet after use.","a":"w_toilet.wmr","s":"speech-74f7fd1cf08b145c.wav"}
+{"w":"toilet paper","m":"화장지","e":"We are out of toilet paper.","a":"w_toilet_paper.wmr","s":"speech-5b0c6c960a804955.wav"}
+{"w":"trash can","m":"쓰레기통","e":"Toss the wrapper in the trash can.","a":"w_trash_can.wmr","s":"speech-9780f4d76d8a55d3.wav"}
+{"w":"house","m":"집","e":"Our house has a red roof.","a":"w_house.wmr","s":"speech-d6e21286621a8586.wav"}
+{"w":"apartment building","m":"아파트","e":"The apartment building has ten floors.","a":"w_apartment_building.wmr","s":"speech-e169937c0d231b45.wav"}
+{"w":"school building","m":"학교","e":"The school building opens at eight.","a":"w_school_building.wmr","s":"speech-9b2c51b1bdc96ab9.wav"}
+{"w":"hospital building","m":"병원","e":"The hospital building glows at night.","a":"w_hospital_building.wmr","s":"speech-277d14863fede681.wav"}
+{"w":"fire station","m":"소방서","e":"Fire trucks sleep in the fire station.","a":"w_fire_station.wmr","s":"speech-73ab573aa5953efd.wav"}
+{"w":"police station","m":"경찰서","e":"Report it at the police station.","a":"w_police_station.wmr","s":"speech-df9d79f52caf03d4.wav"}
+{"w":"post office","m":"우체국","e":"Mail the parcel at the post office.","a":"w_post_office.wmr","s":"speech-4b3baa4f4e5850ea.wav"}
+{"w":"library building","m":"도서관","e":"The library building is quiet inside.","a":"w_library_building.wmr","s":"speech-146a38743d8e9d85.wav"}
+{"w":"supermarket","m":"슈퍼마켓","e":"We buy snacks at the supermarket.","a":"w_supermarket.wmr","s":"speech-16d1c76df24f2f30.wav"}
+{"w":"bakery shop","m":"빵집","e":"The bakery shop smells like bread.","a":"w_bakery_shop.wmr","s":"speech-8e15e5360332680b.wav"}
+{"w":"restaurant","m":"식당","e":"This restaurant serves good noodles.","a":"w_restaurant.wmr","s":"speech-ee275d64dafcd283.wav"}
+{"w":"bank","m":"은행","e":"The bank opens at nine sharp.","a":"w_bank.wmr","s":"speech-4381dc2ab1428516.wav"}
+{"w":"gas station","m":"주유소","e":"The car stopped at the gas station.","a":"w_gas_station.wmr","s":"speech-a62a941752f66b29.wav"}
+{"w":"bridge","m":"다리","e":"Walk across the old bridge.","a":"w_bridge.wmr","s":"speech-17f29b073143d8cd.wav"}
+{"w":"castle","m":"성","e":"The castle has tall towers.","a":"w_castle.wmr","s":"speech-913a53d7df2fad65.wav"}
+{"w":"tent","m":"텐트","e":"We set the tent by the river.","a":"w_tent.wmr","s":"speech-2a9810cb71316c9a.wav"}
+{"w":"cabin","m":"오두막","e":"A tiny cabin sits in the woods.","a":"w_cabin.wmr","s":"speech-2764182d02bee1c5.wav"}
+{"w":"barn","m":"헛간","e":"Cows sleep in the red barn.","a":"w_barn.wmr","s":"speech-e43a7ece3a362be4.wav"}
+{"w":"fence","m":"울타리","e":"The fence keeps the sheep in.","a":"w_fence.wmr","s":"speech-87346eb282352fda.wav"}
+{"w":"playground slide","m":"미끄럼틀","e":"Line up for the playground slide.","a":"w_playground_slide.wmr","s":"speech-09a44b9e6679ea69.wav"}
+{"w":"swing set","m":"그네","e":"The swing set squeaks in the wind.","a":"w_swing_set.wmr","s":"speech-209c47f844d09937.wav"}
+{"w":"seesaw","m":"시소","e":"Ride the seesaw with a friend.","a":"w_seesaw.wmr","s":"speech-d5d6350213caff46.wav"}
+{"w":"sandbox","m":"모래상자","e":"Build a castle in the sandbox.","a":"w_sandbox.wmr","s":"speech-b7ad567477c83756.wav"}
+{"w":"beach ball","m":"비치볼","e":"We batted the beach ball around.","a":"w_beach_ball.wmr","s":"speech-9eef361ee5e57dfa.wav"}
+{"w":"life ring","m":"구명환","e":"The life ring floated beside the boat.","a":"w_life_ring.wmr","s":"speech-ec8f5540924c26cb.wav"}
+{"w":"sandcastle","m":"모래성","e":"The wave washed the sandcastle away.","a":"w_sandcastle.wmr","s":"speech-f315d114578d9aef.wav"}
+{"w":"surfboard","m":"서핑보드","e":"He paddles out on his surfboard.","a":"w_surfboard.wmr","s":"speech-e7a7916cca68ef17.wav"}
+{"w":"snowman","m":"눈사람","e":"The snowman wore a carrot nose.","a":"w_snowman.wmr","s":"speech-4ac134964872c4b0.wav"}
+{"w":"sled","m":"썰매","e":"The sled flew down the hill.","a":"w_sled.wmr","s":"speech-edf52620e322bb97.wav"}
+{"w":"skis","m":"스키","e":"Wax your skis before the slope.","a":"w_skis.wmr","s":"speech-fb1d6060d754fe72.wav"}
+{"w":"ice skate","m":"스케이트","e":"Lace each ice skate tightly.","a":"w_ice_skate.wmr","s":"speech-e8ee84bc27f983f2.wav"}
+{"w":"roller skate","m":"롤러스케이트","e":"She glides on one roller skate.","a":"w_roller_skate.wmr","s":"speech-6f0d3982238608e8.wav"}
+{"w":"swimming goggles","m":"수경","e":"Adjust the strap of your swimming goggles.","a":"w_swimming_goggles.wmr","s":"speech-5b699ddbbce210a3.wav"}
+{"w":"snorkel","m":"스노클","e":"Breathe through the snorkel near the surface.","a":"w_snorkel.wmr","s":"speech-4c8668945791e8a7.wav"}
+{"w":"fishing rod","m":"낚싯대","e":"He cast the fishing rod far.","a":"w_fishing_rod.wmr","s":"speech-21333f1e7fda3e7c.wav"}
+{"w":"campfire","m":"모닥불","e":"We roasted marshmallows over the campfire.","a":"w_campfire.wmr","s":"speech-fa51a8398d307c5e.wav"}
+{"w":"lantern","m":"랜턴","e":"The lantern lit the dark path.","a":"w_lantern.wmr","s":"speech-c5220b3c4266890f.wav"}
+{"w":"sleeping bag","m":"침낭","e":"Curl up inside the sleeping bag.","a":"w_sleeping_bag.wmr","s":"speech-88d7a1ecff21809b.wav"}
+{"w":"hiking boot","m":"등산화","e":"Mud stuck to every hiking boot.","a":"w_hiking_boot.wmr","s":"speech-6ffa2bf647328a45.wav"}
+{"w":"faucet","m":"수도꼭지","e":"The faucet dripped all night.","a":"w_faucet.wmr","s":"speech-f40b4c5241c68caf.wav"}
+{"w":"washing machine","m":"세탁기","e":"Load the washing machine with darks.","a":"w_washing_machine.wmr","s":"speech-968a58eccfc8fa4b.wav"}
+{"w":"refrigerator","m":"냉장고","e":"The milk is in the refrigerator.","a":"w_refrigerator.wmr","s":"speech-0cf35ab8cf8d2c5a.wav"}
+{"w":"microwave","m":"전자레인지","e":"Heat the soup in the microwave.","a":"w_microwave.wmr","s":"speech-d2bedad966f1b52a.wav"}
+{"w":"oven","m":"오븐","e":"The bread bakes in the hot oven.","a":"w_oven.wmr","s":"speech-4908abbcc9666d67.wav"}
+{"w":"toaster","m":"토스터","e":"The toast popped up bright and warm.","a":"w_toaster.wmr","s":"speech-b84b0faf393e0c0c.wav"}
+{"w":"blender","m":"믹서기","e":"Blend the fruit in the blender.","a":"w_blender.wmr","s":"speech-5a80e4ba8e6d0425.wav"}
+{"w":"rice cooker","m":"밥솥","e":"The rice cooker clicked when done.","a":"w_rice_cooker.wmr","s":"speech-4175f8e700d46dd1.wav"}
+{"w":"laundry basket","m":"빨래바구니","e":"Carry the laundry basket downstairs.","a":"w_laundry_basket.wmr","s":"speech-93b321ee4b2c8f93.wav"}
+{"w":"clothes iron","m":"다리미","e":"The clothes iron smoothed the shirt.","a":"w_clothes_iron.wmr","s":"speech-fd8d5d6fd2ae7e4a.wav"}
+{"w":"ironing board","m":"다림판","e":"Set the ironing board by the window.","a":"w_ironing_board.wmr","s":"speech-d1c1a9716a647467.wav"}
+{"w":"sewing needle","m":"바늘","e":"Thread the sewing needle slowly.","a":"w_sewing_needle.wmr","s":"speech-98982fd9a0b2cd4c.wav"}
+{"w":"spool of thread","m":"실패","e":"A spool of thread rolled off the table.","a":"w_spool_of_thread.wmr","s":"speech-c814bb85d225b813.wav"}
+{"w":"yarn ball","m":"털실","e":"The kitten chased the yarn ball.","a":"w_yarn_ball.wmr","s":"speech-3ded77fe687dad37.wav"}
+{"w":"raincoat","m":"우비","e":"Button up your yellow raincoat.","a":"w_raincoat.wmr","s":"speech-b6958aab121d91a7.wav"}
+{"w":"sunglasses","m":"선글라스","e":"Sunglasses block the bright glare.","a":"w_sunglasses.wmr","s":"speech-754ee0c9fc2cd559.wav"}
+{"w":"sandals","m":"샌들","e":"Wear sandals on the hot sand.","a":"w_sandals.wmr","s":"speech-5beac27ce6911e4d.wav"}
+{"w":"swimsuit","m":"수영복","e":"Rinse your swimsuit after the pool.","a":"w_swimsuit.wmr","s":"speech-d6c0822cf8ac0a05.wav"}
+{"w":"tie","m":"넥타이","e":"Dad knotted his blue tie.","a":"w_tie.wmr","s":"speech-6f595eba3f46ceaa.wav"}
+{"w":"bow tie","m":"나비넥타이","e":"The waiter wore a bow tie.","a":"w_bow_tie.wmr","s":"speech-1929b7ff48dc2355.wav"}
+{"w":"gloves","m":"장갑","e":"Leather gloves protect your hands.","a":"w_gloves.wmr","s":"speech-0e376c13c26b9a46.wav"}
+{"w":"helmet","m":"헬멧","e":"Always buckle your helmet.","a":"w_helmet.wmr","s":"speech-115584860cd5620e.wav"}
+{"w":"life jacket","m":"구명조끼","e":"Wear a life jacket on the boat.","a":"w_life_jacket.wmr","s":"speech-81965262ac330b93.wav"}
+{"w":"shopping bag","m":"쇼핑백","e":"Pack the snacks in a shopping bag.","a":"w_shopping_bag.wmr","s":"speech-ac2826ff1c2b5836.wav"}
+{"w":"shopping cart","m":"쇼핑카트","e":"The shopping cart had a wobbly wheel.","a":"w_shopping_cart.wmr","s":"speech-4aa2346a97bf3474.wav"}
+{"w":"cash register","m":"계산대","e":"The cash register chimed twice.","a":"w_cash_register.wmr","s":"speech-1f9e810871539c52.wav"}
+{"w":"coin","m":"동전","e":"A coin rolled under the vending machine.","a":"w_coin.wmr","s":"speech-b3a1984ba0b1d8ad.wav"}
+{"w":"piggy bank","m":"저금통","e":"Shake the piggy bank and count.","a":"w_piggy_bank.wmr","s":"speech-a9a7f22dcb4d6b30.wav"}
+{"w":"shopping basket","m":"장바구니","e":"Grab a shopping basket at the door.","a":"w_shopping_basket.wmr","s":"speech-3fd436f33562df19.wav"}
+{"w":"scale","m":"저울","e":"The scale reads two kilograms.","a":"w_scale.wmr","s":"speech-f469802a31447f90.wav"}
+{"w":"thermometer","m":"온도계","e":"The thermometer shows a fever.","a":"w_thermometer.wmr","s":"speech-8744bbc75301096d.wav"}
+{"w":"syringe","m":"주사기","e":"The nurse prepared a tiny syringe.","a":"w_syringe.wmr","s":"speech-9c662352618a7026.wav"}
+{"w":"bandage","m":"반창고","e":"Wrap a bandage around the cut.","a":"w_bandage.wmr","s":"speech-fe4190c0bc0ee116.wav"}
+{"w":"medicine bottle","m":"약병","e":"Shake the medicine bottle first.","a":"w_medicine_bottle.wmr","s":"speech-6f5ede7161a181d6.wav"}
+{"w":"pill","m":"알약","e":"Take one pill with water.","a":"w_pill.wmr","s":"speech-e3127a4ce13edc51.wav"}
+{"w":"test tube","m":"시험관","e":"Pour the blue liquid into a test tube.","a":"w_test_tube.wmr","s":"speech-0b281dab073c5268.wav"}
+{"w":"beaker","m":"비커","e":"The beaker bubbled over the flame.","a":"w_beaker.wmr","s":"speech-de79dda4d18e5f79.wav"}
+{"w":"microscope","m":"현미경","e":"Peer at the leaf through the microscope.","a":"w_microscope.wmr","s":"speech-0f09538d0ea075ee.wav"}
+{"w":"telescope","m":"망원경","e":"Aim the telescope at the moon.","a":"w_telescope.wmr","s":"speech-918d6b6a9b95943b.wav"}
+{"w":"planet","m":"행성","e":"Mars is the red planet.","a":"w_planet.wmr","s":"speech-cb5815fe5c3c9d7b.wav"}
+{"w":"star","m":"별","e":"One star shone brighter tonight.","a":"w_star.wmr","s":"speech-525eca1d5089dbdc.wav"}
+{"w":"comet","m":"혜성","e":"The comet streaked across the sky.","a":"w_comet.wmr","s":"speech-d51f791051c2e5f9.wav"}
+{"w":"satellite","m":"위성","e":"The satellite orbits the earth.","a":"w_satellite.wmr","s":"speech-dc4b4e203f9dddce.wav"}
+{"w":"planet earth","m":"지구","e":"Planet earth looks blue from space.","a":"w_planet_earth.wmr","s":"speech-fe86b42b23b4a3f4.wav"}
+{"w":"sprout","m":"새싹","e":"A sprout pushed through the soil.","a":"w_sprout.wmr","s":"speech-7957bdf8ea97bea3.wav"}
+{"w":"seed","m":"씨앗","e":"Plant one seed per pot.","a":"w_seed.wmr","s":"speech-19b25856e1c150ca.wav"}
+{"w":"tree stump","m":"나무그루터기","e":"Count the rings on the tree stump.","a":"w_tree_stump.wmr","s":"speech-c3e0f4caceb4813d.wav"}
+{"w":"log","m":"통나무","e":"A log rolled down the pile.","a":"w_log.wmr","s":"speech-836ff184e7b41b1e.wav"}
+{"w":"rock","m":"바위","e":"The rock is too heavy to lift.","a":"w_rock.wmr","s":"speech-350a770c0ec9f353.wav"}
+{"w":"bird nest","m":"새둥지","e":"A bird nest hides in the hedge.","a":"w_bird_nest.wmr","s":"speech-34e11de13703ebf2.wav"}
+{"w":"honeycomb","m":"벌집","e":"Bees fill each honeycomb cell.","a":"w_honeycomb.wmr","s":"speech-dd0cf4ed95b64c54.wav"}
+{"w":"egg","m":"달걀","e":"Crack the egg on the bowl edge.","a":"w_egg.wmr","s":"speech-34707c3f40dfa20c.wav"}
+{"w":"chopsticks","m":"젓가락","e":"Hold your chopsticks like this.","a":"w_chopsticks.wmr","s":"speech-473fec0ecb9339a1.wav"}
+{"w":"drinking straw","m":"빨대","e":"Bend the drinking straw and sip.","a":"w_drinking_straw.wmr","s":"speech-2dd676c828680c72.wav"}
+{"w":"napkin","m":"냅킨","e":"Tuck the napkin under the plate.","a":"w_napkin.wmr","s":"speech-9db44611cf4a08a8.wav"}
+{"w":"salt shaker","m":"소금통","e":"Pass the salt shaker, please.","a":"w_salt_shaker.wmr","s":"speech-35ab985d06c08f9c.wav"}
+{"w":"pepper shaker","m":"후추통","e":"The pepper shaker needs a refill.","a":"w_pepper_shaker.wmr","s":"speech-418165672c9e33cd.wav"}
+{"w":"sauce bottle","m":"소스병","e":"Squeeze the sauce bottle lightly.","a":"w_sauce_bottle.wmr","s":"speech-b79e282517dc503e.wav"}
+{"w":"water drop","m":"물방울","e":"A water drop slid down the glass.","a":"w_water_drop.wmr","s":"speech-389d7a3c351c7f1c.wav"}
+{"w":"flame","m":"불꽃","e":"The flame flickered and died.","a":"w_flame.wmr","s":"speech-bd9dc5f78dac9fad.wav"}
+{"w":"soap bubbles","m":"비눗방울","e":"Soap bubbles floated over the yard.","a":"w_soap_bubbles.wmr","s":"speech-1009c704cf564280.wav"}
+{"w":"laptop","m":"노트북","e":"She codes on her laptop.","a":"w_laptop.wmr","s":"speech-5eec0dc419aa8337.wav"}
+{"w":"printer","m":"프린터","e":"The printer is out of ink.","a":"w_printer.wmr","s":"speech-ba70e1dacc17e1a7.wav"}
+{"w":"television","m":"텔레비전","e":"Grandpa watches baseball on television.","a":"w_television.wmr","s":"speech-a031eda273ac1886.wav"}
+{"w":"charger plug","m":"충전기","e":"The charger plug snapped into the port.","a":"w_charger_plug.wmr","s":"speech-6ca05b5a18ef1536.wav"}
+{"w":"charging cable","m":"충전 케이블","e":"My charging cable is frayed.","a":"w_charging_cable.wmr","s":"speech-c3e40e60dc40c2f2.wav"}
+{"w":"power outlet","m":"콘센트","e":"Do not poke the power outlet.","a":"w_power_outlet.wmr","s":"speech-0aa82d989b0d656e.wav"}
+{"w":"wi-fi router","m":"와이파이 공유기","e":"Restart the wi-fi router, please.","a":"w_wi-fi_router.wmr","s":"speech-9cd6ed2e5d6e3a88.wav"}
+{"w":"usb flash drive","m":"USB 메모리","e":"Save the file to the usb flash drive.","a":"w_usb_flash_drive.wmr","s":"speech-11d890d6bc3059df.wav"}
+{"w":"memory card","m":"메모리 카드","e":"The memory card is full.","a":"w_memory_card.wmr","s":"speech-3d74ce9024b8cf97.wav"}
+{"w":"smartwatch","m":"스마트워치","e":"Her smartwatch counts the steps.","a":"w_smartwatch.wmr","s":"speech-ee8ad472e6414cfe.wav"}
+{"w":"projector","m":"프로젝터","e":"The projector lit the whole wall.","a":"w_projector.wmr","s":"speech-0f12166cd5d87ffd.wav"}
+{"w":"camera tripod","m":"삼각대","e":"Mount the camera on the tripod.","a":"w_camera_tripod.wmr","s":"speech-a9862383e9c12895.wav"}
+{"w":"acoustic guitar","m":"통기타","e":"He strummed the acoustic guitar.","a":"w_acoustic_guitar.wmr","s":"speech-ec8de993eb26ab4b.wav"}
+{"w":"saxophone","m":"색소폰","e":"The saxophone wailed the solo.","a":"w_saxophone.wmr","s":"speech-438926865a4029d9.wav"}
+{"w":"flute","m":"플루트","e":"Her flute notes trilled high.","a":"w_flute.wmr","s":"speech-c52c4fb88926f84b.wav"}
+{"w":"cymbals","m":"심벌즈","e":"Crash the cymbals at the climax.","a":"w_cymbals.wmr","s":"speech-fbee0a32c47be0ee.wav"}
+{"w":"harmonica","m":"하모니카","e":"He played blues on the harmonica.","a":"w_harmonica.wmr","s":"speech-2940f4354ebd1ab7.wav"}
+{"w":"accordion","m":"아코디언","e":"The accordion bellows opened wide.","a":"w_accordion.wmr","s":"speech-ae05a3bf72601ef6.wav"}
+{"w":"music stand","m":"악보대","e":"Set the score on the music stand.","a":"w_music_stand.wmr","s":"speech-f501e6368f1400dd.wav"}
+{"w":"metronome","m":"메트로놈","e":"The metronome ticks steadily.","a":"w_metronome.wmr","s":"speech-9e03f56799b94a3c.wav"}
+{"w":"conductor baton","m":"지휘봉","e":"The maestro raised the conductor baton.","a":"w_conductor_baton.wmr","s":"speech-d75cf7a0cf1301b6.wav"}
+{"w":"record player","m":"턴테이블","e":"Vinyl spins on the record player.","a":"w_record_player.wmr","s":"speech-cf8351154c9b72a5.wav"}
+{"w":"vinyl record","m":"레코드판","e":"This vinyl record is from 1970.","a":"w_vinyl_record.wmr","s":"speech-9f586016a011f0b1.wav"}
+{"w":"boombox","m":"카세트 라디오","e":"The boombox blasted on his shoulder.","a":"w_boombox.wmr","s":"speech-43f3f1514bd5c802.wav"}
+{"w":"kazoo","m":"카주","e":"Hum into the kazoo, do not blow.","a":"w_kazoo.wmr","s":"speech-3073feb0b889cd3c.wav"}
+{"w":"ukulele","m":"우쿨렐레","e":"She strums a tiny ukulele.","a":"w_ukulele.wmr","s":"speech-66714d1cd3b4d949.wav"}
+{"w":"cello","m":"첼로","e":"The cello sang a low note.","a":"w_cello.wmr","s":"speech-9bbf02efd82322aa.wav"}
+{"w":"triangle instrument","m":"트라이앵글","e":"Ding the triangle instrument softly.","a":"w_triangle_instrument.wmr","s":"speech-1dc8bd385aa67b3b.wav"}
+{"w":"volleyball","m":"배구공","e":"Bump the volleyball up high.","a":"w_volleyball.wmr","s":"speech-3580c9267518807d.wav"}
+{"w":"tennis ball","m":"테니스공","e":"The tennis ball bounced over the line.","a":"w_tennis_ball.wmr","s":"speech-376ab19c017ce8a4.wav"}
+{"w":"baseball","m":"야구공","e":"The baseball sailed over the fence.","a":"w_baseball.wmr","s":"speech-a01edad91c00abe7.wav"}
+{"w":"baseball glove","m":"야구 글러브","e":"Break in a new baseball glove.","a":"w_baseball_glove.wmr","s":"speech-148404d9b274dcfc.wav"}
+{"w":"badminton racket","m":"배드민턴 라켓","e":"String the badminton racket tighter.","a":"w_badminton_racket.wmr","s":"speech-d13f9e65b82c20a1.wav"}
+{"w":"shuttlecock","m":"셔틀콕","e":"The shuttlecock floated across.","a":"w_shuttlecock.wmr","s":"speech-bb142ea3da3db829.wav"}
+{"w":"golf club","m":"골프채","e":"Choose the right golf club.","a":"w_golf_club.wmr","s":"speech-1f30b1005b9978be.wav"}
+{"w":"golf ball","m":"골프공","e":"The golf ball rolled into the cup.","a":"w_golf_ball.wmr","s":"speech-a98dec8ced509feb.wav"}
+{"w":"hockey stick","m":"하키 스틱","e":"Tape the hockey stick blade.","a":"w_hockey_stick.wmr","s":"speech-9c19358aa9701129.wav"}
+{"w":"hockey puck","m":"하키 퍽","e":"The hockey puck slid between pads.","a":"w_hockey_puck.wmr","s":"speech-edf140f8c24c1851.wav"}
+{"w":"dumbbell","m":"아령","e":"Lift the dumbbell with a straight back.","a":"w_dumbbell.wmr","s":"speech-3a5644fb47bf2d83.wav"}
+{"w":"yoga mat","m":"요가 매트","e":"Unroll the yoga mat by the window.","a":"w_yoga_mat.wmr","s":"speech-4261e3f4dd199f7d.wav"}
+{"w":"swim cap","m":"수영모","e":"A swim cap keeps hair dry-ish.","a":"w_swim_cap.wmr","s":"speech-c99203963eea0b82.wav"}
+{"w":"soccer goal","m":"축구 골대","e":"The ball hit the soccer goal post.","a":"w_soccer_goal.wmr","s":"speech-286251559818fa53.wav"}
+{"w":"basketball hoop","m":"농구 골대","e":"The basketball hoop is ten feet high.","a":"w_basketball_hoop.wmr","s":"speech-5e47e9c7d9338672.wav"}
+{"w":"table tennis paddle","m":"탁구채","e":"Grip the table tennis paddle loosely.","a":"w_table_tennis_paddle.wmr","s":"speech-cf56bdeb7308c0af.wav"}
+{"w":"ping pong ball","m":"탁구공","e":"The ping pong ball spun off the table.","a":"w_ping_pong_ball.wmr","s":"speech-1fa60bf71e02a3bb.wav"}
+{"w":"boxing glove","m":"권투 글러브","e":"He laced up each boxing glove.","a":"w_boxing_glove.wmr","s":"speech-6aaff8c35bf45f55.wav"}
+{"w":"stopwatch","m":"스톱워치","e":"Start the stopwatch on my mark.","a":"w_stopwatch.wmr","s":"speech-cec3c7224bbe73a6.wav"}
+{"w":"finish flag","m":"결승 깃발","e":"The finish flag waved the winner in.","a":"w_finish_flag.wmr","s":"speech-005ca8cd60586ea0.wav"}
+{"w":"pliers","m":"펜치","e":"Bend the wire with pliers.","a":"w_pliers.wmr","s":"speech-68f56ba9b3b46023.wav"}
+{"w":"handsaw","m":"톱","e":"Cut the board with a handsaw.","a":"w_handsaw.wmr","s":"speech-09ebf67f58a1c94d.wav"}
+{"w":"electric drill","m":"전동 드릴","e":"The electric drill whirred loudly.","a":"w_electric_drill.wmr","s":"speech-0204df2e7fbbb89e.wav"}
+{"w":"screw","m":"나사","e":"One screw was still loose.","a":"w_screw.wmr","s":"speech-df2b7e245fea79d4.wav"}
+{"w":"nail","m":"못","e":"The nail stuck out of the wall.","a":"w_nail.wmr","s":"speech-0ac41a0ec75bfa52.wav"}
+{"w":"tape measure","m":"줄자","e":"Stretch the tape measure across.","a":"w_tape_measure.wmr","s":"speech-ad40adae4dec3105.wav"}
+{"w":"paint bucket","m":"페인트통","e":"Stir the paint bucket well.","a":"w_paint_bucket.wmr","s":"speech-4bd4b7d677711bfb.wav"}
+{"w":"ladder","m":"사다리","e":"Climb the ladder one rung at a time.","a":"w_ladder.wmr","s":"speech-5605a516a7ebf33b.wav"}
+{"w":"work gloves","m":"작업 장갑","e":"Wear work gloves for the splinters.","a":"w_work_gloves.wmr","s":"speech-62d91a58fb91bf95.wav"}
+{"w":"nut and bolt","m":"너트와 볼트","e":"Fasten the nut and bolt together.","a":"w_nut_and_bolt.wmr","s":"speech-143950781fc39722.wav"}
+{"w":"clamp","m":"클램프","e":"The clamp held the joint tight.","a":"w_clamp.wmr","s":"speech-d5fde054c7708969.wav"}
+{"w":"level tool","m":"수평계","e":"Check the shelf with a level tool.","a":"w_level_tool.wmr","s":"speech-5c0e09a52fde7b96.wav"}
+{"w":"sandpaper","m":"사포","e":"Smooth the wood with sandpaper.","a":"w_sandpaper.wmr","s":"speech-6f26a9e4e738632d.wav"}
+{"w":"paint scraper","m":"헤라","e":"Scrape old paint with the paint scraper.","a":"w_paint_scraper.wmr","s":"speech-a5a6e2ee9c480caa.wav"}
+{"w":"safety goggles","m":"보안경","e":"Put on safety goggles first.","a":"w_safety_goggles.wmr","s":"speech-a399a8cdec36a12c.wav"}
+{"w":"hard hat","m":"안전모","e":"A hard hat is required on site.","a":"w_hard_hat.wmr","s":"speech-8fc48fe255209d0b.wav"}
+{"w":"measuring cup","m":"계량컵","e":"Pour milk to the one-cup line of the measuring cup.","a":"w_measuring_cup.wmr","s":"speech-64b93894a12b3d21.wav"}
+{"w":"measuring spoon","m":"계량스푼","e":"Level the measuring spoon exactly.","a":"w_measuring_spoon.wmr","s":"speech-f230656bfcc8eacd.wav"}
+{"w":"coffee maker","m":"커피메이커","e":"The coffee maker gurgled at dawn.","a":"w_coffee_maker.wmr","s":"speech-10c572c0e7798376.wav"}
+{"w":"strainer","m":"체","e":"Shake the strainer over the sink.","a":"w_strainer.wmr","s":"speech-97fa80cc5d3cf74c.wav"}
+{"w":"pancakes","m":"팬케이크","e":"Flip the pancakes when they bubble.","a":"w_pancakes.wmr","s":"speech-d0403be2999c4899.wav"}
+{"w":"waffle","m":"와플","e":"Syrup pooled in each waffle square.","a":"w_waffle.wmr","s":"speech-5fab5f43d0b2f975.wav"}
+{"w":"muffin","m":"머핀","e":"Blueberries hide in the muffin.","a":"w_muffin.wmr","s":"speech-baff4fb62c8b1c5a.wav"}
+{"w":"bagel","m":"베이글","e":"Toast the bagel until golden.","a":"w_bagel.wmr","s":"speech-576852ec76f385e1.wav"}
+{"w":"cereal bowl","m":"시리얼 그릇","e":"The cereal bowl clinked with milk.","a":"w_cereal_bowl.wmr","s":"speech-1ec78cf7fe754257.wav"}
+{"w":"yogurt cup","m":"요거트 컵","e":"Peel the foil off the yogurt cup.","a":"w_yogurt_cup.wmr","s":"speech-bfc7483eebc23e96.wav"}
+{"w":"ice pop","m":"아이스바","e":"The ice pop dyed our tongues red.","a":"w_ice_pop.wmr","s":"speech-0fb97bad11ba2ecf.wav"}
+{"w":"dumpling","m":"만두","e":"Each dumpling holds hot soup.","a":"w_dumpling.wmr","s":"speech-32e382dfb93f0f3f.wav"}
+{"w":"noodle bowl","m":"국수 그릇","e":"Slurp the noodle bowl loudly.","a":"w_noodle_bowl.wmr","s":"speech-b92b3a2240ba1df4.wav"}
+{"w":"rice bowl","m":"밥그릇","e":"Lift the rice bowl close.","a":"w_rice_bowl.wmr","s":"speech-c9bed99737bfd45a.wav"}
+{"w":"lettuce","m":"상추","e":"Tear the lettuce for the salad.","a":"w_lettuce.wmr","s":"speech-48695422fbc25ad0.wav"}
+{"w":"cabbage","m":"양배추","e":"The cabbage head weighed a lot.","a":"w_cabbage.wmr","s":"speech-0a7a27bedd1f822a.wav"}
+{"w":"peas pod","m":"완두콩 꼬투리","e":"Pop the peas from the pod.","a":"w_peas_pod.wmr","s":"speech-e0c582c3b83ce484.wav"}
+{"w":"garlic bulb","m":"마늘","e":"Crush one clove from the garlic bulb.","a":"w_garlic_bulb.wmr","s":"speech-3ac16849b0bb2918.wav"}
+{"w":"ginger root","m":"생강","e":"Grate the ginger root finely.","a":"w_ginger_root.wmr","s":"speech-ed2ffd52907a0bc4.wav"}
+{"w":"chili pepper","m":"고추","e":"The chili pepper burns, drink milk.","a":"w_chili_pepper.wmr","s":"speech-4a7ce928c59008dd.wav"}
+{"w":"bell pepper","m":"파프리카","e":"A bell pepper can be yellow.","a":"w_bell_pepper.wmr","s":"speech-9a3a19edb1089e4b.wav"}
+{"w":"asparagus","m":"아스파라거스","e":"Snap the asparagus at the woody end.","a":"w_asparagus.wmr","s":"speech-04c99b776c455409.wav"}
+{"w":"cauliflower","m":"콜리플라워","e":"The cauliflower looks like a tree.","a":"w_cauliflower.wmr","s":"speech-bf35a2d3261f8ec8.wav"}
+{"w":"sweet potato","m":"고구마","e":"Roast the sweet potato until soft.","a":"w_sweet_potato.wmr","s":"speech-11a3360656adc278.wav"}
+{"w":"curtain","m":"커튼","e":"Draw the curtain at sunset.","a":"w_curtain.wmr","s":"speech-05e884950dccb9aa.wav"}
+{"w":"carpet","m":"카펫","e":"The carpet muffles every footstep.","a":"w_carpet.wmr","s":"speech-8c59ba38922292b9.wav"}
+{"w":"doormat","m":"현관 매트","e":"Wipe your shoes on the doormat.","a":"w_doormat.wmr","s":"speech-fac5eb8942a11d8a.wav"}
+{"w":"cushion","m":"쿠션","e":"Sink back into the soft cushion.","a":"w_cushion.wmr","s":"speech-d0eae8d194776727.wav"}
+{"w":"wardrobe","m":"옷장","e":"The wardrobe door squeaked open.","a":"w_wardrobe.wmr","s":"speech-7d4b47cf84bb52b6.wav"}
+{"w":"nightstand","m":"침대 협탁","e":"A lamp sits on the nightstand.","a":"w_nightstand.wmr","s":"speech-4d02447b18e46565.wav"}
+{"w":"ceiling light","m":"천장등","e":"The ceiling light flickered twice.","a":"w_ceiling_light.wmr","s":"speech-b31f98e0413206a8.wav"}
+{"w":"light switch","m":"전등 스위치","e":"Feel for the light switch in the dark.","a":"w_light_switch.wmr","s":"speech-88033d8cb65db757.wav"}
+{"w":"wall shelf","m":"벽 선반","e":"Trophy rows fill the wall shelf.","a":"w_wall_shelf.wmr","s":"speech-78a264d1096e3a9f.wav"}
+{"w":"doorbell","m":"초인종","e":"The doorbell rang twice.","a":"w_doorbell.wmr","s":"speech-7fa3c632a2b01565.wav"}
+{"w":"keychain","m":"열쇠고리","e":"Her keychain jingles with charms.","a":"w_keychain.wmr","s":"speech-350ced6e5159ece6.wav"}
+{"w":"tissue box","m":"휴지 상자","e":"Grab one from the tissue box.","a":"w_tissue_box.wmr","s":"speech-310b8c2b6b61fab4.wav"}
+{"w":"plunger","m":"뚫어뻥","e":"The plunger fixed the clog.","a":"w_plunger.wmr","s":"speech-5a2b2a3db377249e.wav"}
+{"w":"bath mat","m":"욕실 매트","e":"Step onto the bath mat, not the floor.","a":"w_bath_mat.wmr","s":"speech-58371efbdb139e26.wav"}
+{"w":"hair dryer","m":"헤어드라이어","e":"The hair dryer roared hot air.","a":"w_hair_dryer.wmr","s":"speech-042107b15c1a68db.wav"}
+{"w":"lotion bottle","m":"로션 병","e":"Pump twice from the lotion bottle.","a":"w_lotion_bottle.wmr","s":"speech-7403c2103d3067dd.wav"}
+{"w":"hand sanitizer","m":"손 소독제","e":"Squirt hand sanitizer after the subway.","a":"w_hand_sanitizer.wmr","s":"speech-5182a3fdc9d558bc.wav"}
+{"w":"laundry detergent","m":"세탁 세제","e":"Measure the laundry detergent carefully.","a":"w_laundry_detergent.wmr","s":"speech-1d8beafe9e119170.wav"}
+{"w":"spray bottle","m":"분무기","e":"Mist the leaves with the spray bottle.","a":"w_spray_bottle.wmr","s":"speech-dbc88e61455a7fbc.wav"}
+{"w":"sponge","m":"스펀지","e":"The sponge soaked up the spill.","a":"w_sponge.wmr","s":"speech-46248ac689828800.wav"}
+{"w":"dish soap","m":"주방 세제","e":"One drop of dish soap makes bubbles.","a":"w_dish_soap.wmr","s":"speech-8bca781f2934c5f1.wav"}
+{"w":"dish rack","m":"식기 건조대","e":"Stack plates in the dish rack.","a":"w_dish_rack.wmr","s":"speech-471727e39144ae4f.wav"}
+{"w":"oven mitt","m":"오븐 장갑","e":"Grab the pan with an oven mitt.","a":"w_oven_mitt.wmr","s":"speech-bbc22a483681be0b.wav"}
+{"w":"cheese grater","m":"강판","e":"Shred cheddar on the cheese grater.","a":"w_cheese_grater.wmr","s":"speech-6522444afe8241cb.wav"}
+{"w":"vegetable peeler","m":"채소 필러","e":"Strip the carrot with the vegetable peeler.","a":"w_vegetable_peeler.wmr","s":"speech-86b5007d36345df0.wav"}
+{"w":"can opener","m":"캔 따개","e":"Turn the can opener handle slowly.","a":"w_can_opener.wmr","s":"speech-859a2d76295687bb.wav"}
+{"w":"ice cube tray","m":"얼음 틀","e":"Fill the ice cube tray to the top.","a":"w_ice_cube_tray.wmr","s":"speech-fa92f534b61603fa.wav"}
+{"w":"food container","m":"밀폐 용기","e":"Pack leftovers in a food container.","a":"w_food_container.wmr","s":"speech-f5fca3e0e0437952.wav"}
+{"w":"thermos","m":"보온병","e":"Soup stays hot in the thermos.","a":"w_thermos.wmr","s":"speech-302949d0b84aa251.wav"}
+{"w":"lunch bag","m":"도시락 가방","e":"The lunch bag zips shut.","a":"w_lunch_bag.wmr","s":"speech-6e5c63e653feb8e8.wav"}
+{"w":"binder","m":"바인더","e":"Slide the page into the binder.","a":"w_binder.wmr","s":"speech-b5e5dd909a2330cd.wav"}
+{"w":"binder clip","m":"집게 클립","e":"Clamp the papers with a binder clip.","a":"w_binder_clip.wmr","s":"speech-355afb1efae83b48.wav"}
+{"w":"push pin","m":"압정","e":"Pin the notice with a push pin.","a":"w_push_pin.wmr","s":"speech-326c0f34f33e254c.wav"}
+{"w":"sticky notes","m":"포스트잇","e":"Mark the page with sticky notes.","a":"w_sticky_notes.wmr","s":"speech-f589df102535dd5d.wav"}
+{"w":"index cards","m":"색인 카드","e":"Quiz me with the index cards.","a":"w_index_cards.wmr","s":"speech-d022c9bbef942b69.wav"}
+{"w":"rubber band","m":"고무줄","e":"Snap a rubber band around the roll.","a":"w_rubber_band.wmr","s":"speech-ffade49a941ec0a4.wav"}
+{"w":"hole punch","m":"펀치","e":"The hole punch clicked twice.","a":"w_hole_punch.wmr","s":"speech-b35b769b99e96f3c.wav"}
+{"w":"file box","m":"파일 상자","e":"Old receipts fill the file box.","a":"w_file_box.wmr","s":"speech-85c0172c574645dd.wav"}
+{"w":"bookend","m":"책 받침","e":"One bookend keeps the row upright.","a":"w_bookend.wmr","s":"speech-e019e5578237833d.wav"}
+{"w":"easel","m":"이젤","e":"Set the canvas on the easel.","a":"w_easel.wmr","s":"speech-8ab3535295586094.wav"}
+{"w":"canvas","m":"캔버스","e":"Prime the canvas before painting.","a":"w_canvas.wmr","s":"speech-a457e8f04aa796dc.wav"}
+{"w":"modeling clay","m":"점토","e":"Shape a snail from modeling clay.","a":"w_modeling_clay.wmr","s":"speech-aa3db225f57bb48a.wav"}
+{"w":"glue gun","m":"글루건","e":"The glue gun heats in a minute.","a":"w_glue_gun.wmr","s":"speech-170d542e27e967f3.wav"}
+{"w":"pom-pom","m":"폼폼","e":"A fuzzy pom-pom tops the hat.","a":"w_pom-pom.wmr","s":"speech-a48f4c785500e24a.wav"}
+{"w":"bead","m":"구슬 비즈","e":"String one bead at a time.","a":"w_bead.wmr","s":"speech-bb51e12c48fbcdef.wav"}
+{"w":"ribbon roll","m":"리본 롤","e":"Unspool the ribbon roll and cut.","a":"w_ribbon_roll.wmr","s":"speech-66fc00a603f68434.wav"}
+{"w":"sticker sheet","m":"스티커 판","e":"She shared her sticker sheet.","a":"w_sticker_sheet.wmr","s":"speech-33c7854f83ea3341.wav"}
+{"w":"doll","m":"인형","e":"The doll sleeps in a tiny bed.","a":"w_doll.wmr","s":"speech-44c3e574dac5455e.wav"}
+{"w":"action figure","m":"액션 피규어","e":"The action figure poses on the shelf.","a":"w_action_figure.wmr","s":"speech-fba774ca9241206c.wav"}
+{"w":"dollhouse","m":"인형의 집","e":"The dollhouse has six rooms.","a":"w_dollhouse.wmr","s":"speech-b7c0225773459e24.wav"}
+{"w":"board game","m":"보드게임","e":"Set up the board game for four.","a":"w_board_game.wmr","s":"speech-3c1d39cd6c8133f7.wav"}
+{"w":"playing card","m":"놀이 카드","e":"Flip one playing card at a time.","a":"w_playing_card.wmr","s":"speech-0575c6b61df85af3.wav"}
+{"w":"dice","m":"주사위","e":"Roll the dice for your turn.","a":"w_dice.wmr","s":"speech-e1e025805cd63af3.wav"}
+{"w":"jigsaw puzzle","m":"직소 퍼즐","e":"The jigsaw puzzle has a thousand pieces.","a":"w_jigsaw_puzzle.wmr","s":"speech-752991131fb5a439.wav"}
+{"w":"toy boat","m":"장난감 배","e":"The toy boat sailed the bathtub.","a":"w_toy_boat.wmr","s":"speech-96088871da106f2d.wav"}
+{"w":"block tower","m":"블록 탑","e":"The block tower swayed and fell.","a":"w_block_tower.wmr","s":"speech-3305c645c436a351.wav"}
+{"w":"bubble wand","m":"비눗방울 막대","e":"Wave the bubble wand slowly.","a":"w_bubble_wand.wmr","s":"speech-50dec245a4714aae.wav"}
+{"w":"caterpillar","m":"애벌레","e":"A caterpillar munched the leaf edge.","a":"w_caterpillar.wmr","s":"speech-baffdf37aa5d3961.wav"}
+{"w":"butterfly net","m":"나비채","e":"Sweep the butterfly net gently.","a":"w_butterfly_net.wmr","s":"speech-2ede24cf827699bc.wav"}
+{"w":"bug jar","m":"곤충 관찰통","e":"Air holes dot the bug jar lid.","a":"w_bug_jar.wmr","s":"speech-c7eea32e3b686003.wav"}
+{"w":"shark","m":"상어","e":"The shark fin cut the surface.","a":"w_shark.wmr","s":"speech-31fc15942b0c47f6.wav"}
+{"w":"lobster","m":"바닷가재","e":"The lobster waved its big claw.","a":"w_lobster.wmr","s":"speech-a2e1c40da1ae335d.wav"}
+{"w":"jellyfish","m":"해파리","e":"A jellyfish drifted past our feet.","a":"w_jellyfish.wmr","s":"speech-a0ea5328f032f155.wav"}
+{"w":"seahorse","m":"해마","e":"The seahorse grips sea grass.","a":"w_seahorse.wmr","s":"speech-8e5f948e5c8158fe.wav"}
+{"w":"clam","m":"조개","e":"The clam snapped its shell shut.","a":"w_clam.wmr","s":"speech-09f20eb14937cacb.wav"}
+{"w":"coral","m":"산호","e":"Bright coral shelters small fish.","a":"w_coral.wmr","s":"speech-f39fd9073457c8ee.wav"}
+{"w":"hand","m":"손","e":"Raise your hand to speak.","a":"w_hand.wmr","s":"speech-1b001706a418bdfc.wav"}
+{"w":"foot","m":"발","e":"My foot fell asleep sitting cross-legged.","a":"w_foot.wmr","s":"speech-22e4f6912a6980d6.wav"}
+{"w":"eye","m":"눈","e":"Cover one eye and read the chart.","a":"w_eye.wmr","s":"speech-47c215b5f70eb9c9.wav"}
+{"w":"ear","m":"귀","e":"Music goes in one ear, stays.","a":"w_ear.wmr","s":"speech-3c6a36b640fceaa8.wav"}
+{"w":"nose","m":"코","e":"The nose knows fresh cookies.","a":"w_nose.wmr","s":"speech-d77e22123e64d3d8.wav"}
+{"w":"mouth","m":"입","e":"Open your mouth and say ah.","a":"w_mouth.wmr","s":"speech-4cf35cf87435b1ba.wav"}
+{"w":"tooth","m":"이","e":"One tooth wiggled loose.","a":"w_tooth.wmr","s":"speech-9722d4a4b59ce537.wav"}
+{"w":"tongue","m":"혀","e":"The tongue tastes the sour lemon.","a":"w_tongue.wmr","s":"speech-b2715212d939ec80.wav"}
+{"w":"hair lock","m":"머리카락","e":"A hair lock fell over her eyes.","a":"w_hair_lock.wmr","s":"speech-ffa73347bba3e7e1.wav"}
+{"w":"brain","m":"뇌","e":"Sleep helps your brain grow.","a":"w_brain.wmr","s":"speech-bbbf7a6412d6d3e8.wav"}
+{"w":"birdhouse","m":"새집","e":"A wren moved into the birdhouse.","a":"w_birdhouse.wmr","s":"speech-0805b33cdb35ee3c.wav"}
+{"w":"scarecrow","m":"허수아비","e":"The scarecrow guards the seeds.","a":"w_scarecrow.wmr","s":"speech-b68971382f62ef6e.wav"}
+{"w":"hay bale","m":"건초 더미","e":"We sat on one hay bale.","a":"w_hay_bale.wmr","s":"speech-4860d48bf9754544.wav"}
+{"w":"windmill","m":"풍차","e":"The windmill creaks in the gusts.","a":"w_windmill.wmr","s":"speech-884a339b96f4273d.wav"}
+{"w":"greenhouse","m":"온실","e":"Tomatoes ripen early in the greenhouse.","a":"w_greenhouse.wmr","s":"speech-f300f10844ecfc75.wav"}
+{"w":"seed packet","m":"씨앗 봉지","e":"Read the seed packet for depth.","a":"w_seed_packet.wmr","s":"speech-3ff083860c317700.wav"}
+{"w":"plant label","m":"식물 이름표","e":"Write the date on the plant label.","a":"w_plant_label.wmr","s":"speech-2a69b578c224f698.wav"}
+{"w":"bird feeder","m":"새 모이통","e":"Sparrows mob the bird feeder.","a":"w_bird_feeder.wmr","s":"speech-5c0d0cd426a88503.wav"}
+{"w":"compost bin","m":"퇴비통","e":"Toss apple cores in the compost bin.","a":"w_compost_bin.wmr","s":"speech-17340a3f81aeab85.wav"}
+{"w":"rain barrel","m":"빗물통","e":"The rain barrel caught the storm.","a":"w_rain_barrel.wmr","s":"speech-31b32f153b9635e7.wav"}
+{"w":"pacifier","m":"쪽쪽이","e":"The baby dropped the pacifier again.","a":"w_pacifier.wmr","s":"speech-a5b33b382b6cffa0.wav"}
+{"w":"baby bottle","m":"젖병","e":"Warm the baby bottle in water.","a":"w_baby_bottle.wmr","s":"speech-38776ece997bbb26.wav"}
+{"w":"bib","m":"턱받이","e":"The bib caught the spilled cereal.","a":"w_bib.wmr","s":"speech-9b0dacf2915a82e2.wav"}
+{"w":"rattle","m":"딸랑이","e":"The rattle stopped the crying.","a":"w_rattle.wmr","s":"speech-309f3cbb24224271.wav"}
+{"w":"stroller","m":"유모차","e":"The stroller folded with one hand.","a":"w_stroller.wmr","s":"speech-c0f04252292dc183.wav"}
+{"w":"crib","m":"아기 침대","e":"The baby sleeps in the crib.","a":"w_crib.wmr","s":"speech-c84f34174657143b.wav"}
+{"w":"high chair","m":"아기 식탁 의자","e":"Strap her into the high chair.","a":"w_high_chair.wmr","s":"speech-52aba7af5ecf0ddd.wav"}
+{"w":"diaper","m":"기저귀","e":"The diaper bag is packed.","a":"w_diaper.wmr","s":"speech-c8cf49ca3d8f0a88.wav"}
+{"w":"stacking rings","m":"고리 쌓기 장난감","e":"Stacking rings teach sizes.","a":"w_stacking_rings.wmr","s":"speech-3160112e0a2f91ed.wav"}
+{"w":"teether","m":"치발기","e":"Chill the teether in the fridge.","a":"w_teether.wmr","s":"speech-0bf41a048b692d94.wav"}
+{"w":"pet bowl","m":"반려동물 밥그릇","e":"Refill the pet bowl with water.","a":"w_pet_bowl.wmr","s":"speech-4169653f63293822.wav"}
+{"w":"dog bone","m":"강아지 뼈 장난감","e":"Nyla hid a dog bone in the yard.","a":"w_dog_bone.wmr","s":"speech-afc3b73668d923eb.wav"}
+{"w":"leash","m":"목줄","e":"Clip the leash before the walk.","a":"w_leash.wmr","s":"speech-3e2b351267da13c9.wav"}
+{"w":"pet collar","m":"반려동물 목걸이","e":"A tag jingles on the pet collar.","a":"w_pet_collar.wmr","s":"speech-74e6980589be4362.wav"}
+{"w":"fishbowl","m":"어항","e":"Goldfish circles the fishbowl.","a":"w_fishbowl.wmr","s":"speech-1c4bb463c52d458a.wav"}
+{"w":"birdcage","m":"새장","e":"The parakeet sings in its birdcage.","a":"w_birdcage.wmr","s":"speech-42d8fba2925476fb.wav"}
+{"w":"scratching post","m":"고양이 스크래처","e":"The cat sharpened claws on the scratching post.","a":"w_scratching_post.wmr","s":"speech-e2517b0b1668006c.wav"}
+{"w":"pet carrier","m":"이동장","e":"The cat rides in a pet carrier.","a":"w_pet_carrier.wmr","s":"speech-16854e27c55141eb.wav"}
+{"w":"hamster wheel","m":"햄스터 쳇바퀴","e":"The hamster runs all night on its wheel.","a":"w_hamster_wheel.wmr","s":"speech-a32d1ffdc22db4e9.wav"}
+{"w":"litter scoop","m":"모래 삽","e":"Sift the litter with the scoop.","a":"w_litter_scoop.wmr","s":"speech-a4590a8ce067274d.wav"}
+{"w":"hair clip","m":"머리핀","e":"A hair clip held back her bangs.","a":"w_hair_clip.wmr","s":"speech-1b5fb760f4abdd08.wav"}
+{"w":"hair bow","m":"머리 리본","e":"She tied a big hair bow.","a":"w_hair_bow.wmr","s":"speech-b72d04a9b0fa875f.wav"}
+{"w":"hair tie","m":"머리끈","e":"Wrap the hair tie twice.","a":"w_hair_tie.wmr","s":"speech-9016a53052fa87bb.wav"}
+{"w":"bracelet","m":"팔찌","e":"A friendship bracelet circles her wrist.","a":"w_bracelet.wmr","s":"speech-da7fc2ffdb753178.wav"}
+{"w":"earrings","m":"귀걸이","e":"Tiny stars hang from her earrings.","a":"w_earrings.wmr","s":"speech-39cec370fd1193b6.wav"}
+{"w":"nail clippers","m":"손톱깎이","e":"Trim nails straight across with clippers.","a":"w_nail_clippers.wmr","s":"speech-49265bd6d3ccd96a.wav"}
+{"w":"lip balm","m":"립밤","e":"Lip balm fixes chapped lips.","a":"w_lip_balm.wmr","s":"speech-f61bbd5ed3e0a801.wav"}
+{"w":"sunscreen tube","m":"선크림 튜브","e":"Squeeze the sunscreen tube onto your arm.","a":"w_sunscreen_tube.wmr","s":"speech-3096d2922fdcb243.wav"}
+{"w":"hair roller","m":"헤어롤","e":"Each hair roller clacked open.","a":"w_hair_roller.wmr","s":"speech-c88b5e0426d3ba0d.wav"}
+{"w":"nail polish","m":"매니큐어","e":"The nail polish dried glossy pink.","a":"w_nail_polish.wmr","s":"speech-71b7c1f59ed825ae.wav"}
+{"w":"thimble","m":"골무","e":"A thimble guards the sewing finger.","a":"w_thimble.wmr","s":"speech-da62dfd88d3c7561.wav"}
+{"w":"pin cushion","m":"핀 쿠션","e":"Pins bristle on the pin cushion.","a":"w_pin_cushion.wmr","s":"speech-98d3b76b211c313b.wav"}
+{"w":"crochet hook","m":"코바늘","e":"Loop the yarn with the crochet hook.","a":"w_crochet_hook.wmr","s":"speech-253d3d876d169941.wav"}
+{"w":"knitting needles","m":"뜨개바늘","e":"Two knitting needles click fast.","a":"w_knitting_needles.wmr","s":"speech-9f6d77593002f22b.wav"}
+{"w":"embroidery hoop","m":"자수틀","e":"Stretch the cloth in the embroidery hoop.","a":"w_embroidery_hoop.wmr","s":"speech-c8f47c74513a385f.wav"}
+{"w":"needle threader","m":"실 꿰기 도구","e":"A needle threader saves sore eyes.","a":"w_needle_threader.wmr","s":"speech-a2606e4b49b62f4b.wav"}
+{"w":"felt sheet","m":"펠트지","e":"Cut ears from the felt sheet.","a":"w_felt_sheet.wmr","s":"speech-5f3845b5cde91660.wav"}
+{"w":"craft punch","m":"공예 펀치","e":"The craft punch stamps tiny stars.","a":"w_craft_punch.wmr","s":"speech-d973ee54699896ba.wav"}
+{"w":"sequin","m":"스팽글","e":"One sequin at a time, the dress sparkles.","a":"w_sequin.wmr","s":"speech-d75bdf68161727a2.wav"}
+{"w":"pipe cleaner","m":"모루","e":"Twist a pipe cleaner into glasses.","a":"w_pipe_cleaner.wmr","s":"speech-4ac596a3b7421ac7.wav"}
+{"w":"park bench","m":"공원 벤치","e":"Old friends share a park bench.","a":"w_park_bench.wmr","s":"speech-473c4cd4cc30f6ce.wav"}
+{"w":"picnic table","m":"피크닉 테이블","e":"Lunch is laid on the picnic table.","a":"w_picnic_table.wmr","s":"speech-34067d092d8ceeec.wav"}
+{"w":"hammock","m":"해먹","e":"The hammock sways between two trees.","a":"w_hammock.wmr","s":"speech-7fde4dad022931c8.wav"}
+{"w":"camping chair","m":"캠핑 의자","e":"Fold the camping chair flat.","a":"w_camping_chair.wmr","s":"speech-fb494f0acd734425.wav"}
+{"w":"canteen","m":"수통","e":"Soldiers clip a canteen to the belt.","a":"w_canteen.wmr","s":"speech-1775f06ac13a1198.wav"}
+{"w":"walking stick","m":"지팡이","e":"A walking stick steadies the climb.","a":"w_walking_stick.wmr","s":"speech-34ac59b00a99ba12.wav"}
+{"w":"camp stove","m":"캠핑 버너","e":"Boil water on the camp stove.","a":"w_camp_stove.wmr","s":"speech-863ff7168bb10802.wav"}
+{"w":"firewood bundle","m":"장작 묶음","e":"Carry the firewood bundle inside.","a":"w_firewood_bundle.wmr","s":"speech-9933a6435524c028.wav"}
+{"w":"tent stake","m":"텐트 말뚝","e":"Pound each tent stake at an angle.","a":"w_tent_stake.wmr","s":"speech-d8cea1d52126d399.wav"}
+{"w":"carabiner","m":"카라비너","e":"Clip the keys to a carabiner.","a":"w_carabiner.wmr","s":"speech-892d9e17cc929dd4.wav"}
+{"w":"pinecone","m":"솔방울","e":"A pinecone dropped from the branch.","a":"w_pinecone.wmr","s":"speech-e2fde0483fc8158c.wav"}
+{"w":"twig","m":"잔가지","e":"Snap a twig for the kindling.","a":"w_twig.wmr","s":"speech-3b6b49e8e232ea08.wav"}
+{"w":"crystal","m":"수정","e":"The crystal caught the window light.","a":"w_crystal.wmr","s":"speech-60a0f78b507f6249.wav"}
+{"w":"geode","m":"정동석","e":"Crack the geode to see the crystals.","a":"w_geode.wmr","s":"speech-3e20eb0bd0cae2e4.wav"}
+{"w":"fossil","m":"화석","e":"A fossil shell hid in the rock.","a":"w_fossil.wmr","s":"speech-d735fb5e9f2f61a3.wav"}
+{"w":"icicle","m":"고드름","e":"An icicle hung from the gutter.","a":"w_icicle.wmr","s":"speech-46a7a2571168c004.wav"}
+{"w":"hailstone","m":"우박","e":"A hailstone dented the car hood.","a":"w_hailstone.wmr","s":"speech-24bb85f23c19c54b.wav"}
+{"w":"weather vane","m":"풍향계","e":"The weather vane swung north.","a":"w_weather_vane.wmr","s":"speech-5e50a772661087d8.wav"}
+{"w":"fern","m":"고사리 잎","e":"A fern unrolls each spring frond.","a":"w_fern.wmr","s":"speech-f0a5da17e0ffa3a2.wav"}
+{"w":"aloe plant","m":"알로에","e":"Snap an aloe leaf for the burn.","a":"w_aloe_plant.wmr","s":"speech-a3658de604787563.wav"}
+{"w":"vase","m":"꽃병","e":"Tulips stand in the glass vase.","a":"w_vase.wmr","s":"speech-30e436cb382491bb.wav"}
+{"w":"picture frame","m":"액자","e":"The picture frame hangs slightly crooked.","a":"w_picture_frame.wmr","s":"speech-d08f8c2645016339.wav"}
+{"w":"wall hook","m":"벽걸이 후크","e":"Hang the towel on the wall hook.","a":"w_wall_hook.wmr","s":"speech-cb9136a08e7fba78.wav"}
+{"w":"coat rack","m":"옷걸이대","e":"Coats pile on the coat rack.","a":"w_coat_rack.wmr","s":"speech-3142c3a49f466770.wav"}
+{"w":"storage bin","m":"수납함","e":"Label every storage bin.","a":"w_storage_bin.wmr","s":"speech-69a08ed559a25410.wav"}
+{"w":"drawer knob","m":"서랍 손잡이","e":"The brass drawer knob came loose.","a":"w_drawer_knob.wmr","s":"speech-ab17f82d46f76813.wav"}
+{"w":"door stopper","m":"문 고정대","e":"A door stopper blocks the slam.","a":"w_door_stopper.wmr","s":"speech-e4e5180419bee45b.wav"}
+{"w":"curtain rod","m":"커튼봉","e":"Slide rings along the curtain rod.","a":"w_curtain_rod.wmr","s":"speech-cb91f0f058caaf77.wav"}
+{"w":"window blinds","m":"블라인드","e":"Tilt the window blinds down.","a":"w_window_blinds.wmr","s":"speech-4edcc385c4d5b602.wav"}
+{"w":"tablecloth","m":"식탁보","e":"The tablecloth is checkered red.","a":"w_tablecloth.wmr","s":"speech-8f9f33c33ed09448.wav"}
+{"w":"party hat","m":"파티 모자","e":"Each guest wore a party hat.","a":"w_party_hat.wmr","s":"speech-686b529c70a29dd5.wav"}
+{"w":"party horn","m":"파티 나팔","e":"Blow the party horn at midnight.","a":"w_party_horn.wmr","s":"speech-ba32cf71864d6d23.wav"}
+{"w":"confetti popper","m":"축포","e":"The confetti popper burst gold.","a":"w_confetti_popper.wmr","s":"speech-2ea8e5280caf3d79.wav"}
+{"w":"party streamer","m":"파티 장식줄","e":"Twist each party streamer up.","a":"w_party_streamer.wmr","s":"speech-cde5f17dc5566091.wav"}
+{"w":"pinata","m":"피냐타","e":"Swing at the pinata blindfolded.","a":"w_pinata.wmr","s":"speech-9b4248a4ed54675a.wav"}
+{"w":"magic wand","m":"마술 지팡이","e":"Wave the magic wand twice.","a":"w_magic_wand.wmr","s":"speech-82e6b5c7d52dadb7.wav"}
+{"w":"wizard hat","m":"마법사 모자","e":"Stars cover the wizard hat.","a":"w_wizard_hat.wmr","s":"speech-6eb4509cb9c565c8.wav"}
+{"w":"superhero cape","m":"영웅 망토","e":"A towel makes a superhero cape.","a":"w_superhero_cape.wmr","s":"speech-6b2c4dbb935d22f7.wav"}
+{"w":"costume mask","m":"가면","e":"The costume mask hides half the face.","a":"w_costume_mask.wmr","s":"speech-8eb6371dc997e7c4.wav"}
+{"w":"toy shield","m":"장난감 방패","e":"Block with the toy shield, then strike.","a":"w_toy_shield.wmr","s":"speech-56aea5fcb82dc559.wav"}
+{"w":"beanie","m":"비니","e":"Pull the beanie over your ears.","a":"w_beanie.wmr","s":"speech-3b6e7f348f4e23fa.wav"}
+{"w":"ear muffs","m":"귀마개","e":"Ear muffs beat the winter wind.","a":"w_ear_muffs.wmr","s":"speech-5e60d527bc03ba94.wav"}
+{"w":"rain poncho","m":"우비 판초","e":"The rain poncho packs into a pouch.","a":"w_rain_poncho.wmr","s":"speech-ed181ea73b024789.wav"}
+{"w":"pajamas","m":"잠옷","e":"Flannel pajamas for cold nights.","a":"w_pajamas.wmr","s":"speech-b1c24cc083ed75e7.wav"}
+{"w":"overalls","m":"멜빵바지","e":"Paint stains dot the overalls.","a":"w_overalls.wmr","s":"speech-6c6f000251d12307.wav"}
+{"w":"vest","m":"조끼","e":"A puffer vest keeps the core warm.","a":"w_vest.wmr","s":"speech-72dd029baa651351.wav"}
+{"w":"ballet shoe","m":"발레 슈즈","e":"Ribbons cross each ballet shoe.","a":"w_ballet_shoe.wmr","s":"speech-d39f5b68d5db5123.wav"}
+{"w":"hoodie","m":"후드티","e":"The hoodie pocket holds my phone.","a":"w_hoodie.wmr","s":"speech-a5ba5c1c84889214.wav"}
+{"w":"knee pad","m":"무릎 보호대","e":"Strap on a knee pad for volleyball.","a":"w_knee_pad.wmr","s":"speech-4c7adca1e9c50a49.wav"}
+{"w":"sleep mask","m":"수면 안대","e":"A sleep mask blocks the dawn.","a":"w_sleep_mask.wmr","s":"speech-c027b81bef32fc58.wav"}
+{"w":"wheelchair","m":"휠체어","e":"The ramp helps the wheelchair pass.","a":"w_wheelchair.wmr","s":"speech-ce5793ab2acfeb62.wav"}
+{"w":"crutches","m":"목발","e":"He navigated stairs on crutches.","a":"w_crutches.wmr","s":"speech-05eabc2864403372.wav"}
+{"w":"fire hydrant","m":"소화전","e":"The dog leashed to the fire hydrant.","a":"w_fire_hydrant.wmr","s":"speech-9336fd23f8eb07dd.wav"}
+{"w":"streetlamp","m":"가로등","e":"Moths circle the streetlamp.","a":"w_streetlamp.wmr","s":"speech-246fce730d7787b8.wav"}
+{"w":"fountain","m":"분수","e":"Coins glint in the fountain.","a":"w_fountain.wmr","s":"speech-f0be1f3062319157.wav"}
+{"w":"bird bath","m":"새 물그릇","e":"Sparrows splash in the bird bath.","a":"w_bird_bath.wmr","s":"speech-ddb0b2a6a1f1c86d.wav"}
+{"w":"garden statue","m":"정원 조각상","e":"A stone rabbit guards the garden statue spot.","a":"w_garden_statue.wmr","s":"speech-545a55cb13742fd8.wav"}
+{"w":"sundial","m":"해시계","e":"The sundial reads noon.","a":"w_sundial.wmr","s":"speech-4ea402528e0fa6dc.wav"}
+{"w":"wind chime","m":"풍경","e":"The wind chime tinkles softly.","a":"w_wind_chime.wmr","s":"speech-966beafb73344205.wav"}
+{"w":"door knocker","m":"문 두드리개","e":"The brass door knocker boomed.","a":"w_door_knocker.wmr","s":"speech-0b5fdecbf43ff96a.wav"}
+{"w":"clipboard clip","m":"클립보드 클립","e":"The clipboard clip held the sheet firm.","a":"w_clipboard_clip.wmr","s":"speech-9fb749ba2bfa729f.wav"}
+{"w":"desk lamp","m":"책상 스탠드","e":"Angle the desk lamp over the book.","a":"w_desk_lamp.wmr","s":"speech-295a2500ad66eff2.wav"}
+{"w":"pencil grip","m":"연필 그립","e":"A soft pencil grip trains fingers.","a":"w_pencil_grip.wmr","s":"speech-c3cf0106bbca3f5d.wav"}
+{"w":"name tag","m":"이름표","e":"Wear your name tag at the event.","a":"w_name_tag.wmr","s":"speech-5e50805f8b3a8345.wav"}
+{"w":"book label","m":"책 라벨","e":"Write your name on the book label.","a":"w_book_label.wmr","s":"speech-6a57ac6531dbb912.wav"}
+{"w":"library card","m":"도서관 카드","e":"Scan the library card first.","a":"w_library_card.wmr","s":"speech-13bf29de54b60823.wav"}
+{"w":"bookmark","m":"책갈피","e":"A train ticket works as a bookmark.","a":"w_bookmark.wmr","s":"speech-ffe7fcd2c9a99b22.wav"}
+{"w":"desk organizer","m":"책상 정리함","e":"Pens stand in the desk organizer.","a":"w_desk_organizer.wmr","s":"speech-3161ca045b77fb1c.wav"}
+{"w":"inbox tray","m":"서류 받침","e":"New mail goes in the inbox tray.","a":"w_inbox_tray.wmr","s":"speech-5a498963d35753ed.wav"}
+{"w":"pencil extender","m":"연필 연장대","e":"A pencil extender saves stubs.","a":"w_pencil_extender.wmr","s":"speech-4c92f19adba49de6.wav"}
+{"w":"chalkboard eraser","m":"칠판지우개","e":"Clap the chalkboard eraser outside.","a":"w_chalkboard_eraser.wmr","s":"speech-c533da61fed945be.wav"}
+{"w":"whiteboard eraser","m":"화이트보드 지우개","e":"The whiteboard eraser left no dust.","a":"w_whiteboard_eraser.wmr","s":"speech-d95adfc67ea5cd0c.wav"}
+{"w":"dry erase marker","m":"보드마카","e":"Cap the dry erase marker tight.","a":"w_dry_erase_marker.wmr","s":"speech-a1b543f9a8caa10f.wav"}
+{"w":"correction tape","m":"수정테이프","e":"Swipe the correction tape across it.","a":"w_correction_tape.wmr","s":"speech-a9fdf4a43826f1a0.wav"}
+{"w":"pencil leads","m":"샤프심","e":"Refill the pencil leads, 0.5 size.","a":"w_pencil_leads.wmr","s":"speech-8450b83b9c5856c5.wav"}
+{"w":"mechanical pencil","m":"샤프펜슬","e":"Click the mechanical pencil twice.","a":"w_mechanical_pencil.wmr","s":"speech-c2bc425cbaa74f95.wav"}
+{"w":"fountain pen","m":"만년필","e":"The fountain pen glides smoothly.","a":"w_fountain_pen.wmr","s":"speech-204998553e1d07db.wav"}
+{"w":"ink bottle","m":"잉크병","e":"Dip the nib into the ink bottle.","a":"w_ink_bottle.wmr","s":"speech-5d2e8ce667bc41bb.wav"}
+{"w":"wax seal","m":"밀랍 도장","e":"Press a wax seal on the letter.","a":"w_wax_seal.wmr","s":"speech-104be7f0c7b24efd.wav"}
+{"w":"letter opener","m":"편지칼","e":"Slide the letter opener under the flap.","a":"w_letter_opener.wmr","s":"speech-8ae1bde77560f6c6.wav"}
+{"w":"coin purse","m":"동전지갑","e":"Coins clink in the coin purse.","a":"w_coin_purse.wmr","s":"speech-559c728c39624467.wav"}
+{"w":"money clip","m":"지폐 클립","e":"A money clip holds flat bills.","a":"w_money_clip.wmr","s":"speech-4ecb7aa70a97dc44.wav"}
+{"w":"receipt roll","m":"영수증 롤","e":"The printer spits a receipt roll.","a":"w_receipt_roll.wmr","s":"speech-e248b610b59c2e46.wav"}
+{"w":"price tag","m":"가격표","e":"Check the price tag first.","a":"w_price_tag.wmr","s":"speech-44412d97e500d3ac.wav"}
+{"w":"coupon","m":"쿠폰","e":"Clip the coupon for cereal.","a":"w_coupon.wmr","s":"speech-72309c04a6254384.wav"}
+{"w":"ticket stub","m":"표 조각","e":"Keep the ticket stub as a memory.","a":"w_ticket_stub.wmr","s":"speech-d3222ea26d321396.wav"}
+{"w":"token","m":"토큰","e":"Insert a token at the turnstile.","a":"w_token.wmr","s":"speech-3c469e9d6c5875d3.wav"}
+{"w":"receipt","m":"영수증","e":"Keep the receipt for returns.","a":"w_receipt.wmr","s":"speech-6f32860910ca0fb2.wav"}
+{"w":"cash drawer","m":"금전함","e":"The cash drawer shot open.","a":"w_cash_drawer.wmr","s":"speech-e9a12e9b44d577dd.wav"}
+{"w":"barcode scanner","m":"바코드 스캐너","e":"The barcode scanner beeped red.","a":"w_barcode_scanner.wmr","s":"speech-7660a9104702f27b.wav"}
+{"w":"soap dispenser","m":"비누 디스펜서","e":"Pump the soap dispenser twice.","a":"w_soap_dispenser.wmr","s":"speech-e9702946bae212d2.wav"}
+{"w":"toothbrush holder","m":"칫솔꽂이","e":"Four slots fill the toothbrush holder.","a":"w_toothbrush_holder.wmr","s":"speech-9e72c2209e772fe5.wav"}
+{"w":"bathrobe","m":"목욕가운","e":"He padded out in a bathrobe.","a":"w_bathrobe.wmr","s":"speech-6eb046bd858bc63d.wav"}
+{"w":"shower head","m":"샤워기 헤드","e":"The shower head drizzled weakly.","a":"w_shower_head.wmr","s":"speech-dc0110e12ccde813.wav"}
+{"w":"shower curtain ring","m":"샤워커튼 고리","e":"One shower curtain ring squeaked.","a":"w_shower_curtain_ring.wmr","s":"speech-44e8ed62e6f442a1.wav"}
+{"w":"bath sponge","m":"목욕 스펀지","e":"Squeeze the bath sponge dry.","a":"w_bath_sponge.wmr","s":"speech-47301241e1fbf613.wav"}
+{"w":"loofah","m":"샤워볼","e":"Hang the loofah to dry.","a":"w_loofah.wmr","s":"speech-65b9f7659b959509.wav"}
+{"w":"cotton swab","m":"면봉","e":"A cotton swab dabs the polish.","a":"w_cotton_swab.wmr","s":"speech-59ba6f105533b159.wav"}
+{"w":"cotton ball","m":"솜뭉치","e":"Press a cotton ball on the spot.","a":"w_cotton_ball.wmr","s":"speech-7e43622b8dcde913.wav"}
+{"w":"medicine dropper","m":"스포이드","e":"The medicine dropper measured exactly.","a":"w_medicine_dropper.wmr","s":"speech-314893a3762d1ed4.wav"}
+{"w":"heating pad","m":"찜질팩","e":"The heating pad soothed her back.","a":"w_heating_pad.wmr","s":"speech-58c0be3a01c1b421.wav"}
+{"w":"ice pack","m":"얼음팩","e":"Wrap the ice pack in cloth.","a":"w_ice_pack.wmr","s":"speech-964499fee301d99f.wav"}
+{"w":"tongue depressor","m":"설압자","e":"The tongue depressor is wooden.","a":"w_tongue_depressor.wmr","s":"speech-b15ef7e45e9eac77.wav"}
+{"w":"otoscope","m":"귀 검사기","e":"The otoscope lit the ear canal.","a":"w_otoscope.wmr","s":"speech-0b607216173bfb4b.wav"}
+{"w":"reflex hammer","m":"반사 망치","e":"The reflex hammer tapped the knee.","a":"w_reflex_hammer.wmr","s":"speech-f38c965a625239f1.wav"}
+{"w":"blood pressure cuff","m":"혈압 커프","e":"The blood pressure cuff tightened.","a":"w_blood_pressure_cuff.wmr","s":"speech-8e676c1a319e4eb7.wav"}
+{"w":"medical mask","m":"마스크","e":"A medical mask loops both ears.","a":"w_medical_mask.wmr","s":"speech-b323350005b47bbb.wav"}
+{"w":"pill box","m":"약통","e":"Sunday through Saturday, the pill box clicks.","a":"w_pill_box.wmr","s":"speech-2323399cd7d212da.wav"}
+{"w":"eye patch","m":"안대","e":"The pirate wore an eye patch.","a":"w_eye_patch.wmr","s":"speech-097b012dd382c01b.wav"}
+{"w":"cast bandage","m":"깁스 붕대","e":"Friends signed the cast bandage.","a":"w_cast_bandage.wmr","s":"speech-dde5a0243bbd0505.wav"}
+{"w":"kitchen timer","m":"주방 타이머","e":"The kitchen timer dinged at twenty.","a":"w_kitchen_timer.wmr","s":"speech-a11f6a4562028565.wav"}
+{"w":"egg timer","m":"달걀 타이머","e":"An egg timer measures three minutes.","a":"w_egg_timer.wmr","s":"speech-37e48c626e4d7c52.wav"}
+{"w":"mixing bowl","m":"믹싱볼","e":"Whisk batter in the mixing bowl.","a":"w_mixing_bowl.wmr","s":"speech-2ddbc3318882c7b5.wav"}
+{"w":"salad spinner","m":"샐러드 탈수기","e":"Spin the salad, water flies out.","a":"w_salad_spinner.wmr","s":"speech-afbf8a564b739057.wav"}
+{"w":"potato masher","m":"감자 으깨개","e":"Press the potato masher down.","a":"w_potato_masher.wmr","s":"speech-b653a1faa81dc127.wav"}
+{"w":"pizza cutter","m":"피자 커터","e":"Roll the pizza cutter through.","a":"w_pizza_cutter.wmr","s":"speech-67ac1c21c8904ac8.wav"}
+{"w":"pastry brush","m":"제빵 붓","e":"Brush butter with the pastry brush.","a":"w_pastry_brush.wmr","s":"speech-13b800b5b1c078b8.wav"}
+{"w":"cookie cutter","m":"쿠키틀","e":"A star cookie cutter, please.","a":"w_cookie_cutter.wmr","s":"speech-79a948b871fb5330.wav"}
+{"w":"muffin tray","m":"머핀틀","e":"Grease the muffin tray first.","a":"w_muffin_tray.wmr","s":"speech-98479b3b8547711a.wav"}
+{"w":"cake pan","m":"케이크 팬","e":"Line the cake pan with paper.","a":"w_cake_pan.wmr","s":"speech-7568e2b19d94fb60.wav"}
+{"w":"pie dish","m":"파이 접시","e":"Crimp the crust to the pie dish.","a":"w_pie_dish.wmr","s":"speech-bd2bd50b6d40d471.wav"}
+{"w":"colander","m":"채반","e":"Drain pasta in the colander.","a":"w_colander.wmr","s":"speech-52c332cdd01edd58.wav"}
+{"w":"garlic press","m":"마늘 압착기","e":"Squeeze cloves through the garlic press.","a":"w_garlic_press.wmr","s":"speech-64fde4632b383836.wav"}
+{"w":"tea infuser","m":"차 거름망","e":"Loose leaves go in the tea infuser.","a":"w_tea_infuser.wmr","s":"speech-1d757e1cb7251635.wav"}
+{"w":"sugar bowl","m":"설탕 그릇","e":"Two spoons from the sugar bowl.","a":"w_sugar_bowl.wmr","s":"speech-a0ff6b5042438ffa.wav"}
+{"w":"butter dish","m":"버터 접시","e":"The butter dish lid clinked.","a":"w_butter_dish.wmr","s":"speech-5106863a0121d832.wav"}
+{"w":"napkin ring","m":"냅킨 링","e":"Slide the napkin ring off.","a":"w_napkin_ring.wmr","s":"speech-517c7f70947a9df2.wav"}
+{"w":"serving tray","m":"쟁반","e":"Balance the serving tray steady.","a":"w_serving_tray.wmr","s":"speech-92b9960c35c0bb26.wav"}
+{"w":"placemat","m":"식탁 매트","e":"A woven placemat per chair.","a":"w_placemat.wmr","s":"speech-b421b55756c43e0b.wav"}
+{"w":"coaster","m":"컵받침","e":"Use a coaster, no rings.","a":"w_coaster.wmr","s":"speech-f3f76a8f9192b414.wav"}
+{"w":"shoe scraper mat","m":"신발털이 매트","e":"Scrape mud on the shoe scraper mat.","a":"w_shoe_scraper_mat.wmr","s":"speech-0815631d581a89eb.wav"}
+{"w":"shoehorn","m":"구둣주걱","e":"A shoehorn slides the heel in.","a":"w_shoehorn.wmr","s":"speech-5d5f9fbdc1445340.wav"}
+{"w":"shoe brush","m":"구두솔","e":"Buff the leather with a shoe brush.","a":"w_shoe_brush.wmr","s":"speech-2cc323d244a8e990.wav"}
+{"w":"lint roller","m":"먼지 롤러","e":"Roll the lint roller over black pants.","a":"w_lint_roller.wmr","s":"speech-10fba5c7a3688f0c.wav"}
+{"w":"clothespin","m":"빨래집게","e":"Pin each sock with a clothespin.","a":"w_clothespin.wmr","s":"speech-10e271b8be080d69.wav"}
+{"w":"clothesline","m":"빨랫줄","e":"Sheets snap on the clothesline.","a":"w_clothesline.wmr","s":"speech-bd79c94dd3289595.wav"}
+{"w":"laundry scoop","m":"세제 스푼","e":"One laundry scoop per load.","a":"w_laundry_scoop.wmr","s":"speech-9e9790c6b79135ab.wav"}
+{"w":"fabric softener bottle","m":"섬유유연제 병","e":"The fabric softener bottle glugged.","a":"w_fabric_softener_bottle.wmr","s":"speech-10b43c256f433468.wav"}
+{"w":"cleaning cloth","m":"청소 천","e":"Dust the shelf with a cleaning cloth.","a":"w_cleaning_cloth.wmr","s":"speech-9912edecd5b5feac.wav"}
+{"w":"window squeegee","m":"유리 닦이","e":"Draw the window squeegee down.","a":"w_window_squeegee.wmr","s":"speech-eb99e765d655273b.wav"}
+{"w":"dust brush","m":"먼지털이 솔","e":"Sweep the sill with the dust brush.","a":"w_dust_brush.wmr","s":"speech-db8cfe5df24c7c24.wav"}
+{"w":"scrub brush","m":"청소솔","e":"The scrub brush scours the tile.","a":"w_scrub_brush.wmr","s":"speech-23a2e03ba8835a5e.wav"}
+{"w":"garden shears","m":"정원 가위","e":"Trim the hedge with garden shears.","a":"w_garden_shears.wmr","s":"speech-09b16702d8e87824.wav"}
+{"w":"pruning snips","m":"전지가위","e":"Snip dead blooms with the pruning snips.","a":"w_pruning_snips.wmr","s":"speech-7a3b53570764fc63.wav"}
+{"w":"garden gloves","m":"정원 장갑","e":"Garden gloves keep thorns off.","a":"w_garden_gloves.wmr","s":"speech-0fc81270c0967f4a.wav"}
+{"w":"plant saucer","m":"화분 받침","e":"Water pooled in the plant saucer.","a":"w_plant_saucer.wmr","s":"speech-9044465746a263c8.wav"}
+{"w":"terrarium","m":"테라리움","e":"A tiny fern grows in the terrarium.","a":"w_terrarium.wmr","s":"speech-e7eed4f6806cee74.wav"}
+{"w":"bird seed bag","m":"새 모이 봉지","e":"Tie the bird seed bag shut.","a":"w_bird_seed_bag.wmr","s":"speech-3fed14e6163754dd.wav"}
+{"w":"garden kneeler","m":"정원 무릎패드","e":"Pad your knees on the garden kneeler.","a":"w_garden_kneeler.wmr","s":"speech-dc8df5d1a746ceda.wav"}
+{"w":"leaf bag","m":"낙엽 봉투","e":"Stuff the leaf bag to the top.","a":"w_leaf_bag.wmr","s":"speech-f647e4de6e1e3293.wav"}
+{"w":"watering spike","m":"물주기 꽂이","e":"A watering spike drips slowly.","a":"w_watering_spike.wmr","s":"speech-864f478f6194cea2.wav"}
+{"w":"sprinkler head","m":"스프링클러 헤드","e":"The sprinkler head hissed awake.","a":"w_sprinkler_head.wmr","s":"speech-1988a051d8f48d41.wav"}
+{"w":"mail slot","m":"우편 투입구","e":"The postman pushed letters through the mail slot.","a":"w_mail_slot.wmr","s":"speech-36329efee422740b.wav"}
+{"w":"house number tile","m":"집 번호 타일","e":"One house number tile hung crooked.","a":"w_house_number_tile.wmr","s":"speech-d2089af16c6f3681.wav"}
+{"w":"privacy screen","m":"가림막","e":"Bamboo forms a privacy screen.","a":"w_privacy_screen.wmr","s":"speech-62578af0f1556a75.wav"}
+{"w":"door chain","m":"문 안전고리","e":"Latch the door chain at night.","a":"w_door_chain.wmr","s":"speech-7c43e1fa9b02a743.wav"}
+{"w":"cabinet handle","m":"수납장 손잡이","e":"Replace the cabinet handle, it wobbles.","a":"w_cabinet_handle.wmr","s":"speech-b71507251ad9c195.wav"}
+{"w":"hinge","m":"경첩","e":"Oil the squeaky hinge.","a":"w_hinge.wmr","s":"speech-7706c3c94d5f9b59.wav"}
+{"w":"rubber foot","m":"고무 받침","e":"A rubber foot stops the wobble.","a":"w_rubber_foot.wmr","s":"speech-7e4b872f8f763c5f.wav"}
+{"w":"felt pad","m":"가구 보호 패드","e":"Stick a felt pad under each chair leg.","a":"w_felt_pad.wmr","s":"speech-8cc5c6de4c450f08.wav"}
+{"w":"door handle","m":"문손잡이","e":"Push the door handle down.","a":"w_door_handle.wmr","s":"speech-7f1e7f6ca06cd774.wav"}
+{"w":"strike plate","m":"잠금 받이판","e":"The latch missed the strike plate.","a":"w_strike_plate.wmr","s":"speech-ae0f8c8cb5dad5f0.wav"}
+{"w":"flush pull","m":"매입 손잡이","e":"Lift the flush pull recessed in the door.","a":"w_flush_pull.wmr","s":"speech-fca952f1b8e7908d.wav"}
+{"w":"sliding latch","m":"빗장","e":"Slide the latch to lock it.","a":"w_sliding_latch.wmr","s":"speech-d224a061c9ef5106.wav"}
+{"w":"hasp latch","m":"걸쇠 잠금장치","e":"Padlock the hasp latch shut.","a":"w_hasp_latch.wmr","s":"speech-dd6ecbb1841a859b.wav"}
+{"w":"deadbolt lock","m":"문 잠금쇠","e":"Turn the deadbolt lock twice.","a":"w_deadbolt_lock.wmr","s":"speech-3fa2a13b1997f574.wav"}
+{"w":"keyhole plate","m":"열쇠구멍 판","e":"The keyhole plate shone brass.","a":"w_keyhole_plate.wmr","s":"speech-0cf0e643b3eef839.wav"}
+{"w":"gate latch","m":"문걸쇠","e":"The gate latch rattled loose.","a":"w_gate_latch.wmr","s":"speech-5add6c63d958d19a.wav"}
+{"w":"corner brace","m":"모서리 받침쇠","e":"Screw a corner brace on each joint.","a":"w_corner_brace.wmr","s":"speech-a1cd617b78024ab9.wav"}
+{"w":"shelf bracket","m":"선반 받침대","e":"Each shelf bracket holds fifty kilos.","a":"w_shelf_bracket.wmr","s":"speech-eaf8bfc5c41e7c22.wav"}
+{"w":"wall anchor","m":"벽 고정못","e":"A wall anchor grips the drywall.","a":"w_wall_anchor.wmr","s":"speech-e01e54a59b3f1426.wav"}
+{"w":"hex key","m":"육각 렌치","e":"Allen bolts need a hex key.","a":"w_hex_key.wmr","s":"speech-49ab81e1a69632de.wav"}
+{"w":"socket wrench","m":"소켓 렌치","e":"The socket wrench ratchets fast.","a":"w_socket_wrench.wmr","s":"speech-d3ae51ca6b009d32.wav"}
+{"w":"pipe wrench","m":"파이프 렌치","e":"Grip the pipe with a pipe wrench.","a":"w_pipe_wrench.wmr","s":"speech-ef575a81da1bbcc4.wav"}
+{"w":"putty knife","m":"퍼티 나이프","e":"Scrape smooth with the putty knife.","a":"w_putty_knife.wmr","s":"speech-db2dce26501e8d98.wav"}
+{"w":"utility knife","m":"커터칼","e":"Snap a new blade in the utility knife.","a":"w_utility_knife.wmr","s":"speech-d13f5f1e55bee725.wav"}
+{"w":"tool belt","m":"공구 벨트","e":"Hammer loops dangle from the tool belt.","a":"w_tool_belt.wmr","s":"speech-3fd1ec2270dd8376.wav"}
+{"w":"wood plane","m":"대패","e":"Curl shavings with the wood plane.","a":"w_wood_plane.wmr","s":"speech-807e73b1d5f5c2c6.wav"}
+{"w":"chisel","m":"끌","e":"Tap the chisel with a mallet.","a":"w_chisel.wmr","s":"speech-4437f8f0e4476fec.wav"}
+{"w":"brick","m":"벽돌","e":"Lay one brick at a time.","a":"w_brick.wmr","s":"speech-c762830741c126f1.wav"}
+{"w":"cement trowel","m":"시멘트 흙손","e":"Sweep the cement trowel across.","a":"w_cement_trowel.wmr","s":"speech-4e3d5b7db87dac51.wav"}
+{"w":"caulk gun","m":"실리콘 총","e":"Squeeze the caulk gun steadily.","a":"w_caulk_gun.wmr","s":"speech-1eca7b431aa710cc.wav"}
+{"w":"wide paintbrush","m":"넓은 붓","e":"A wide paintbrush covers walls fast.","a":"w_wide_paintbrush.wmr","s":"speech-a4d7cf28169dc2ec.wav"}
+{"w":"drop cloth","m":"보양 천","e":"Spread the drop cloth first.","a":"w_drop_cloth.wmr","s":"speech-5820e6c0f473112f.wav"}
+{"w":"tile spacer","m":"타일 간격재","e":"A tile spacer keeps lines even.","a":"w_tile_spacer.wmr","s":"speech-d6c38869fb4352d2.wav"}
+{"w":"ceramic tile","m":"도자기 타일","e":"Each ceramic tile clicked in place.","a":"w_ceramic_tile.wmr","s":"speech-124df8ce414b8ad7.wav"}
+{"w":"wood plank","m":"나무 판자","e":"One wood plank creaked underfoot.","a":"w_wood_plank.wmr","s":"speech-42a06c5dfcb98f3b.wav"}
+{"w":"sanding block","m":"사포 블록","e":"Rub the sanding block with the grain.","a":"w_sanding_block.wmr","s":"speech-7eb2d43161aab58c.wav"}
+{"w":"extension cord","m":"연장 코드","e":"Uncoil the extension cord fully.","a":"w_extension_cord.wmr","s":"speech-93dedf800360b07c.wav"}
+{"w":"power strip","m":"멀티탭","e":"The power strip flashed red.","a":"w_power_strip.wmr","s":"speech-ee7314b6cba0f3e7.wav"}
+{"w":"night light","m":"무드등","e":"A night light glows in the hall.","a":"w_night_light.wmr","s":"speech-860c1f4faa1b9fa9.wav"}
+{"w":"lamp shade","m":"전등갓","e":"The lamp shade softens the glare.","a":"w_lamp_shade.wmr","s":"speech-b3ecece54703d9b2.wav"}
+{"w":"ceiling fan","m":"천장 선풍기","e":"The ceiling fan hummed overhead.","a":"w_ceiling_fan.wmr","s":"speech-38218a5891af2509.wav"}
+{"w":"air purifier","m":"공기청정기","e":"The air purifier blinked its clean signal.","a":"w_air_purifier.wmr","s":"speech-33d72d4e923420b3.wav"}
+{"w":"humidifier","m":"가습기","e":"Fill the humidifier before sleep.","a":"w_humidifier.wmr","s":"speech-646436abfccbb08a.wav"}
+{"w":"dehumidifier","m":"제습기","e":"The dehumidifier filled in a day.","a":"w_dehumidifier.wmr","s":"speech-c1b4a9f332e933e9.wav"}
+{"w":"space heater","m":"전기 히터","e":"The space heater toasts toes.","a":"w_space_heater.wmr","s":"speech-364dce950783f87a.wav"}
+{"w":"air conditioner","m":"에어컨","e":"The air conditioner dripped in summer.","a":"w_air_conditioner.wmr","s":"speech-b690326d377b032a.wav"}
+{"w":"thermostat","m":"온도 조절기","e":"Nudge the thermostat one degree.","a":"w_thermostat.wmr","s":"speech-3f773687caef7a11.wav"}
+{"w":"smoke detector","m":"화재 감지기","e":"The smoke detector chirped for a battery.","a":"w_smoke_detector.wmr","s":"speech-ca1e03c2c51c42cd.wav"}
+{"w":"carbon monoxide detector","m":"일산화탄소 감지기","e":"A carbon monoxide detector beeps twice.","a":"w_carbon_monoxide_detector.wmr","s":"speech-1c5a595d312f21bc.wav"}
+{"w":"security camera","m":"보안 카메라","e":"The security camera swiveled.","a":"w_security_camera.wmr","s":"speech-7bad1b4568029a69.wav"}
+{"w":"motion sensor","m":"동작 감지기","e":"The motion sensor flooded the yard.","a":"w_motion_sensor.wmr","s":"speech-615b309822c17a2b.wav"}
+{"w":"garage remote","m":"차고 리모컨","e":"The garage remote lost its code.","a":"w_garage_remote.wmr","s":"speech-93bdeda1a4120bbb.wav"}
+{"w":"fan remote","m":"선풍기 리모컨","e":"Where is the fan remote?","a":"w_fan_remote.wmr","s":"speech-0ebf1bb81a08cab5.wav"}
+{"w":"window lock","m":"창문 잠금장치","e":"Flip the window lock shut.","a":"w_window_lock.wmr","s":"speech-31d67771fb252804.wav"}
+{"w":"curtain tieback","m":"커튼 묶개","e":"Hook the curtain tieback.","a":"w_curtain_tieback.wmr","s":"speech-6331b0ed3814bf0c.wav"}
+{"w":"drawer divider","m":"서랍 칸막이","e":"A drawer divider tames socks.","a":"w_drawer_divider.wmr","s":"speech-2d79c1711aa7f676.wav"}
+{"w":"closet rod","m":"옷장 봉","e":"The closet rod sagged with coats.","a":"w_closet_rod.wmr","s":"speech-ef0ec57e93467e1d.wav"}
+{"w":"shoe rack","m":"신발장","e":"The shoe rack stacks three rows.","a":"w_shoe_rack.wmr","s":"speech-4f7f3465e06f71e6.wav"}
+{"w":"umbrella stand","m":"우산꽂이","e":"Dripping umbrellas fill the stand.","a":"w_umbrella_stand.wmr","s":"speech-0f4ed6edae4c1e87.wav"}
+{"w":"magazine rack","m":"잡지 꽂이","e":"The magazine rack overflowed.","a":"w_magazine_rack.wmr","s":"speech-ea649033d88123bb.wav"}
+{"w":"remote holder","m":"리모컨 꽂이","e":"The remote holder sits arm's length away.","a":"w_remote_holder.wmr","s":"speech-2e099f38691fc5f0.wav"}
+{"w":"cable clip","m":"케이블 클립","e":"A cable clip pins the wire down.","a":"w_cable_clip.wmr","s":"speech-81c11bd96a483f5f.wav"}
+{"w":"cord wrap","m":"코드 정리개","e":"Roll the cord around the cord wrap.","a":"w_cord_wrap.wmr","s":"speech-790c59e21eda6797.wav"}
+{"w":"phone stand","m":"휴대폰 거치대","e":"Prop the phone on the stand.","a":"w_phone_stand.wmr","s":"speech-f4a3ec7c62336553.wav"}
+{"w":"tablet stand","m":"태블릿 거치대","e":"The tablet stand tilts for recipes.","a":"w_tablet_stand.wmr","s":"speech-2155bbf0a56cc74f.wav"}
+{"w":"laptop stand","m":"노트북 받침대","e":"A laptop stand lifts the screen.","a":"w_laptop_stand.wmr","s":"speech-cade2c09e48ef798.wav"}
+{"w":"mouse pad","m":"마우스 패드","e":"The mouse glides on the pad.","a":"w_mouse_pad.wmr","s":"speech-0339c123c198fba8.wav"}
+{"w":"wrist rest","m":"손목 받침대","e":"A wrist rest eases typing.","a":"w_wrist_rest.wmr","s":"speech-a657e38dc603d50a.wav"}
+{"w":"screen cleaner","m":"화면 클리너","e":"Spray screen cleaner on the cloth.","a":"w_screen_cleaner.wmr","s":"speech-4b1881bb1f782353.wav"}
+{"w":"lens cloth","m":"렌즈 천","e":"Polish the lens with the cloth.","a":"w_lens_cloth.wmr","s":"speech-f2790f2fc9934eed.wav"}
+{"w":"sd card case","m":"메모리카드 케이스","e":"The sd card case snaps shut.","a":"w_sd_card_case.wmr","s":"speech-06192ff122e572ed.wav"}
+{"w":"earbud case","m":"이어버드 케이스","e":"The earbud case clicks open.","a":"w_earbud_case.wmr","s":"speech-46cbdd2fcf24b062.wav"}
+{"w":"webcam cover","m":"웹캠 가리개","e":"Slide the webcam cover closed.","a":"w_webcam_cover.wmr","s":"speech-2e6d1cf668a17bae.wav"}
+{"w":"stylus pen","m":"터치펜","e":"Sketch with the stylus pen.","a":"w_stylus_pen.wmr","s":"speech-14f7b91921ccc163.wav"}
+{"w":"drawing tablet","m":"그림 태블릿","e":"She inks on a drawing tablet.","a":"w_drawing_tablet.wmr","s":"speech-2d44d577ad8d329b.wav"}
+{"w":"label maker","m":"라벨기","e":"The label maker prints crisp tags.","a":"w_label_maker.wmr","s":"speech-150e345effbd4255.wav"}
+{"w":"desk blotter","m":"책상 매트","e":"A leather desk blotter anchors the desk.","a":"w_desk_blotter.wmr","s":"speech-6447b6415b380b2f.wav"}
+{"w":"file sorter","m":"파일 분류함","e":"Sort mail in the file sorter.","a":"w_file_sorter.wmr","s":"speech-dd26d1a17a8b2061.wav"}
+{"w":"paperweight","m":"문진","e":"A glass paperweight holds the maps.","a":"w_paperweight.wmr","s":"speech-cb915e8396a51f24.wav"}
+{"w":"desk nameplate","m":"책상 이름판","e":"The desk nameplate reads Manager.","a":"w_desk_nameplate.wmr","s":"speech-4b10ca011a469f4f.wav"}
+{"w":"envelope moistener","m":"봉투 접착기","e":"An envelope moistener wets the glue.","a":"w_envelope_moistener.wmr","s":"speech-8c2342e5c19a0067.wav"}
+{"w":"stamp pad","m":"스탬프 패드","e":"Press the stamp on the pad.","a":"w_stamp_pad.wmr","s":"speech-711c12706ef28c1b.wav"}
+{"w":"paper cutter","m":"종이 재단기","e":"Guillotine the stack with the paper cutter.","a":"w_paper_cutter.wmr","s":"speech-ef66fbf3be9055c4.wav"}
+{"w":"laminator","m":"코팅기","e":"The laminator warmed up in a minute.","a":"w_laminator.wmr","s":"speech-be8bdb526aca812e.wav"}
+{"w":"laminating sheet","m":"코팅 필름","e":"Slide the page into a laminating sheet.","a":"w_laminating_sheet.wmr","s":"speech-ed71e2f48a916d88.wav"}
+{"w":"binding comb","m":"제본 링","e":"Thread the binding comb through.","a":"w_binding_comb.wmr","s":"speech-b4d9b73a0970da44.wav"}
+{"w":"badge reel","m":"명찰 릴","e":"The badge reel zips back.","a":"w_badge_reel.wmr","s":"speech-e9ccaa98f1e81942.wav"}
+{"w":"lanyard","m":"목걸이 줄","e":"A lanyard swings the badge.","a":"w_lanyard.wmr","s":"speech-9cb51a561396c77b.wav"}
+{"w":"id card holder","m":"카드 홀더","e":"The id card holder cracked at the corner.","a":"w_id_card_holder.wmr","s":"speech-6591ebd0217e5d2b.wav"}
+{"w":"clear folder","m":"투명 파일","e":"Slip the print into a clear folder.","a":"w_clear_folder.wmr","s":"speech-3f1c79592f976962.wav"}
+{"w":"accordion file","m":"아코디언 파일","e":"The accordion file fans open.","a":"w_accordion_file.wmr","s":"speech-c7dc12a4041e8c55.wav"}
+{"w":"document tube","m":"도면 통","e":"Roll blueprints into the document tube.","a":"w_document_tube.wmr","s":"speech-d4709b409e447ed8.wav"}
+{"w":"poster roll","m":"포스터 말이","e":"The poster roll is rubber-banded.","a":"w_poster_roll.wmr","s":"speech-13613fcd093a9cee.wav"}
+{"w":"craft cutting mat","m":"공예 매트","e":"Score on the craft cutting mat.","a":"w_craft_cutting_mat.wmr","s":"speech-b1ea977a71337f67.wav"}
+{"w":"foam sheet","m":"폼 시트","e":"Cut wings from the foam sheet.","a":"w_foam_sheet.wmr","s":"speech-b700bc142d80a95e.wav"}
+{"w":"craft stick","m":"공예 막대","e":"Glue each craft stick rung.","a":"w_craft_stick.wmr","s":"speech-6630c07d163f9010.wav"}
+{"w":"wooden dowel","m":"나무 막대","e":"Drill through the wooden dowel.","a":"w_wooden_dowel.wmr","s":"speech-cdd0274b31a47210.wav"}
+{"w":"felt board","m":"펠트 보드","e":"Shapes stick to the felt board.","a":"w_felt_board.wmr","s":"speech-65b47eadbfadb5a1.wav"}
+{"w":"mini canvas stand","m":"작은 캔버스 받침","e":"The mini canvas stand displays an easel card.","a":"w_mini_canvas_stand.wmr","s":"speech-322b106c72554953.wav"}
+{"w":"paint water cup","m":"물감 물컵","e":"Rinse brushes in the paint water cup.","a":"w_paint_water_cup.wmr","s":"speech-995a54ae23fc9dea.wav"}
+{"w":"brush rest","m":"붓 받침","e":"Lay wet bristles on the brush rest.","a":"w_brush_rest.wmr","s":"speech-b62f9e5ad36410b5.wav"}
+{"w":"clay tool","m":"점토 도구","e":"Score the clay with a clay tool.","a":"w_clay_tool.wmr","s":"speech-f4e02f3b13df4d21.wav"}
+{"w":"stencil sheet","m":"스텐실 판","e":"Trace stars through the stencil sheet.","a":"w_stencil_sheet.wmr","s":"speech-fc4530a30441086b.wav"}
+{"w":"hole reinforcement","m":"구멍 보강 스티커","e":"Stick a hole reinforcement on the tear.","a":"w_hole_reinforcement.wmr","s":"speech-ea82f2742176f928.wav"}
+{"w":"paper fastener","m":"종이 고정핀","e":"A paper fastener makes arms swing.","a":"w_paper_fastener.wmr","s":"speech-e5dd9a542e7f157e.wav"}
+{"w":"split ring","m":"갈라진 고리","e":"Thread keys onto a split ring.","a":"w_split_ring.wmr","s":"speech-4d5821590fb92dbe.wav"}
+{"w":"snap hook","m":"스냅 고리","e":"The snap hook clips to the bag.","a":"w_snap_hook.wmr","s":"speech-2c0eb1e2d01ec7ae.wav"}
+{"w":"liver","m":"간","e":"The liver filters the blood.","a":"w_liver.wmr","s":"speech-ebaf48a9725795ea.wav"}
+{"w":"water","m":"물","e":"Drink water after running.","a":"w_water.wmr","s":"speech-0f4168490e38b844.wav"}
+{"w":"path","m":"길","e":"A narrow path led to the sea.","a":"w_path.wmr","s":"speech-a0af9f865bf637e6.wav"}
+{"w":"persimmon","m":"감","e":"The persimmon sweetens after frost.","a":"w_persimmon.wmr","s":"speech-13cfa0409143dff0.wav"}
+{"w":"seaweed","m":"김","e":"Seaweed wraps the rice roll.","a":"w_seaweed.wmr","s":"speech-e726c5854df85580.wav"}
+{"w":"chestnut","m":"밤","e":"Roast chestnuts pop in the fire.","a":"w_chestnut.wmr","s":"speech-06d92f17a33b2858.wav"}
+{"w":"river","m":"강","e":"The river bends around the hill.","a":"w_river.wmr","s":"speech-5f5a8ed8f139be6d.wav"}
+{"w":"room","m":"방","e":"My room faces the sunrise.","a":"w_room.wmr","s":"speech-1f1c5b2fad778434.wav"}
+{"w":"award","m":"상","e":"She won an award for painting.","a":"w_award.wmr","s":"speech-b4009662c0116dac.wav"}
+{"w":"soup","m":"탕","e":"Grandma ladles hot soup.","a":"w_soup.wmr","s":"speech-9014fac8184d7ba9.wav"}
